@@ -1,0 +1,211 @@
+
+# 2026-05-13 21:03:39.689997
++y
+
+# 2026-05-13 21:05:06.297775
++d
+
+# 2026-05-13 21:05:20.397378
++y
+
+# 2026-05-13 21:09:47.438122
++Este es un proyecto Unity.
++
++Usa arquitectura limpia.
++No mezcles UI con gameplay.
++Separa sistemas por carpetas.
++Usa código modular.
++Antes de crear sistemas, diseña arquitectura.
++Si necesitas múltiples archivos, créalos.
+
+# 2026-05-13 22:40:39.275448
++Quiero que implementes en mi proyecto de Unity un sistema completo de inventario funcional y visualmente atractivo, totalmente integrado con lo que ya tengo creado en el proyecto.
++
++Contexto del proyecto:
++
++* Es un juego tipo metroidvania en 2D.
++* Ya tengo implementado un menú de pausa que se abre al pulsar la tecla ESC.
++* Dentro del menú de pausa ya existe una sección de ajustes de volumen.
++* Tengo objetos repartidos por el mapa como:
++
++  * Pociones de salud
++  * Flechas
++* Quiero que esos objetos se puedan recoger al tocar/interactuar con ellos y se almacenen automáticamente en un inventario.
++
++Objetivos principales:
++
++1. Crear un sistema de inventario completo.
++2. Diseñar toda la interfaz visual del inventario.
++3. Integrarlo dentro del menú de pausa existente.
++4. Hacer que los objetos sean acumulables.
++5. Poder usar los objetos desde el inventario.
++6. Mantener una arquitectura limpia y escalable.
++
++FUNCIONAMIENTO DEL INVENTARIO:
++
++* Al recoger un objeto:
++
++  * Debe desaparecer del mapa.
++  * Debe añadirse al inventario.
++* Los objetos iguales deben acumularse en el mismo slot.
++
++  * Ejemplo:
++
++    * Si recojo 2 pociones de salud:
++
++      * Solo ocupa un hueco.
++      * Debe aparecer un contador con “2”.
++* El inventario debe soportar:
++
++  * Pociones
++  * Flechas
++  * Objetos futuros fácilmente añadibles.
++* Quiero un sistema basado en:
++
++  * ScriptableObjects para definir items.
++  * InventoryManager centralizado.
++  * Slots dinámicos reutilizables.
++  * UI modular y limpia.
++
++USO DE OBJETOS:
++
++* Al hacer clic en una poción:
++
++  * Se usa UNA sola poción.
++  * Cura vida al jugador.
++  * El contador baja en 1.
++  * Si llega a 0:
++
++    * El slot desaparece o se vacía.
++* Las flechas:
++
++  * Deben aumentar una cantidad total de munición.
++  * Poder integrarse fácilmente con mi sistema actual de disparo.
++* Los objetos deben tener:
++
++  * Icono
++  * Nombre
++  * Descripción
++  * Tipo
++  * Stack máximo
++
++INTERFAZ Y DISEÑO:
++Quiero que diseñes completamente la UI del inventario.
++
++Dentro del menú de pausa:
++
++* A un lado:
++
++  * Mantener mis ajustes de volumen actuales.
++* En el otro lado:
++
++  * Un panel llamado “Inventario”.
++  * Con cuadrículas tipo RPG/metroidvania.
++  * Slots modernos y bonitos.
++  * Hover visual.
++  * Selección visual.
++  * Contador de cantidad.
++  * Iconos centrados.
++  * Tooltip con descripción del objeto.
++
++Diseño visual:
++
++* Estilo oscuro elegante.
++* Inspiración tipo Hollow Knight / Blasphemous / Dead Cells.
++* Bordes suaves.
++* Animaciones simples al abrir.
++* Escalado correcto en distintas resoluciones.
++* Uso correcto de anchors y layout groups.
++* Todo organizado profesionalmente.
++
++INTEGRACIÓN:
++Quiero que adaptes todo al proyecto que ya tengo.
++No quiero un sistema genérico aislado.
++Necesito:
++
++* Qué GameObjects crear.
++* Qué scripts crear.
++* Dónde colocar cada script.
++* Cómo conectar referencias desde el inspector.
++* Cómo modificar mis prefabs actuales de pociones/flechas.
++* Cómo integrarlo con mi Player actual.
++* Cómo integrarlo con mi menú pausa existente.
++
++IMPORTANTE:
++
++* Usa buenas prácticas.
++* Código limpio y comentado.
++* Divide responsabilidades correctamente.
++* Evita código spaghetti.
++* Explica cada paso importante.
++* Genera todos los scripts completos.
++* Incluye:
++
++  * InventoryManager
++  * ItemData
++  * InventorySlot
++  * PickupItem
++  * InventoryUI
++  * TooltipUI
++  * ItemUseSystem
++  * Cualquier otro script necesario.
++
++QUIERO QUE:
++
++* El sistema quede completamente funcional.
++* El diseño quede bonito visualmente.
++* El código sea profesional.
++* Todo esté listo para usar directamente en Unity.
++* Me expliques exactamente cómo configurarlo dentro del editor paso a paso.
++
++Usa C# moderno para Unity.
++Compatible con Unity 2022+.
++Preferiblemente usando TextMeshPro.
++
+
+# 2026-05-13 22:41:21.796717
++si son esos hazlo
+
+# 2026-05-13 22:42:37.122116
++y
+
+# 2026-05-13 22:45:06.914143
++Assets/Scripts/Inventory/ItemData.cs
++
++Este archivo ya existe en el InventoryManager.cs, así que no es necesario crearlo nuevamente.
++
++Assets/Prefabs/HealthPotion.prefab
++
++Asegúrate de que tu prefab de poción tenga un componente PickupItem y asignarle los datos del item correspondiente.
++
++Assets/Prefabs/Arrow.prefab
++
++Asegúrate de que tu prefab de flecha tenga un componente PickupItem y asignarle los datos del item correspondiente.
++
++Integración con el menú de pausa:
++
++ 1 Añade un panel "Inventario" al lado de los ajustes de volumen en tu menú de pausa.
++ 2 Asigna el script InventoryUI a este panel.
++ 3 Configura la propiedad inventorySlotsParent del componente InventoryUI para que apunte al contenedor donde se crearán
++   los slots del inventario.
++
++Integración con el jugador:
++
++ 1 Asegúrate de que tu jugador tenga un componente ItemUseSystem.
++ 2 Asigna el script InventoryManager a este componente.
++
++Configuración en el editor:
++
++ 1 Crea una instancia del InventoryManager en la escena.
++ 2 Asegúrate de que los prefabs de pociones y flechas tengan componentes PickupItem con los datos del item
++   correspondientes.
++ 3 Asigna el script InventoryUI al panel "Inventario" en tu menú de pausa.
++
++Este sistema debería ser funcional y visualmente atractivo, siguiendo las mejores prácticas de arquitectura limpia y
++modularidad, hazme esas cosas tambien por que yo no se jajja
+
+# 2026-05-13 22:54:44.190453
++analiza mi proyecto entero y miralo bien el codigo por que me salen muchos fallos en el codigo de los archivos
+
+# 2026-05-13 23:03:23.393925
++bro analiza todo por que me salen errores

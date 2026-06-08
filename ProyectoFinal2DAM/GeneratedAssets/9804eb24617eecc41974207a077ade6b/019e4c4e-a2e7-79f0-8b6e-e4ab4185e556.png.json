@@ -1,0 +1,28 @@
+{
+    "asset": "9804eb24617eecc41974207a077ade6b",
+    "fileName": "019e4c4e-a2e7-79f0-8b6e-e4ab4185e556.png",
+    "prompt": "A blue mana potion bottle, 16-bit pixel art style, game asset, clear glass with glowing blue liquid inside, simple clean silhouette, white background",
+    "negativePrompt": "",
+    "model": "gemini-3.1-flash",
+    "modelName": "Gemini 3.1 Nano Banana 2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

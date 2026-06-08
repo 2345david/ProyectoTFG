@@ -1,0 +1,38 @@
+{
+    "asset": "f6e5b73e8361a9e4e863a0378df511fa",
+    "fileName": "019e3cba-dfb0-7537-a017-032a02e781fe.png",
+    "prompt": "A pixel art medal icon for a dash ability. Circular silver or blue medal with a stylized trail or lightning bolt icon in the center. Gothicvania pixel art style, matches reference hero sprite. transparent background.",
+    "negativePrompt": "",
+    "model": "gemini-3.1-flash",
+    "modelName": "Gemini 3.1 Nano Banana 2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": [
+            {
+                "doodleReferenceType": 7,
+                "doodle": [],
+                "label": "Image",
+                "strength": 0.25,
+                "invertStrength": false,
+                "assetReferenceGuid": "2e93c637a24e04d8ea6b2cfd9df53739",
+                "unlabeledIndex": -1
+            }
+        ]
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/MetroidvaniaSystem/Scenes/PersistentScene.unity
+    guid: 7dd37e0991955e04b929842d1d93e3f5
+  - enabled: 1
+    path: Assets/MetroidvaniaSystem/Scenes/WorldScenes/Biome_Forest.unity
+    guid: a1372c9cb3b675040ad32078cb843c33
+  - enabled: 1
+    path: Assets/MetroidvaniaSystem/Scenes/WorldScenes/Biome_Caves.unity
+    guid: 9330a36b8dd5ef14e8a8bb1af55658b1
+  - enabled: 1
+    path: Assets/MetroidvaniaSystem/Scenes/WorldScenes/Biome_Castle.unity
+    guid: 35691be964faa7a44bbbc7a11f75ceae
+  - enabled: 1
+    path: Assets/Gothicvania Cemetery Artwork/Scenes/Juego.unity
+    guid: 70d5134c1fcc681478f03cff12d7b12a
+  - enabled: 1
+    path: Assets/Gothicvania Cemetery Artwork/Scenes/demo.unity
+    guid: a5acc8f1f38ee46c8ada7ef1a56774d2
+  m_configObjects:
+    com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
