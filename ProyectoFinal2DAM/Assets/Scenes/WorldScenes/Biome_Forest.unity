@@ -40169,21 +40169,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DialogueNPC
   npcName: Mujer Misteriosa
   dialogueLines:
-  - "Si est\xE1s escuchando esto... a\xFAn queda esperanza."
-  - "Hace tres noches, unos hombres llegaron al pueblo bajo la oscuridad de una tormenta.
-    Nadie vio sus rostros, nadie escuch\xF3 sus nombres. Cuando amaneci\xF3, ya se
-    hab\xEDan llevado a tu hija."
+  - Si estas escuchando esto... aun queda esperanza.
+  - Hace tres noches, unos hombres llegaron al pueblo bajo la oscuridad de una tormenta.
+    Nadie vio sus rostros, nadie escucho sus nombres. Cuando amanecio, ya se habian
+    llevado a tu hija.
   - Los guardias intentaron seguir su rastro, pero desaparecieron en las tierras
     prohibidas del norte. Un lugar del que pocos regresan.
-  - "S\xE9 que est\xE1s cansado. S\xE9 que el miedo intenta detenerte. Pero ella
-    sigue ah\xED fuera, esperando que vengas por ella."
-  - "Tu viaje no ser\xE1 f\xE1cil. Criaturas salvajes, ruinas olvidadas y enemigos
-    que har\xEDan cualquier cosa para ocultar la verdad se interpondr\xE1n en tu
-    camino."
+  - Se que estas cansado. Se que el miedo intenta detenerte. Pero ella sigue ahi
+    fuera, esperando que vengas por ella.
+  - Tu viaje no sera facil. Criaturas salvajes, ruinas olvidadas y enemigos que harian
+    cualquier cosa para ocultar la verdad se interpondran en tu camino.
   - Pero eres su padre.
-  - "Y no existe fuerza m\xE1s poderosa que alguien que lucha por su familia."
-  - "Encuentra las pistas. Sigue el rastro de los secuestradores. Descubre qui\xE9n
-    est\xE1 detr\xE1s de todo esto."
+  - Y no existe fuerza mas poderosa que alguien que lucha por su familia.
+  - Encuentra las pistas. Sigue el rastro de los secuestradores. Descubre quien esta
+    detras de todo esto.
   - Y trae a tu hija de vuelta a casa.
   - Antes de que sea demasiado tarde.
   dialoguePanel: {fileID: 0}

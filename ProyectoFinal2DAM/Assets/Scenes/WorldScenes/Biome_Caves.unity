@@ -16537,7 +16537,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 906c99cb2053c494bbe81e44e9b0b9e7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Metroidvania.Gameplay.TransitionTrigger
-  targetScene: Biome_Caves
+  targetScene: Biome_Forest
   targetSpawnTag: Spawn_Start
 --- !u!61 &621973364
 BoxCollider2D:

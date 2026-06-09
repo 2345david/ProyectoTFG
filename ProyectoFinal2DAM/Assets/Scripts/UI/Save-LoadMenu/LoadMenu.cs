@@ -79,7 +79,7 @@ public class LoadMenu : MonoBehaviour
             else
             {
                 UIElementUtils.SetButtonText(slotButtons[i],
-                    "Ranura " + (i + 1) + "\n(vacía - nueva partida)");
+                    "Ranura " + (i + 1) + "\n(vacia - nueva partida)");
 
                 if (deleteButtons != null && i < deleteButtons.Length)
                     deleteButtons[i].gameObject.SetActive(false);

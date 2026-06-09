@@ -11,10 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/UI/LoadSaveMenu.unity
     guid: e29cff7a32c75b54896db07dd5b47d43
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/UI/PauseMenu.unity
     guid: 9bd5790a9eb739b41a1e68a4c441ace4
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Ejemplo/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
@@ -29,10 +29,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/WorldScenes/Biome_Castle.unity
     guid: 181c062a563e0da44ad92caec8104322
-  - enabled: 1
+  - enabled: 0
     path: Assets/ThirdParty/Gothicvania Cemetery Artwork/Scenes/Juego.unity
     guid: 70d5134c1fcc681478f03cff12d7b12a
-  - enabled: 1
+  - enabled: 0
     path: Assets/ThirdParty/Gothicvania Cemetery Artwork/Scenes/demo.unity
     guid: a5acc8f1f38ee46c8ada7ef1a56774d2
   m_configObjects:
