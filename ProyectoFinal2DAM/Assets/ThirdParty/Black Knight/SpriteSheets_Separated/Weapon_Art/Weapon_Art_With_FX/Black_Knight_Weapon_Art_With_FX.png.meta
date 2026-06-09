@@ -1,0 +1,2444 @@
+fileFormatVersion: 2
+guid: 4f78bc499baef1346821f51a956771bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5048490008198847668
+    second: Black_Knight_Weapon_Art_With_FX_0
+  - first:
+      213: 687249924096392877
+    second: Black_Knight_Weapon_Art_With_FX_1
+  - first:
+      213: -8035664932025350401
+    second: Black_Knight_Weapon_Art_With_FX_2
+  - first:
+      213: 2275267209915927135
+    second: Black_Knight_Weapon_Art_With_FX_3
+  - first:
+      213: 7586813951880013914
+    second: Black_Knight_Weapon_Art_With_FX_4
+  - first:
+      213: 7975130635474234377
+    second: Black_Knight_Weapon_Art_With_FX_5
+  - first:
+      213: -2239983637315931831
+    second: Black_Knight_Weapon_Art_With_FX_6
+  - first:
+      213: -1602316088516790889
+    second: Black_Knight_Weapon_Art_With_FX_7
+  - first:
+      213: -1249806889314067353
+    second: Black_Knight_Weapon_Art_With_FX_8
+  - first:
+      213: 2944956756283856203
+    second: Black_Knight_Weapon_Art_With_FX_9
+  - first:
+      213: 1385341431928600413
+    second: Black_Knight_Weapon_Art_With_FX_10
+  - first:
+      213: 795146210839058172
+    second: Black_Knight_Weapon_Art_With_FX_11
+  - first:
+      213: -6474869618707981823
+    second: Black_Knight_Weapon_Art_With_FX_12
+  - first:
+      213: 9193569032254302166
+    second: Black_Knight_Weapon_Art_With_FX_13
+  - first:
+      213: -8142434639872224793
+    second: Black_Knight_Weapon_Art_With_FX_14
+  - first:
+      213: 567318550749759185
+    second: Black_Knight_Weapon_Art_With_FX_15
+  - first:
+      213: -4394709936765492074
+    second: Black_Knight_Weapon_Art_With_FX_16
+  - first:
+      213: -2768726645557144914
+    second: Black_Knight_Weapon_Art_With_FX_17
+  - first:
+      213: -5268006847471557651
+    second: Black_Knight_Weapon_Art_With_FX_18
+  - first:
+      213: 4459058551198901422
+    second: Black_Knight_Weapon_Art_With_FX_19
+  - first:
+      213: 9007781623052286299
+    second: Black_Knight_Weapon_Art_With_FX_20
+  - first:
+      213: -8035252685073278912
+    second: Black_Knight_Weapon_Art_With_FX_21
+  - first:
+      213: 4647335442653529740
+    second: Black_Knight_Weapon_Art_With_FX_22
+  - first:
+      213: 185272311876251605
+    second: Black_Knight_Weapon_Art_With_FX_23
+  - first:
+      213: -2210310456206966786
+    second: Black_Knight_Weapon_Art_With_FX_24
+  - first:
+      213: -5900327852395838995
+    second: Black_Knight_Weapon_Art_With_FX_25
+  - first:
+      213: 3741447342173502282
+    second: Black_Knight_Weapon_Art_With_FX_26
+  - first:
+      213: -1253358460658352836
+    second: Black_Knight_Weapon_Art_With_FX_27
+  - first:
+      213: 738956790370109418
+    second: Black_Knight_Weapon_Art_With_FX_28
+  - first:
+      213: -6145998282682320745
+    second: Black_Knight_Weapon_Art_With_FX_29
+  - first:
+      213: 73573882800812092
+    second: Black_Knight_Weapon_Art_With_FX_30
+  - first:
+      213: 5352626751330864475
+    second: Black_Knight_Weapon_Art_With_FX_31
+  - first:
+      213: -4208957493438691927
+    second: Black_Knight_Weapon_Art_With_FX_32
+  - first:
+      213: -5394066874322471144
+    second: Black_Knight_Weapon_Art_With_FX_33
+  - first:
+      213: 1387548101921785259
+    second: Black_Knight_Weapon_Art_With_FX_34
+  - first:
+      213: 6504844124886089303
+    second: Black_Knight_Weapon_Art_With_FX_35
+  - first:
+      213: -7287465069027486474
+    second: Black_Knight_Weapon_Art_With_FX_36
+  - first:
+      213: -1848582101803822630
+    second: Black_Knight_Weapon_Art_With_FX_37
+  - first:
+      213: -4138395290236920309
+    second: Black_Knight_Weapon_Art_With_FX_38
+  - first:
+      213: -2017634168106172353
+    second: Black_Knight_Weapon_Art_With_FX_39
+  - first:
+      213: 8984526378227186277
+    second: Black_Knight_Weapon_Art_With_FX_40
+  - first:
+      213: 8469506020808727309
+    second: Black_Knight_Weapon_Art_With_FX_41
+  - first:
+      213: -1316772382889667775
+    second: Black_Knight_Weapon_Art_With_FX_42
+  - first:
+      213: 6582152603247755859
+    second: Black_Knight_Weapon_Art_With_FX_43
+  - first:
+      213: 2051740025657651901
+    second: Black_Knight_Weapon_Art_With_FX_44
+  - first:
+      213: 6213429257025123180
+    second: Black_Knight_Weapon_Art_With_FX_45
+  - first:
+      213: -2071025778519539732
+    second: Black_Knight_Weapon_Art_With_FX_46
+  - first:
+      213: 3814643158675645515
+    second: Black_Knight_Weapon_Art_With_FX_47
+  - first:
+      213: -7532909010486124329
+    second: Black_Knight_Weapon_Art_With_FX_48
+  - first:
+      213: -2159550271382039327
+    second: Black_Knight_Weapon_Art_With_FX_49
+  - first:
+      213: 3395335047795015169
+    second: Black_Knight_Weapon_Art_With_FX_50
+  - first:
+      213: 8298624527743760690
+    second: Black_Knight_Weapon_Art_With_FX_51
+  - first:
+      213: -350334479480613348
+    second: Black_Knight_Weapon_Art_With_FX_52
+  - first:
+      213: -760574366952747340
+    second: Black_Knight_Weapon_Art_With_FX_53
+  - first:
+      213: 3293027868195273104
+    second: Black_Knight_Weapon_Art_With_FX_54
+  - first:
+      213: 6704416670296590417
+    second: Black_Knight_Weapon_Art_With_FX_55
+  - first:
+      213: 6028736898467175830
+    second: Black_Knight_Weapon_Art_With_FX_56
+  - first:
+      213: 7924919669020939685
+    second: Black_Knight_Weapon_Art_With_FX_57
+  - first:
+      213: 658353832621292300
+    second: Black_Knight_Weapon_Art_With_FX_58
+  - first:
+      213: -3727695541920535160
+    second: Black_Knight_Weapon_Art_With_FX_59
+  - first:
+      213: -5307668165308682980
+    second: Black_Knight_Weapon_Art_With_FX_60
+  - first:
+      213: 1006289537370904672
+    second: Black_Knight_Weapon_Art_With_FX_61
+  - first:
+      213: -2188003425543955805
+    second: Black_Knight_Weapon_Art_With_FX_62
+  - first:
+      213: 5168500157881994916
+    second: Black_Knight_Weapon_Art_With_FX_63
+  - first:
+      213: 6924861799036956739
+    second: Black_Knight_Weapon_Art_With_FX_64
+  - first:
+      213: -2748982499714255298
+    second: Black_Knight_Weapon_Art_With_FX_65
+  - first:
+      213: -6147265869011149991
+    second: Black_Knight_Weapon_Art_With_FX_66
+  - first:
+      213: 1695231124123414882
+    second: Black_Knight_Weapon_Art_With_FX_67
+  - first:
+      213: 5307464484554336770
+    second: Black_Knight_Weapon_Art_With_FX_68
+  - first:
+      213: -23143265902445939
+    second: Black_Knight_Weapon_Art_With_FX_69
+  - first:
+      213: 3800706794255827154
+    second: Black_Knight_Weapon_Art_With_FX_70
+  - first:
+      213: -2998296042721901074
+    second: Black_Knight_Weapon_Art_With_FX_71
+  - first:
+      213: 8230996168421816473
+    second: Black_Knight_Weapon_Art_With_FX_72
+  - first:
+      213: -2892177025982892271
+    second: Black_Knight_Weapon_Art_With_FX_73
+  - first:
+      213: 1210212835292885131
+    second: Black_Knight_Weapon_Art_With_FX_74
+  - first:
+      213: 3600367607486253709
+    second: Black_Knight_Weapon_Art_With_FX_75
+  - first:
+      213: 6765991427701635138
+    second: Black_Knight_Weapon_Art_With_FX_76
+  - first:
+      213: -7669262385750867341
+    second: Black_Knight_Weapon_Art_With_FX_77
+  - first:
+      213: -7038308864747689558
+    second: Black_Knight_Weapon_Art_With_FX_78
+  - first:
+      213: -7181752743920050945
+    second: Black_Knight_Weapon_Art_With_FX_79
+  - first:
+      213: 8374477397777123381
+    second: Black_Knight_Weapon_Art_With_FX_80
+  - first:
+      213: 8562181346773622657
+    second: Black_Knight_Weapon_Art_With_FX_81
+  - first:
+      213: 7021248560521619360
+    second: Black_Knight_Weapon_Art_With_FX_82
+  - first:
+      213: 3286779447755323754
+    second: Black_Knight_Weapon_Art_With_FX_83
+  - first:
+      213: 8903079115375730575
+    second: Black_Knight_Weapon_Art_With_FX_84
+  - first:
+      213: 4634989754050268310
+    second: Black_Knight_Weapon_Art_With_FX_85
+  - first:
+      213: -1445694285154003477
+    second: Black_Knight_Weapon_Art_With_FX_86
+  - first:
+      213: 8805742924386765308
+    second: Black_Knight_Weapon_Art_With_FX_87
+  - first:
+      213: 5210347413904127474
+    second: Black_Knight_Weapon_Art_With_FX_88
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 319
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc1dc61ae6df0640800000000000000
+      internalID: 5048490008198847668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 319
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daefdad2a2a998900800000000000000
+      internalID: 687249924096392877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_2
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 319
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6c090b1559b7090800000000000000
+      internalID: -8035664932025350401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_3
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 319
+        width: 61
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a0228f87f539f10800000000000000
+      internalID: 2275267209915927135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_4
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 319
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5829c2b717c94960800000000000000
+      internalID: 7586813951880013914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_5
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 345
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ce6c41f0b5dae60800000000000000
+      internalID: 7975130635474234377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_6
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 320
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941b813ffbaf9e0e0800000000000000
+      internalID: -2239983637315931831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_7
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 319
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7953016c10e63c9e0800000000000000
+      internalID: -1602316088516790889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_8
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 346
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c5994814bc7aee0800000000000000
+      internalID: -1249806889314067353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_9
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 344
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b459f2911969ed820800000000000000
+      internalID: 2944956756283856203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_10
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 331
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d573cb641b8b93310800000000000000
+      internalID: 1385341431928600413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_11
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 320
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf65f81144de80b00800000000000000
+      internalID: 795146210839058172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_12
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 326
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a11f91364a426a0800000000000000
+      internalID: -6474869618707981823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_13
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 255
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7ac81435e169f70800000000000000
+      internalID: 9193569032254302166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_14
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 276
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e19493e5d2400f80800000000000000
+      internalID: -8142434639872224793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_15
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 255
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6cde357358fd700800000000000000
+      internalID: 567318550749759185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_16
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 276
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694a630c89ad203c0800000000000000
+      internalID: -4394709936765492074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_17
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 255
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2586309c18399d0800000000000000
+      internalID: -2768726645557144914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_18
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 255
+        width: 77
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3e12eeea744e6b0800000000000000
+      internalID: -5268006847471557651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_19
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 283
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4e0e09022c1ed30800000000000000
+      internalID: 4459058551198901422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_20
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 286
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59b25039a1120d70800000000000000
+      internalID: 9007781623052286299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_21
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 276
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04814b9614c0d7090800000000000000
+      internalID: -8035252685073278912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_22
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 268
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86427366f6ae7040800000000000000
+      internalID: 4647335442653529740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_23
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 263
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df6910af28329200800000000000000
+      internalID: 185272311876251605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_24
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 257
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effb37ec9566351e0800000000000000
+      internalID: -2210310456206966786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_25
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 255
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de14a9b5413dd1ea0800000000000000
+      internalID: -5900327852395838995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_26
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 255
+        width: 72
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4bb410e88a4ce330800000000000000
+      internalID: 3741447342173502282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_27
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 271
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d7a30ee1d2b9ee0800000000000000
+      internalID: -1253358460658352836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_28
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 261
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae78f52294d414a00800000000000000
+      internalID: 738956790370109418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_29
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 270
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7983f82ff1705baa0800000000000000
+      internalID: -6145998282682320745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_30
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 256
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30b61d7e03650100800000000000000
+      internalID: 73573882800812092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_31
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 191
+        width: 62
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d4450cba9584a40800000000000000
+      internalID: 5352626751330864475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_32
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 223
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a54ed0b577c695c0800000000000000
+      internalID: -4208957493438691927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_33
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 214
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817be4db1cc6425b0800000000000000
+      internalID: -5394066874322471144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_34
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 191
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5c0dba5af814310800000000000000
+      internalID: 1387548101921785259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_35
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 203
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e3f177449d54a50800000000000000
+      internalID: 6504844124886089303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_36
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 191
+        width: 72
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f49c8f5129bdda90800000000000000
+      internalID: -7287465069027486474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_37
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 191
+        width: 65
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad196d36f548856e0800000000000000
+      internalID: -1848582101803822630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_38
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 220
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e5741e8677196c0800000000000000
+      internalID: -4138395290236920309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_39
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 191
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30475bf96ceff3e0800000000000000
+      internalID: -2017634168106172353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_40
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 205
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56abb5193237fac70800000000000000
+      internalID: 8984526378227186277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_41
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 191
+        width: 74
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b16514adab98570800000000000000
+      internalID: 8469506020808727309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_42
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 194
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14311db8e72e9bde0800000000000000
+      internalID: -1316772382889667775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_43
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 192
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352cefd3be0885b50800000000000000
+      internalID: 6582152603247755859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_44
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 127
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db276c8ceae397c10800000000000000
+      internalID: 2051740025657651901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_45
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 127
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6370063df88a3650800000000000000
+      internalID: 6213429257025123180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_46
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 127
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef7aa6f60d3243e0800000000000000
+      internalID: -2071025778519539732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_47
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 127
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b446cb1fdb550f430800000000000000
+      internalID: 3814643158675645515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_48
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 103
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0a2a08a2bb57790800000000000000
+      internalID: -7532909010486124329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_49
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 127
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4dcaf487cb702e0800000000000000
+      internalID: -2159550271382039327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_50
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 109
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e71499c37ae1f20800000000000000
+      internalID: 3395335047795015169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_51
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 71
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239b28c3a03aa2370800000000000000
+      internalID: 8298624527743760690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_52
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 110
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c169cf5a5ac532bf0800000000000000
+      internalID: -350334479480613348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_53
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 116
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be838894a5e175f0800000000000000
+      internalID: -760574366952747340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_54
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 67
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099bd3f166f23bd20800000000000000
+      internalID: 3293027868195273104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_55
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 63
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1584c3ba07fda0d50800000000000000
+      internalID: 6704416670296590417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_56
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 110
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d1d6d74406aa350800000000000000
+      internalID: 6028736898467175830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_57
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 63
+        width: 81
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5df717378fafd60800000000000000
+      internalID: 7924919669020939685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_58
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 108
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0bb8e99251f22900800000000000000
+      internalID: 658353832621292300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_59
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 98
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88de401a7a0944cc0800000000000000
+      internalID: -3727695541920535160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_60
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 105
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d6025ccef5756b0800000000000000
+      internalID: -5307668165308682980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_61
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 99
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0685f20b00f07fd00800000000000000
+      internalID: 1006289537370904672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_62
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 70
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa5d1d1a76a2a1e0800000000000000
+      internalID: -2188003425543955805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_63
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 105
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae4b1c72833ab740800000000000000
+      internalID: 5168500157881994916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_64
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 99
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3403542ed1d0a1060800000000000000
+      internalID: 6924861799036956739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_65
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 103
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3634c23bf6a9d9d0800000000000000
+      internalID: -2748982499714255298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_66
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 91
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b15b1034680baa0800000000000000
+      internalID: -6147265869011149991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_67
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 87
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261ff85c9bba68710800000000000000
+      internalID: 1695231124123414882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_68
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 90
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20aecdb14d6e7a940800000000000000
+      internalID: 5307464484554336770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_69
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 90
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a31f08257cdaff0800000000000000
+      internalID: -23143265902445939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_70
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 63
+        width: 55
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0480f31b2deb430800000000000000
+      internalID: 3800706794255827154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_71
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 81
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee50a1282a9e366d0800000000000000
+      internalID: -2998296042721901074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_72
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 63
+        width: 57
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998326ec76f5a3270800000000000000
+      internalID: 8230996168421816473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_73
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 82
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1177eba715cecd7d0800000000000000
+      internalID: -2892177025982892271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_74
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 77
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b803046692a8bc010800000000000000
+      internalID: 1210212835292885131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_75
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a8a01734317f130800000000000000
+      internalID: 3600367607486253709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_76
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 71
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2487e711b51a5ed50800000000000000
+      internalID: 6765991427701635138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_77
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 73
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3720e006e7e419590800000000000000
+      internalID: -7669262385750867341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_78
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 63
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa92b39c067e25e90800000000000000
+      internalID: -7038308864747689558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_79
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 63
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc55f11ee9455c90800000000000000
+      internalID: -7181752743920050945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_80
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 63
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5380b0ac2de183470800000000000000
+      internalID: 8374477397777123381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_81
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 35
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fdaec029af2d670800000000000000
+      internalID: 8562181346773622657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_82
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a72d999d5c707160800000000000000
+      internalID: 7021248560521619360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_83
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 58
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69b28e5e7cfc9d20800000000000000
+      internalID: 3286779447755323754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_84
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 25
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f5b2fe8471e8b70800000000000000
+      internalID: 8903079115375730575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_85
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 0
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ccdb3cf9ac25040800000000000000
+      internalID: 4634989754050268310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_86
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 0
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5559f05bcdfebe0800000000000000
+      internalID: -1445694285154003477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_87
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 0
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf98b7fe888443a70800000000000000
+      internalID: 8805742924386765308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Weapon_Art_With_FX_88
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 7
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5712a0e5fde4840800000000000000
+      internalID: 5210347413904127474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Black_Knight_Weapon_Art_With_FX_0: 5048490008198847668
+      Black_Knight_Weapon_Art_With_FX_1: 687249924096392877
+      Black_Knight_Weapon_Art_With_FX_10: 1385341431928600413
+      Black_Knight_Weapon_Art_With_FX_11: 795146210839058172
+      Black_Knight_Weapon_Art_With_FX_12: -6474869618707981823
+      Black_Knight_Weapon_Art_With_FX_13: 9193569032254302166
+      Black_Knight_Weapon_Art_With_FX_14: -8142434639872224793
+      Black_Knight_Weapon_Art_With_FX_15: 567318550749759185
+      Black_Knight_Weapon_Art_With_FX_16: -4394709936765492074
+      Black_Knight_Weapon_Art_With_FX_17: -2768726645557144914
+      Black_Knight_Weapon_Art_With_FX_18: -5268006847471557651
+      Black_Knight_Weapon_Art_With_FX_19: 4459058551198901422
+      Black_Knight_Weapon_Art_With_FX_2: -8035664932025350401
+      Black_Knight_Weapon_Art_With_FX_20: 9007781623052286299
+      Black_Knight_Weapon_Art_With_FX_21: -8035252685073278912
+      Black_Knight_Weapon_Art_With_FX_22: 4647335442653529740
+      Black_Knight_Weapon_Art_With_FX_23: 185272311876251605
+      Black_Knight_Weapon_Art_With_FX_24: -2210310456206966786
+      Black_Knight_Weapon_Art_With_FX_25: -5900327852395838995
+      Black_Knight_Weapon_Art_With_FX_26: 3741447342173502282
+      Black_Knight_Weapon_Art_With_FX_27: -1253358460658352836
+      Black_Knight_Weapon_Art_With_FX_28: 738956790370109418
+      Black_Knight_Weapon_Art_With_FX_29: -6145998282682320745
+      Black_Knight_Weapon_Art_With_FX_3: 2275267209915927135
+      Black_Knight_Weapon_Art_With_FX_30: 73573882800812092
+      Black_Knight_Weapon_Art_With_FX_31: 5352626751330864475
+      Black_Knight_Weapon_Art_With_FX_32: -4208957493438691927
+      Black_Knight_Weapon_Art_With_FX_33: -5394066874322471144
+      Black_Knight_Weapon_Art_With_FX_34: 1387548101921785259
+      Black_Knight_Weapon_Art_With_FX_35: 6504844124886089303
+      Black_Knight_Weapon_Art_With_FX_36: -7287465069027486474
+      Black_Knight_Weapon_Art_With_FX_37: -1848582101803822630
+      Black_Knight_Weapon_Art_With_FX_38: -4138395290236920309
+      Black_Knight_Weapon_Art_With_FX_39: -2017634168106172353
+      Black_Knight_Weapon_Art_With_FX_4: 7586813951880013914
+      Black_Knight_Weapon_Art_With_FX_40: 8984526378227186277
+      Black_Knight_Weapon_Art_With_FX_41: 8469506020808727309
+      Black_Knight_Weapon_Art_With_FX_42: -1316772382889667775
+      Black_Knight_Weapon_Art_With_FX_43: 6582152603247755859
+      Black_Knight_Weapon_Art_With_FX_44: 2051740025657651901
+      Black_Knight_Weapon_Art_With_FX_45: 6213429257025123180
+      Black_Knight_Weapon_Art_With_FX_46: -2071025778519539732
+      Black_Knight_Weapon_Art_With_FX_47: 3814643158675645515
+      Black_Knight_Weapon_Art_With_FX_48: -7532909010486124329
+      Black_Knight_Weapon_Art_With_FX_49: -2159550271382039327
+      Black_Knight_Weapon_Art_With_FX_5: 7975130635474234377
+      Black_Knight_Weapon_Art_With_FX_50: 3395335047795015169
+      Black_Knight_Weapon_Art_With_FX_51: 8298624527743760690
+      Black_Knight_Weapon_Art_With_FX_52: -350334479480613348
+      Black_Knight_Weapon_Art_With_FX_53: -760574366952747340
+      Black_Knight_Weapon_Art_With_FX_54: 3293027868195273104
+      Black_Knight_Weapon_Art_With_FX_55: 6704416670296590417
+      Black_Knight_Weapon_Art_With_FX_56: 6028736898467175830
+      Black_Knight_Weapon_Art_With_FX_57: 7924919669020939685
+      Black_Knight_Weapon_Art_With_FX_58: 658353832621292300
+      Black_Knight_Weapon_Art_With_FX_59: -3727695541920535160
+      Black_Knight_Weapon_Art_With_FX_6: -2239983637315931831
+      Black_Knight_Weapon_Art_With_FX_60: -5307668165308682980
+      Black_Knight_Weapon_Art_With_FX_61: 1006289537370904672
+      Black_Knight_Weapon_Art_With_FX_62: -2188003425543955805
+      Black_Knight_Weapon_Art_With_FX_63: 5168500157881994916
+      Black_Knight_Weapon_Art_With_FX_64: 6924861799036956739
+      Black_Knight_Weapon_Art_With_FX_65: -2748982499714255298
+      Black_Knight_Weapon_Art_With_FX_66: -6147265869011149991
+      Black_Knight_Weapon_Art_With_FX_67: 1695231124123414882
+      Black_Knight_Weapon_Art_With_FX_68: 5307464484554336770
+      Black_Knight_Weapon_Art_With_FX_69: -23143265902445939
+      Black_Knight_Weapon_Art_With_FX_7: -1602316088516790889
+      Black_Knight_Weapon_Art_With_FX_70: 3800706794255827154
+      Black_Knight_Weapon_Art_With_FX_71: -2998296042721901074
+      Black_Knight_Weapon_Art_With_FX_72: 8230996168421816473
+      Black_Knight_Weapon_Art_With_FX_73: -2892177025982892271
+      Black_Knight_Weapon_Art_With_FX_74: 1210212835292885131
+      Black_Knight_Weapon_Art_With_FX_75: 3600367607486253709
+      Black_Knight_Weapon_Art_With_FX_76: 6765991427701635138
+      Black_Knight_Weapon_Art_With_FX_77: -7669262385750867341
+      Black_Knight_Weapon_Art_With_FX_78: -7038308864747689558
+      Black_Knight_Weapon_Art_With_FX_79: -7181752743920050945
+      Black_Knight_Weapon_Art_With_FX_8: -1249806889314067353
+      Black_Knight_Weapon_Art_With_FX_80: 8374477397777123381
+      Black_Knight_Weapon_Art_With_FX_81: 8562181346773622657
+      Black_Knight_Weapon_Art_With_FX_82: 7021248560521619360
+      Black_Knight_Weapon_Art_With_FX_83: 3286779447755323754
+      Black_Knight_Weapon_Art_With_FX_84: 8903079115375730575
+      Black_Knight_Weapon_Art_With_FX_85: 4634989754050268310
+      Black_Knight_Weapon_Art_With_FX_86: -1445694285154003477
+      Black_Knight_Weapon_Art_With_FX_87: 8805742924386765308
+      Black_Knight_Weapon_Art_With_FX_88: 5210347413904127474
+      Black_Knight_Weapon_Art_With_FX_9: 2944956756283856203
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

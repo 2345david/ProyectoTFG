@@ -1,0 +1,219 @@
+UNUSED ART REPORT - candidates not referenced by the 4 main scenes or Resources/
+Generated: 03/06/2026 21:24:56
+NOTE: Prefabs/assets loaded at runtime via code (Resources.Load, Instantiate by path) may appear here but still be needed. Review before deleting.
+
+=== Gothicvania-Town/ (94) ===
+  Assets/Gothicvania-Town/Animations/bearded-idle.anim
+  Assets/Gothicvania-Town/Animations/bearded-idle-3.controller
+  Assets/Gothicvania-Town/Animations/bearded-walk.anim
+  Assets/Gothicvania-Town/Animations/bearded-walk-4.controller
+  Assets/Gothicvania-Town/Animations/hat-man-walk.anim
+  Assets/Gothicvania-Town/Animations/hat-man-walk-2.controller
+  Assets/Gothicvania-Town/Animations/oldman-walk.anim
+  Assets/Gothicvania-Town/Animations/oldman-walk-6.controller
+  Assets/Gothicvania-Town/Animations/woman-walk.anim
+  Assets/Gothicvania-Town/Animations/woman-walk-6.controller
+  Assets/Gothicvania-Town/Art/Environment/Background/background.png
+  Assets/Gothicvania-Town/Art/Environment/Background/middleground.png
+  Assets/Gothicvania-Town/Art/Environment/props-sliced/barrel.png
+  Assets/Gothicvania-Town/Art/Environment/props-sliced/crate.png
+  Assets/Gothicvania-Town/Art/Environment/props-sliced/crate-stack.png
+  Assets/Gothicvania-Town/Art/Environment/props-sliced/house-a.png
+  Assets/Gothicvania-Town/Art/Environment/props-sliced/house-b.png
+  Assets/Gothicvania-Town/Art/Environment/props-sliced/house-c.png
+  Assets/Gothicvania-Town/Art/Environment/props-sliced/sign.png
+  Assets/Gothicvania-Town/Art/Environment/props-sliced/street-lamp.png
+  Assets/Gothicvania-Town/Art/Environment/props-sliced/wagon.png
+  Assets/Gothicvania-Town/Art/Environment/props-sliced/well.png
+  Assets/Gothicvania-Town/Art/Environment/sliced-tileset/ground.png
+  Assets/Gothicvania-Town/Art/Environment/sliced-tileset/ground-b.png
+  Assets/Gothicvania-Town/Art/Environment/sliced-tileset/ground-corner.png
+  Assets/Gothicvania-Town/Art/Environment/sliced-tileset/ground-right-corner.png
+  Assets/Gothicvania-Town/Art/Environment/sliced-tileset/ground-shadow.png
+  Assets/Gothicvania-Town/Art/Environment/sliced-tileset/ground-wall.png
+  Assets/Gothicvania-Town/Art/Environment/sliced-tileset/ground-wall-b.png
+  Assets/Gothicvania-Town/Art/Environment/sliced-tileset/ground-wood-legs.png
+  Assets/Gothicvania-Town/Art/Environment/sliced-tileset/left-corner.png
+  Assets/Gothicvania-Town/Art/Environment/sliced-tileset/left-roof.png
+  Assets/Gothicvania-Town/Art/Environment/sliced-tileset/left-slope.png
+  Assets/Gothicvania-Town/Art/Environment/sliced-tileset/right-corner.png
+  Assets/Gothicvania-Town/Art/Environment/sliced-tileset/right-roof.png
+  Assets/Gothicvania-Town/Art/Environment/sliced-tileset/right-slope.png
+  Assets/Gothicvania-Town/Art/Environment/sliced-tileset/roof.png
+  Assets/Gothicvania-Town/Art/Environment/sliced-tileset/shadow.png
+  Assets/Gothicvania-Town/Art/Environment/sliced-tileset/slope.png
+  Assets/Gothicvania-Town/Art/Environment/sliced-tileset/stairs.png
+  Assets/Gothicvania-Town/Art/Environment/sliced-tileset/stairs-left.png
+  Assets/Gothicvania-Town/Art/Environment/sliced-tileset/stairs-mirror.png
+  Assets/Gothicvania-Town/Art/Environment/sliced-tileset/stairs-mirror-left.png
+  Assets/Gothicvania-Town/Art/Environment/sliced-tileset/stairs-mirror-right.png
+  Assets/Gothicvania-Town/Art/Environment/sliced-tileset/stairs-right.png
+  Assets/Gothicvania-Town/Art/Environment/sliced-tileset/stairs-wall.png
+  Assets/Gothicvania-Town/Art/Environment/sliced-tileset/stairs-wall-left.png
+  Assets/Gothicvania-Town/Art/Environment/sliced-tileset/stairs-wall-mirror.png
+  Assets/Gothicvania-Town/Art/Environment/sliced-tileset/stairs-wall-mirror-left.png
+  Assets/Gothicvania-Town/Art/Environment/sliced-tileset/stairs-wall-mirror-right.png
+  Assets/Gothicvania-Town/Art/Environment/sliced-tileset/stairs-wall-right.png
+  Assets/Gothicvania-Town/Art/Environment/sliced-tileset/top-left-wood.png
+  Assets/Gothicvania-Town/Art/Environment/sliced-tileset/top-right-wood.png
+  Assets/Gothicvania-Town/Art/Environment/sliced-tileset/top-wood.png
+  Assets/Gothicvania-Town/Art/Environment/sliced-tileset/wall.png
+  Assets/Gothicvania-Town/Art/Environment/sliced-tileset/wall-b.png
+  Assets/Gothicvania-Town/Art/Environment/sliced-tileset/window.png
+  Assets/Gothicvania-Town/Art/Environment/sliced-tileset/window-bars.png
+  Assets/Gothicvania-Town/Art/Environment/sliced-tileset/wood-legs.png
+  Assets/Gothicvania-Town/Art/Sprites/bearded-idle/bearded-idle-1.png
+  Assets/Gothicvania-Town/Art/Sprites/bearded-idle/bearded-idle-2.png
+  Assets/Gothicvania-Town/Art/Sprites/bearded-idle/bearded-idle-3.png
+  Assets/Gothicvania-Town/Art/Sprites/bearded-idle/bearded-idle-4.png
+  Assets/Gothicvania-Town/Art/Sprites/bearded-idle/bearded-idle-5.png
+  Assets/Gothicvania-Town/Art/Sprites/bearded-walk/bearded-walk-1.png
+  Assets/Gothicvania-Town/Art/Sprites/bearded-walk/bearded-walk-2.png
+  Assets/Gothicvania-Town/Art/Sprites/bearded-walk/bearded-walk-3.png
+  Assets/Gothicvania-Town/Art/Sprites/bearded-walk/bearded-walk-4.png
+  Assets/Gothicvania-Town/Art/Sprites/bearded-walk/bearded-walk-5.png
+  Assets/Gothicvania-Town/Art/Sprites/bearded-walk/bearded-walk-6.png
+  Assets/Gothicvania-Town/Art/Sprites/hat-man-walk/hat-man-walk-1.png
+  Assets/Gothicvania-Town/Art/Sprites/hat-man-walk/hat-man-walk-2.png
+  Assets/Gothicvania-Town/Art/Sprites/hat-man-walk/hat-man-walk-3.png
+  Assets/Gothicvania-Town/Art/Sprites/hat-man-walk/hat-man-walk-4.png
+  Assets/Gothicvania-Town/Art/Sprites/hat-man-walk/hat-man-walk-5.png
+  Assets/Gothicvania-Town/Art/Sprites/hat-man-walk/hat-man-walk-6.png
+  Assets/Gothicvania-Town/Art/Sprites/oldman-walk/oldman-walk-1.png
+  Assets/Gothicvania-Town/Art/Sprites/oldman-walk/oldman-walk-10.png
+  Assets/Gothicvania-Town/Art/Sprites/oldman-walk/oldman-walk-11.png
+  Assets/Gothicvania-Town/Art/Sprites/oldman-walk/oldman-walk-12.png
+  Assets/Gothicvania-Town/Art/Sprites/oldman-walk/oldman-walk-2.png
+  Assets/Gothicvania-Town/Art/Sprites/oldman-walk/oldman-walk-3.png
+  Assets/Gothicvania-Town/Art/Sprites/oldman-walk/oldman-walk-4.png
+  Assets/Gothicvania-Town/Art/Sprites/oldman-walk/oldman-walk-5.png
+  Assets/Gothicvania-Town/Art/Sprites/oldman-walk/oldman-walk-6.png
+  Assets/Gothicvania-Town/Art/Sprites/oldman-walk/oldman-walk-7.png
+  Assets/Gothicvania-Town/Art/Sprites/oldman-walk/oldman-walk-8.png
+  Assets/Gothicvania-Town/Art/Sprites/oldman-walk/oldman-walk-9.png
+  Assets/Gothicvania-Town/Art/Sprites/woman-walk/woman-walk-1.png
+  Assets/Gothicvania-Town/Art/Sprites/woman-walk/woman-walk-2.png
+  Assets/Gothicvania-Town/Art/Sprites/woman-walk/woman-walk-3.png
+  Assets/Gothicvania-Town/Art/Sprites/woman-walk/woman-walk-4.png
+  Assets/Gothicvania-Town/Art/Sprites/woman-walk/woman-walk-5.png
+  Assets/Gothicvania-Town/Art/Sprites/woman-walk/woman-walk-6.png
+
+=== Gothicvania Cemetery Artwork/ (36) ===
+  Assets/Gothicvania Cemetery Artwork/Environment/sliced-objects/bush-large.png
+  Assets/Gothicvania Cemetery Artwork/Environment/sliced-objects/bush-small.png
+  Assets/Gothicvania Cemetery Artwork/Environment/sliced-objects/statue.png
+  Assets/Gothicvania Cemetery Artwork/Environment/sliced-objects/stone-1.png
+  Assets/Gothicvania Cemetery Artwork/Environment/sliced-objects/stone-2.png
+  Assets/Gothicvania Cemetery Artwork/Environment/sliced-objects/stone-3.png
+  Assets/Gothicvania Cemetery Artwork/Environment/sliced-objects/stone-4.png
+  Assets/Gothicvania Cemetery Artwork/Environment/sliced-objects/tree-1.png
+  Assets/Gothicvania Cemetery Artwork/Environment/sliced-objects/tree-2.png
+  Assets/Gothicvania Cemetery Artwork/Environment/sliced-objects/tree-3.png
+  Assets/Gothicvania Cemetery Artwork/Environment/tileset.png
+  Assets/Gothicvania Cemetery Artwork/Sprites/ghost/ghost-1.png
+  Assets/Gothicvania Cemetery Artwork/Sprites/ghost/ghost-2.png
+  Assets/Gothicvania Cemetery Artwork/Sprites/ghost/ghost-3.png
+  Assets/Gothicvania Cemetery Artwork/Sprites/ghost/ghost-4.png
+  Assets/Gothicvania Cemetery Artwork/Sprites/hell-gato/hell-gato-1.png
+  Assets/Gothicvania Cemetery Artwork/Sprites/hell-gato/hell-gato-2.png
+  Assets/Gothicvania Cemetery Artwork/Sprites/hell-gato/hell-gato-3.png
+  Assets/Gothicvania Cemetery Artwork/Sprites/hell-gato/hell-gato-4.png
+  Assets/Gothicvania Cemetery Artwork/Sprites/hero/hero-crouch/hero-crouch.png
+  Assets/Gothicvania Cemetery Artwork/Sprites/hero/hero-hurt/hero-hurt.png
+  Assets/Gothicvania Cemetery Artwork/Sprites/hero/hero-jump/hero-jump-4.png
+  Assets/Gothicvania Cemetery Artwork/Sprites/skeleton-clothed/skeleton-clothed-1.png
+  Assets/Gothicvania Cemetery Artwork/Sprites/skeleton-clothed/skeleton-clothed-2.png
+  Assets/Gothicvania Cemetery Artwork/Sprites/skeleton-clothed/skeleton-clothed-3.png
+  Assets/Gothicvania Cemetery Artwork/Sprites/skeleton-clothed/skeleton-clothed-4.png
+  Assets/Gothicvania Cemetery Artwork/Sprites/skeleton-clothed/skeleton-clothed-5.png
+  Assets/Gothicvania Cemetery Artwork/Sprites/skeleton-clothed/skeleton-clothed-6.png
+  Assets/Gothicvania Cemetery Artwork/Sprites/skeleton-clothed/skeleton-clothed-7.png
+  Assets/Gothicvania Cemetery Artwork/Sprites/skeleton-clothed/skeleton-clothed-8.png
+  Assets/Gothicvania Cemetery Artwork/Sprites/skeleton-rise-clothed/skeleton-rise-clothed-1.png
+  Assets/Gothicvania Cemetery Artwork/Sprites/skeleton-rise-clothed/skeleton-rise-clothed-2.png
+  Assets/Gothicvania Cemetery Artwork/Sprites/skeleton-rise-clothed/skeleton-rise-clothed-3.png
+  Assets/Gothicvania Cemetery Artwork/Sprites/skeleton-rise-clothed/skeleton-rise-clothed-4.png
+  Assets/Gothicvania Cemetery Artwork/Sprites/skeleton-rise-clothed/skeleton-rise-clothed-5.png
+  Assets/Gothicvania Cemetery Artwork/Sprites/skeleton-rise-clothed/skeleton-rise-clothed-6.png
+
+=== Black Knight/ (32) ===
+  Assets/Black Knight/Animations/Boss/Boss_Fall.anim
+  Assets/Black Knight/Animations/Boss/Boss_Jump.anim
+  Assets/Black Knight/Preview_GIFs/Black_Knight_All.gif
+  Assets/Black Knight/Preview_GIFs/Black_Knight_Attack_v1.gif
+  Assets/Black Knight/Preview_GIFs/Black_Knight_Attack_v2.gif
+  Assets/Black Knight/Preview_GIFs/Black_Knight_Idle.gif
+  Assets/Black Knight/Preview_GIFs/Black_Knight_Jump_And_Falls.gif
+  Assets/Black Knight/Preview_GIFs/Black_Knight_Roll.gif
+  Assets/Black Knight/Preview_GIFs/Black_Knight_Run.gif
+  Assets/Black Knight/Preview_GIFs/Black_Knight_Weapon_Art.gif
+  Assets/Black Knight/Preview_GIFs/Black_Knight_Weapon_Off.gif
+  Assets/Black Knight/Preview_GIFs/Black_Knight_Weapon_On.gif
+  Assets/Black Knight/SpriteSheets_All/Caracter_without_FX/Black_Knight_All_Without_FX.png
+  Assets/Black Knight/SpriteSheets_All/Just_FX/Black_Knight_All_FX.png
+  Assets/Black Knight/SpriteSheets_Separated/Attack_v1/Black_Knight_Attack_v1.png
+  Assets/Black Knight/SpriteSheets_Separated/Attack_v2/Black_Knight_Attack_v2.png
+  Assets/Black Knight/SpriteSheets_Separated/Fall_Heavy/Black_Knight_Fall_Heavy.png
+  Assets/Black Knight/SpriteSheets_Separated/Fall_Light/Black_Knight_Fall_Light.png
+  Assets/Black Knight/SpriteSheets_Separated/Idle/Black_Knight_Idle.png
+  Assets/Black Knight/SpriteSheets_Separated/Jump/Black_Knight_Jump.png
+  Assets/Black Knight/SpriteSheets_Separated/Mid_Air/Black_Knight_Mid_Air.png
+  Assets/Black Knight/SpriteSheets_Separated/Roll/Black_Knight_Roll.png
+  Assets/Black Knight/SpriteSheets_Separated/Run/Black_Knight_Run.png
+  Assets/Black Knight/SpriteSheets_Separated/Weapon_Art/Weapon_Art_FX/Black_Knight_Weapon_Art_FX.png
+  Assets/Black Knight/SpriteSheets_Separated/Weapon_Art/Weapon_Art_With_FX/Black_Knight_Weapon_Art_With_FX.png
+  Assets/Black Knight/SpriteSheets_Separated/Weapon_Art/Weapon_Art_Without_FX/Black_Knight_Weapon_Art_Without_FX.png
+  Assets/Black Knight/SpriteSheets_Separated/Weapon_Off/Black_Knight_Weapon_Off.png
+  Assets/Black Knight/SpriteSheets_Separated/Weapon_On/Black_Knight_Weapon_On.png
+  Assets/Black Knight/WEB_Images/Banner.png
+  Assets/Black Knight/WEB_Images/Cover_GIF/Black_Knight_Art.gif
+  Assets/Black Knight/WEB_Images/Cover_GIF/Black_Knight_Art_With_Light.gif
+  Assets/Black Knight/WEB_Images/WEB_BG.png
+
+=== Caves Art/ (19) ===
+  Assets/Caves Art/crab-idle.png
+  Assets/Caves Art/crab-walk.png
+  Assets/Caves Art/enemy-death.png
+  Assets/Caves Art/impact.png
+  Assets/Caves Art/jumper-idle.png
+  Assets/Caves Art/jumper-jump.png
+  Assets/Caves Art/middleground.png
+  Assets/Caves Art/player-cling.png
+  Assets/Caves Art/player-duck.png
+  Assets/Caves Art/player-hurt.png
+  Assets/Caves Art/player-idle.png
+  Assets/Caves Art/player-jump.png
+  Assets/Caves Art/player-run.png
+  Assets/Caves Art/player-run-shoot.png
+  Assets/Caves Art/player-shoot-up.png
+  Assets/Caves Art/player-stand.png
+  Assets/Caves Art/power-up.png
+  Assets/Caves Art/shot.png
+  Assets/Caves Art/walls.png
+
+=== Animations/ (6) ===
+  Assets/Animations/Merchant_Idle.anim
+  Assets/Animations/MerchantNPC.controller
+  Assets/Animations/Octopus/Octopus 1.controller
+  Assets/Animations/Octopus/Walk.anim
+  Assets/Animations/Player/Fall.anim
+  Assets/Animations/Skeleton/Skeleton 1.controller
+
+=== Prefab/ (6) ===
+  Assets/Prefab/Enemy (1).prefab
+  Assets/Prefab/Medal_Dash.prefab
+  Assets/Prefab/MetroidvaniaSpawnZone.prefab
+  Assets/Prefab/Room_Initial_Enemies.prefab
+  Assets/Prefab/Skeleton Complete.prefab
+  Assets/Prefab/WorldTilemaps.prefab
+
+=== Sprites/ (3) ===
+  Assets/Sprites/Fountain_PixelArt.png
+  Assets/Sprites/MerchantIdle.png
+  Assets/Sprites/MerchantNPC.png
+
+=== Tiles/ (3) ===
+  Assets/Tiles/Mapa Cuevas.prefab
+  Assets/Tiles/Mapa.prefab
+  Assets/Tiles/Rampa.prefab
+

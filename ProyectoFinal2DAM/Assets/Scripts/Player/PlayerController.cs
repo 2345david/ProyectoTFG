@@ -1,35 +1,44 @@
 using UnityEngine;
-using UnityEngine.InputSystem;
-using System.Collections;
+using UnityEngine.InputSystem; // Sirve para leer el teclado y el ratón con el sistema nuevo de Unity.
 
-[DefaultExecutionOrder(100)]
+/// <summary>
+/// Este es el script principal que controla al jugador en un juego de plataformas en 2D.
+/// Se encarga de moverlo, saltar (y doble salto), hacer dash (impulso rápido),
+/// saber si está en el suelo, voltear el dibujo según hacia dónde va y atacar.
+/// </summary>
+[DefaultExecutionOrder(100)] // Hace que este script arranque después de otros, para que todo esté listo.
 public class PlayerController : MonoBehaviour
 {
-    public float speed, jumpHeight;
-    private Rigidbody2D rb;
-    private Vector2 moveInput;
-    public Transform groundCheck;
-    public bool isGrounded;
-    public float groundCheckRadius;
-    public LayerMask whatIsGround;
-    public Animator animator;
-    public bool canMove = true;
+    public float speed, jumpHeight;     // Velocidad al caminar y fuerza al saltar.
+    private Rigidbody2D rb;              // El cuerpo físico del jugador (lo que hace que se mueva con fuerzas).
+    private Vector2 moveInput;           // Hacia dónde quiere moverse el jugador ahora mismo.
+    public Transform groundCheck;       // Punto debajo de los pies para comprobar si toca el suelo.
+    public bool isGrounded;             // Vale "true" si el jugador está tocando el suelo.
+    public float groundCheckRadius;     // Tamaño del círculo que usamos para detectar el suelo.
+    public LayerMask whatIsGround;      // Qué cosas cuentan como "suelo".
+    public Animator animator;           // El que reproduce las animaciones (caminar, saltar, atacar).
+    public bool canMove = true;         // Si vale "true" el jugador puede moverse; si no, está bloqueado.
 
     [Header("Abilities")]
-    public bool hasDoubleJump = false;
+    public bool hasDoubleJump = false;  // Indica si ya se desbloqueó la habilidad de doble salto.
 
-    private PlayerLadderMovement _ladderMovement;
+    [Header("Attack Settings")]
+    public float attackRate = 0.5f;     // Cuánto hay que esperar entre golpe y golpe (en segundos).
+    private float nextAttackTime = 0f;  // Momento a partir del cual ya se puede volver a atacar.
 
+    // "instance" es un atajo para que otros scripts puedan usar al jugador desde cualquier sitio.
     public static PlayerController instance;
 
+    // Esto se ejecuta al crearse el objeto. Guardamos el atajo y congelamos la física para no caer al cargar.
     private void Awake()
     {
+        // Guardamos el atajo "instance" solo si no había uno antes.
         if (instance == null)
         {
             instance = this;
         }
         
-        // Freeze player physics initially to prevent falling through world while loading
+        // Apagamos la física al principio para que el jugador no se caiga del mundo mientras carga la escena.
         rb = GetComponent<Rigidbody2D>();
         if (rb != null)
         {
@@ -37,62 +46,87 @@ public class PlayerController : MonoBehaviour
         }
     }
 
+    // Congela al jugador: apaga la física, lo bloquea y para su movimiento y animaciones.
     public void FreezePlayer()
     {
         if (rb == null) rb = GetComponent<Rigidbody2D>();
-        rb.simulated = false;
-        canMove = false;
+        rb.simulated = false;   // Apagamos la física para que no se mueva.
+        canMove = false;        // Bloqueamos el control.
+        rb.linearVelocity = Vector2.zero;
+        moveInput = Vector2.zero;
+        
+        // Apagamos las animaciones de caminar y saltar.
+        if (animator != null)
+        {
+            animator.SetBool("Walk", false);
+            animator.SetBool("Jump", false);
+        }
     }
 
+    // Descongela al jugador: vuelve a encender la física, le devuelve el control y recupera su velocidad.
     public void UnfreezePlayer()
     {
         if (rb == null) rb = GetComponent<Rigidbody2D>();
-        rb.simulated = true;
-        canMove = true;
+        rb.simulated = true;    // Encendemos otra vez la física.
+        canMove = true;         // Le devolvemos el control al jugador.
+        rb.linearVelocity = Vector2.zero;
+        moveInput = Vector2.zero;
+        
+        // Si la velocidad había quedado en 0 (por ejemplo en una pelea de jefe), la recuperamos.
+        if (speed <= 0 && defaultSpeed > 0)
+        {
+            speed = defaultSpeed;
+        }
     }
 
-    public bool hasDash = false;
-    private bool canDoubleJump = false;
+    public bool hasDash = false;        // Indica si ya se desbloqueó la habilidad de dash.
+    private bool canDoubleJump = false; // Vale "true" mientras todavía se pueda hacer el doble salto en el aire.
     
+    // Esto se ejecuta una vez al empezar. Buscamos componentes y guardamos la velocidad inicial.
     void Start()
     {
-        defaultSpeed = speed;
+        defaultSpeed = speed;                   // Guardamos la velocidad inicial para poder recuperarla después.
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
-        _ladderMovement = GetComponent<PlayerLadderMovement>();
     }
-    public float doubleJumpManaCost = 10f;
+    public float doubleJumpManaCost = 10f;  // Cuánto maná cuesta el doble salto.
 
+    // Esto se repite muchas veces por segundo. Mira si está en el suelo, ajusta animaciones y revisa acciones.
     void Update()
     {
+        // Miramos si hay suelo justo debajo de los pies del jugador.
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, whatIsGround);
 
         if (isGrounded)
         {
+            // Si está en el suelo: quitamos la animación de salto y le devolvemos el doble salto.
             animator.SetBool("Jump", false);
             canDoubleJump = true;
         }
         else
         {
+            // Si está en el aire: ponemos la animación de salto.
             animator.SetBool("Jump", true);
         }
         
+        // Revisamos todas las acciones del jugador en este momento.
         FlipCharacter();
         Attack();
         HandleJumpInput();
         HandleDashInput();
     }
-    public float dashManaCost = 20f;
+    public float dashManaCost = 20f;    // Cuánto maná cuesta hacer un dash.
 
     [Header("Dash Settings")]
-    public float dashSpeed = 20f;
-    public float dashDuration = 0.2f;
-    public float dashCooldown = 1f;
-    private bool isDashing = false;
-    private float dashTimeRemaining;
-    private float lastDashTime;
-    private float defaultSpeed;
+    public float dashSpeed = 8f;        // Lo rápido que se mueve el jugador durante el dash.
+    public float dashDuration = 0.2f;   // Cuántos segundos dura el dash.
+    public float dashCooldown = 1f;     // Cuánto hay que esperar entre un dash y otro.
+    private bool isDashing = false;     // Vale "true" mientras el jugador está haciendo el dash.
+    private float dashTimeRemaining;    // Tiempo que le queda al dash actual.
+    private float lastDashTime;         // Cuándo se hizo el último dash (para controlar la espera).
+    private float defaultSpeed;         // Velocidad inicial guardada para poder recuperarla.
 
+    // Deja al jugador como nuevo (se usa al revivir): lo descongela, recupera velocidad, gravedad y animaciones.
     public void ResetController()
     {
         UnfreezePlayer();
@@ -106,46 +140,53 @@ public class PlayerController : MonoBehaviour
         canDoubleJump = true;
         animator.SetBool("Walk", false);
         animator.SetBool("Jump", false);
-        animator.SetBool("Attack", false);
     }
 
+    // Hace saltar al jugador: le da impulso hacia arriba sin cambiar su movimiento de lado.
     private void JumpAction()
     {
         rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpHeight);
     }
 
+    // Mira si se aprieta la tecla de salto: salta normal en el suelo, o doble salto en el aire si hay maná.
     private void HandleJumpInput()
     {
+        // Si no puede moverse o está en dash, no saltamos.
         if (!canMove || isDashing) return;
 
         var keyboard = Keyboard.current;
-        if (keyboard == null) return;
+        if (keyboard == null) return; // No hay teclado conectado.
 
         if (keyboard.spaceKey.wasPressedThisFrame)
         {
             if (isGrounded)
             {
+                // Está en el suelo: salto normal.
                 JumpAction();
             }
             else if (hasDoubleJump && canDoubleJump)
             {
+                // Está en el aire: doble salto, pero solo si tiene maná suficiente.
                 if (PlayerMana.instance != null && PlayerMana.instance.HasEnoughMana(doubleJumpManaCost))
                 {
                     JumpAction();
-                    canDoubleJump = false;
+                    canDoubleJump = false;                  // Ya usó el doble salto, no puede repetirlo hasta tocar suelo.
                     PlayerMana.instance.UseMana(doubleJumpManaCost);
                 }
             }
 }
     }
 
+    // Mira si se aprieta la tecla de dash y lo empieza si está desbloqueado, ya pasó la espera y hay maná.
     private void HandleDashInput()
     {
+        // Solo seguimos si puede moverse, tiene la habilidad de dash y no está ya haciendo uno.
         if (!canMove || !hasDash || isDashing) return;
 
         var keyboard = Keyboard.current;
         if (keyboard == null) return;
 
+        // Si apretó Shift izquierdo y ya pasó suficiente tiempo desde el último dash.
         if (keyboard.leftShiftKey.wasPressedThisFrame && Time.time >= lastDashTime + dashCooldown)
         {
             if (PlayerMana.instance != null && PlayerMana.instance.HasEnoughMana(dashManaCost))
@@ -156,30 +197,33 @@ public class PlayerController : MonoBehaviour
         }
     }
 
+    // Empieza el dash: marca el tiempo, lanza al jugador rápido hacia donde mira y le quita la gravedad un momento.
     private void StartDash()
     {
         isDashing = true;
         dashTimeRemaining = dashDuration;
         lastDashTime = Time.time;
         
-        float dashDir = transform.localScale.x; // Use scale to determine facing direction
+        float dashDir = transform.localScale.x; // Usamos hacia dónde mira el jugador para saber la dirección.
         rb.linearVelocity = new Vector2(dashDir * dashSpeed, 0);
-        rb.gravityScale = 0; // Prevent falling during dash
+        rb.gravityScale = 0; // Quitamos la gravedad para que no se caiga durante el dash.
         
-        // You might want to add a dash animation here
+        // Aquí se podría poner una animación de dash si quisieras.
         // animator.SetTrigger("Dash");
     }
 
+    // Lee las teclas A (izquierda) y D (derecha) para saber hacia dónde se mueve y enciende la animación de caminar.
     private void Movment()
     {
-        if (isDashing) return;
+        if (isDashing) return; // Mientras hace dash no usamos el movimiento normal.
 
         var keyboard = Keyboard.current;
         if (keyboard == null)
         {
-            return; // No keyboard connected
+            return; // No hay teclado conectado.
         }
         
+        // Vemos qué tecla está apretada para decidir la dirección.
         float moveX = 0f;
         if (keyboard.aKey.isPressed)
         {
@@ -192,6 +236,7 @@ public class PlayerController : MonoBehaviour
         
         moveInput = new Vector2(moveX, 0);
 
+        // Si se está moviendo, ponemos la animación de caminar; si no, la quitamos.
         if (moveInput.x != 0)
         {
             animator.SetBool("Walk", true);
@@ -202,10 +247,12 @@ public class PlayerController : MonoBehaviour
         }
     }
 
+    // Esto lo usa Unity para la física. Controla el tiempo del dash y, si no hay dash, lee el movimiento.
     private void FixedUpdate()
     {
         if (isDashing)
         {
+            // Le vamos quitando tiempo al dash y, cuando se acaba, lo terminamos.
             dashTimeRemaining -= Time.fixedDeltaTime;
             if (dashTimeRemaining <= 0)
             {
@@ -217,71 +264,48 @@ public class PlayerController : MonoBehaviour
         Movment();
         if (canMove)
         {
-            // rb.linearVelocity logic is now in FlipCharacter and Movement logic is a bit split.
-            // Original code had Jump() in FixedUpdate, but using wasPressedThisFrame in Update is better.
+            // El movimiento real se aplica en FlipCharacter. Aquí no hace falta nada más.
         }
     }
 
+    // Termina el dash: vuelve a poner la gravedad normal y frena el movimiento de lado.
     private void EndDash()
     {
         isDashing = false;
-        rb.gravityScale = 1; // Assuming default gravity is 1
+        rb.gravityScale = 1; // Dejamos la gravedad como estaba normalmente.
         rb.linearVelocity = new Vector2(0, rb.linearVelocity.y);
     }
 
+    // Hace que el jugador ataque al mantener el botón izquierdo del ratón, esperando entre golpe y golpe.
     public void Attack()
     {
-        if (isDashing) return;
+        if (isDashing) return; // No se ataca mientras hace dash.
         
         var mouse = Mouse.current;
         if (mouse == null)
         {
-            return;
+            return; // No hay ratón conectado.
         }
 
-        if (mouse.leftButton.isPressed)
+        // Si mantienes el botón y ya pasó el tiempo de espera, atacamos.
+        if (mouse.leftButton.isPressed && Time.time >= nextAttackTime)
         {
-            animator.SetBool("Attack", true);
+            animator.SetTrigger("Attack");
+            nextAttackTime = Time.time + attackRate;    // Calculamos cuándo se podrá atacar otra vez.
             if (AudioManager.instance != null)
                 AudioManager.instance.PlayAudio(AudioManager.instance.hit);
         }
-        else
-        {
-            animator.SetBool("Attack", false);
-        }
     }
 
-    private IEnumerator DropDown()
-    {
-        // Find the platform we are standing on
-        Collider2D[] results = new Collider2D[5];
-        ContactFilter2D filter = new ContactFilter2D();
-        filter.SetLayerMask(whatIsGround);
-        int count = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, filter, results);
-
-        for (int i = 0; i < count; i++)
-        {
-            if (results[i].GetComponent<PlatformEffector2D>() != null)
-            {
-                Collider2D platformCollider = results[i];
-                Collider2D playerCollider = GetComponent<Collider2D>();
-                
-                Physics2D.IgnoreCollision(playerCollider, platformCollider, true);
-                yield return new WaitForSeconds(0.5f);
-                Physics2D.IgnoreCollision(playerCollider, platformCollider, false);
-                break;
-            }
-        }
-    }
-    
-    // Removing old Jump and keeping the rest logic
-    
+    // Mueve al jugador de lado y voltea su dibujo para que mire hacia donde camina (si puede moverse y no hace dash).
     private void FlipCharacter()
     {
         if (canMove && !isDashing)
         {
+            // Le damos velocidad de lado sin cambiar la velocidad de arriba/abajo.
             rb.linearVelocity = new Vector2(moveInput.x * speed, rb.linearVelocity.y);
             
+            // Volteamos al personaje para que mire hacia donde se mueve.
             if (moveInput.x > 0)
             {
                 transform.localScale = new Vector3(1, 1, 1);

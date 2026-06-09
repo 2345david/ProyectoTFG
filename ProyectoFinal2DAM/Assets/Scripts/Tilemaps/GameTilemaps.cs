@@ -16,26 +16,36 @@ using UnityEngine.Tilemaps;
 [RequireComponent(typeof(Grid))]
 public class GameTilemaps : MonoBehaviour
 {
+    // Nombres convenidos de los GameObjects de cada Tilemap (usados para buscarlos por nombre).
     public const string GroundTilemapName = "TM_Ground";
     public const string LaddersTilemapName = "TM_Ladders";
     public const string DecorationTilemapName = "TM_Decoration";
 
+    // Acceso global de solo lectura a la instancia activa (singleton ligero).
     public static GameTilemaps Instance { get; private set; }
 
     [Header("Referencias (vacío = busca hijos por nombre)")]
-    [SerializeField] private Tilemap groundTilemap;
-    [SerializeField] private Tilemap laddersTilemap;
-    [SerializeField] private Tilemap decorationTilemap;
+    // Tilemaps asignables en el Inspector; si quedan vacíos se autocompletan en Awake().
+    [SerializeField] private Tilemap groundTilemap;      // Suelo / colisiones.
+    [SerializeField] private Tilemap laddersTilemap;     // Escaleras (trigger).
+    [SerializeField] private Tilemap decorationTilemap;  // Decoración (sin colisión).
 
+    // Grid del que cuelgan los Tilemaps; cachéado en Awake().
     private Grid _grid;
 
+    // Propiedades públicas de solo lectura para que otros scripts accedan a los componentes.
     public Grid Grid => _grid;
     public Tilemap Ground => groundTilemap;
     public Tilemap Ladders => laddersTilemap;
     public Tilemap Decoration => decorationTilemap;
 
+    /// <summary>
+    /// Registra la instancia, cachea el Grid y resuelve las referencias de Tilemaps que
+    /// no se hayan asignado en el Inspector buscándolas entre los hijos por nombre.
+    /// </summary>
     private void Awake()
     {
+        // Aviso si hubiera más de un GameTilemaps activo en la escena.
         if (Instance != null && Instance != this)
         {
             Debug.LogWarning($"{name}: hay más de un GameTilemaps. Solo debe haber uno activo.", this);
@@ -44,6 +54,7 @@ public class GameTilemaps : MonoBehaviour
         Instance = this;
         _grid = GetComponent<Grid>();
 
+        // Autocompletado de referencias: solo si el campo está vacío.
         if (groundTilemap == null)
         {
             groundTilemap = FindTilemapByName(GroundTilemapName);
@@ -60,6 +71,7 @@ public class GameTilemaps : MonoBehaviour
         }
     }
 
+    /// <summary>Libera la referencia estática cuando se destruye esta instancia.</summary>
     private void OnDestroy()
     {
         if (Instance == this)
@@ -68,6 +80,11 @@ public class GameTilemaps : MonoBehaviour
         }
     }
 
+    /// <summary>
+    /// Busca recursivamente entre los hijos (incluidos inactivos) un GameObject con el
+    /// nombre indicado que tenga un componente <see cref="Tilemap"/>.
+    /// </summary>
+    /// <returns>El Tilemap encontrado o null si no existe.</returns>
     private Tilemap FindTilemapByName(string objectName)
     {
         var transforms = GetComponentsInChildren<Transform>(true);
@@ -86,26 +103,31 @@ public class GameTilemaps : MonoBehaviour
         return null;
     }
 
+    /// <summary>Convierte una posición de mundo a coordenada de celda del Grid.</summary>
     public Vector3Int WorldToCell(Vector3 worldPosition)
     {
         return _grid != null ? _grid.WorldToCell(worldPosition) : Vector3Int.zero;
     }
 
+    /// <summary>Devuelve el centro en mundo de la celda indicada.</summary>
     public Vector3 CellCenterWorld(Vector3Int cell)
     {
         return _grid != null ? _grid.GetCellCenterWorld(cell) : Vector3.zero;
     }
 
+    /// <summary>Indica si hay un tile de suelo en la posición de mundo dada.</summary>
     public bool HasGroundAt(Vector3 worldPosition)
     {
         return groundTilemap != null && groundTilemap.HasTile(groundTilemap.WorldToCell(worldPosition));
     }
 
+    /// <summary>Indica si hay un tile de escalera en la posición de mundo dada.</summary>
     public bool HasLadderAt(Vector3 worldPosition)
     {
         return laddersTilemap != null && laddersTilemap.HasTile(laddersTilemap.WorldToCell(worldPosition));
     }
 
+    /// <summary>Indica si hay un tile de decoración en la posición de mundo dada.</summary>
     public bool HasDecorationAt(Vector3 worldPosition)
     {
         return decorationTilemap != null && decorationTilemap.HasTile(decorationTilemap.WorldToCell(worldPosition));

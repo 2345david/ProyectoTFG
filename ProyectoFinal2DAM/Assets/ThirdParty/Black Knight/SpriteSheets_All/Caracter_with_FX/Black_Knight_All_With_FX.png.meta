@@ -1,0 +1,6506 @@
+fileFormatVersion: 2
+guid: 61406e55cab35fd42873296bce49d035
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5098567002247511574
+    second: Black_Knight_All_With_FX_0
+  - first:
+      213: -8579211525564536944
+    second: Black_Knight_All_With_FX_1
+  - first:
+      213: -5825862444360689226
+    second: Black_Knight_All_With_FX_2
+  - first:
+      213: -2854072253250047317
+    second: Black_Knight_All_With_FX_3
+  - first:
+      213: 3206636756175162237
+    second: Black_Knight_All_With_FX_4
+  - first:
+      213: -6415473370429677035
+    second: Black_Knight_All_With_FX_5
+  - first:
+      213: -691314892309279564
+    second: Black_Knight_All_With_FX_6
+  - first:
+      213: -1392206538586924289
+    second: Black_Knight_All_With_FX_7
+  - first:
+      213: 9023687914261112682
+    second: Black_Knight_All_With_FX_8
+  - first:
+      213: -8748960420063209938
+    second: Black_Knight_All_With_FX_9
+  - first:
+      213: 7510539709424964572
+    second: Black_Knight_All_With_FX_10
+  - first:
+      213: 6447035260360644052
+    second: Black_Knight_All_With_FX_11
+  - first:
+      213: -623187093251856602
+    second: Black_Knight_All_With_FX_12
+  - first:
+      213: 4476637321245699527
+    second: Black_Knight_All_With_FX_13
+  - first:
+      213: 8718588640072402218
+    second: Black_Knight_All_With_FX_14
+  - first:
+      213: 9073666956517005747
+    second: Black_Knight_All_With_FX_15
+  - first:
+      213: 4423966581392834545
+    second: Black_Knight_All_With_FX_16
+  - first:
+      213: 6621354292368127011
+    second: Black_Knight_All_With_FX_17
+  - first:
+      213: 517076601522260513
+    second: Black_Knight_All_With_FX_18
+  - first:
+      213: 7731242517416174336
+    second: Black_Knight_All_With_FX_19
+  - first:
+      213: -4774463238302946338
+    second: Black_Knight_All_With_FX_20
+  - first:
+      213: -2636538241921991332
+    second: Black_Knight_All_With_FX_21
+  - first:
+      213: -1858937528478694563
+    second: Black_Knight_All_With_FX_22
+  - first:
+      213: 5878246216727916414
+    second: Black_Knight_All_With_FX_23
+  - first:
+      213: 8338702157243260300
+    second: Black_Knight_All_With_FX_24
+  - first:
+      213: -5789739518402664928
+    second: Black_Knight_All_With_FX_25
+  - first:
+      213: 4419557770103572459
+    second: Black_Knight_All_With_FX_26
+  - first:
+      213: -3358964610467118270
+    second: Black_Knight_All_With_FX_27
+  - first:
+      213: -8848206587221523670
+    second: Black_Knight_All_With_FX_28
+  - first:
+      213: 7010809012452365637
+    second: Black_Knight_All_With_FX_29
+  - first:
+      213: -3115447963116054623
+    second: Black_Knight_All_With_FX_30
+  - first:
+      213: -5770226151977653410
+    second: Black_Knight_All_With_FX_31
+  - first:
+      213: -485792921964470393
+    second: Black_Knight_All_With_FX_32
+  - first:
+      213: -6220430357859946425
+    second: Black_Knight_All_With_FX_33
+  - first:
+      213: -3037233997760142222
+    second: Black_Knight_All_With_FX_34
+  - first:
+      213: -7529060746319064267
+    second: Black_Knight_All_With_FX_35
+  - first:
+      213: -1254762284768298607
+    second: Black_Knight_All_With_FX_36
+  - first:
+      213: 3271810521481429147
+    second: Black_Knight_All_With_FX_37
+  - first:
+      213: 6667938501618489199
+    second: Black_Knight_All_With_FX_38
+  - first:
+      213: 523865667497017283
+    second: Black_Knight_All_With_FX_39
+  - first:
+      213: 881962455575845212
+    second: Black_Knight_All_With_FX_40
+  - first:
+      213: -2353453142857291213
+    second: Black_Knight_All_With_FX_41
+  - first:
+      213: 7695104863073512061
+    second: Black_Knight_All_With_FX_42
+  - first:
+      213: -2932122904200657309
+    second: Black_Knight_All_With_FX_43
+  - first:
+      213: 8029056726305218114
+    second: Black_Knight_All_With_FX_44
+  - first:
+      213: -3095690522373244655
+    second: Black_Knight_All_With_FX_45
+  - first:
+      213: 4105473748541015707
+    second: Black_Knight_All_With_FX_46
+  - first:
+      213: 5923667182409369578
+    second: Black_Knight_All_With_FX_47
+  - first:
+      213: 867618610585257265
+    second: Black_Knight_All_With_FX_48
+  - first:
+      213: -1349085892297302444
+    second: Black_Knight_All_With_FX_49
+  - first:
+      213: 4217027145875029341
+    second: Black_Knight_All_With_FX_50
+  - first:
+      213: 1669950161060772994
+    second: Black_Knight_All_With_FX_51
+  - first:
+      213: -7240469576142686067
+    second: Black_Knight_All_With_FX_52
+  - first:
+      213: 7304233876855960249
+    second: Black_Knight_All_With_FX_53
+  - first:
+      213: -1842822070497925350
+    second: Black_Knight_All_With_FX_54
+  - first:
+      213: -5908410514456510256
+    second: Black_Knight_All_With_FX_55
+  - first:
+      213: -7784930738544892714
+    second: Black_Knight_All_With_FX_56
+  - first:
+      213: -7634779010702827237
+    second: Black_Knight_All_With_FX_57
+  - first:
+      213: 6979030873283520206
+    second: Black_Knight_All_With_FX_58
+  - first:
+      213: 9198589300498946733
+    second: Black_Knight_All_With_FX_59
+  - first:
+      213: 1131408842617024240
+    second: Black_Knight_All_With_FX_60
+  - first:
+      213: 6096744112906427930
+    second: Black_Knight_All_With_FX_61
+  - first:
+      213: -522808620864777797
+    second: Black_Knight_All_With_FX_62
+  - first:
+      213: -7746484441774275239
+    second: Black_Knight_All_With_FX_63
+  - first:
+      213: -2552951990414502215
+    second: Black_Knight_All_With_FX_64
+  - first:
+      213: 6228169856266337176
+    second: Black_Knight_All_With_FX_65
+  - first:
+      213: -3915012894812653929
+    second: Black_Knight_All_With_FX_66
+  - first:
+      213: 6220115076573318245
+    second: Black_Knight_All_With_FX_67
+  - first:
+      213: -8228351604405673889
+    second: Black_Knight_All_With_FX_68
+  - first:
+      213: 6766739437029096396
+    second: Black_Knight_All_With_FX_69
+  - first:
+      213: -7724954041159965061
+    second: Black_Knight_All_With_FX_70
+  - first:
+      213: -1551917400214796773
+    second: Black_Knight_All_With_FX_71
+  - first:
+      213: 208508099303756826
+    second: Black_Knight_All_With_FX_72
+  - first:
+      213: 7769048422329775586
+    second: Black_Knight_All_With_FX_73
+  - first:
+      213: -7029415486163558423
+    second: Black_Knight_All_With_FX_74
+  - first:
+      213: -5436288963171202136
+    second: Black_Knight_All_With_FX_75
+  - first:
+      213: 1064237804110015799
+    second: Black_Knight_All_With_FX_76
+  - first:
+      213: -4978187042185789673
+    second: Black_Knight_All_With_FX_77
+  - first:
+      213: 7661790350830284648
+    second: Black_Knight_All_With_FX_78
+  - first:
+      213: 2665350730515870358
+    second: Black_Knight_All_With_FX_79
+  - first:
+      213: -3420156252901672266
+    second: Black_Knight_All_With_FX_80
+  - first:
+      213: 2608937772513235074
+    second: Black_Knight_All_With_FX_81
+  - first:
+      213: 6705319357653923826
+    second: Black_Knight_All_With_FX_82
+  - first:
+      213: -686061642132561561
+    second: Black_Knight_All_With_FX_83
+  - first:
+      213: 4205920966931748754
+    second: Black_Knight_All_With_FX_84
+  - first:
+      213: -1557521614045765187
+    second: Black_Knight_All_With_FX_85
+  - first:
+      213: 4652896040892891603
+    second: Black_Knight_All_With_FX_86
+  - first:
+      213: -8958415042456849558
+    second: Black_Knight_All_With_FX_87
+  - first:
+      213: -3541509138604198100
+    second: Black_Knight_All_With_FX_88
+  - first:
+      213: 5336771794955403186
+    second: Black_Knight_All_With_FX_89
+  - first:
+      213: -7991551301636625843
+    second: Black_Knight_All_With_FX_90
+  - first:
+      213: 963680905791726430
+    second: Black_Knight_All_With_FX_91
+  - first:
+      213: -8623247381762534676
+    second: Black_Knight_All_With_FX_92
+  - first:
+      213: -4739783926976267684
+    second: Black_Knight_All_With_FX_93
+  - first:
+      213: -5027346696549080406
+    second: Black_Knight_All_With_FX_94
+  - first:
+      213: 5448085647602316479
+    second: Black_Knight_All_With_FX_95
+  - first:
+      213: 3515616786999540822
+    second: Black_Knight_All_With_FX_96
+  - first:
+      213: 7941245741541639787
+    second: Black_Knight_All_With_FX_97
+  - first:
+      213: -446386550059792847
+    second: Black_Knight_All_With_FX_98
+  - first:
+      213: 1952168914815258370
+    second: Black_Knight_All_With_FX_99
+  - first:
+      213: 8490434346033194771
+    second: Black_Knight_All_With_FX_100
+  - first:
+      213: -8943514075543365613
+    second: Black_Knight_All_With_FX_101
+  - first:
+      213: -2408185460822090092
+    second: Black_Knight_All_With_FX_102
+  - first:
+      213: 7626979972668476204
+    second: Black_Knight_All_With_FX_103
+  - first:
+      213: 355592722918282917
+    second: Black_Knight_All_With_FX_104
+  - first:
+      213: -1307736204449106573
+    second: Black_Knight_All_With_FX_105
+  - first:
+      213: 4147441753202183337
+    second: Black_Knight_All_With_FX_106
+  - first:
+      213: 548462531664647801
+    second: Black_Knight_All_With_FX_107
+  - first:
+      213: -4477069117108005223
+    second: Black_Knight_All_With_FX_108
+  - first:
+      213: 205812648786734060
+    second: Black_Knight_All_With_FX_109
+  - first:
+      213: -3478189136971933361
+    second: Black_Knight_All_With_FX_110
+  - first:
+      213: -197948717682887788
+    second: Black_Knight_All_With_FX_111
+  - first:
+      213: 7212478029048848023
+    second: Black_Knight_All_With_FX_112
+  - first:
+      213: -8730984618031776504
+    second: Black_Knight_All_With_FX_113
+  - first:
+      213: -4286800972310869274
+    second: Black_Knight_All_With_FX_114
+  - first:
+      213: -1311064240986625617
+    second: Black_Knight_All_With_FX_115
+  - first:
+      213: 1554861194887287859
+    second: Black_Knight_All_With_FX_116
+  - first:
+      213: 3636737721572068138
+    second: Black_Knight_All_With_FX_117
+  - first:
+      213: 3131323607156219712
+    second: Black_Knight_All_With_FX_118
+  - first:
+      213: -8326855879805115925
+    second: Black_Knight_All_With_FX_119
+  - first:
+      213: 4497024078197755043
+    second: Black_Knight_All_With_FX_120
+  - first:
+      213: -3700975242222011148
+    second: Black_Knight_All_With_FX_121
+  - first:
+      213: 9040060055956439837
+    second: Black_Knight_All_With_FX_122
+  - first:
+      213: -3733651080342903654
+    second: Black_Knight_All_With_FX_123
+  - first:
+      213: 4045703160214550192
+    second: Black_Knight_All_With_FX_124
+  - first:
+      213: -2954401335760678772
+    second: Black_Knight_All_With_FX_125
+  - first:
+      213: 7620845182825733397
+    second: Black_Knight_All_With_FX_126
+  - first:
+      213: 2586873525932293442
+    second: Black_Knight_All_With_FX_127
+  - first:
+      213: 713094530638044455
+    second: Black_Knight_All_With_FX_128
+  - first:
+      213: 817379416018561374
+    second: Black_Knight_All_With_FX_129
+  - first:
+      213: -4187545021764927862
+    second: Black_Knight_All_With_FX_130
+  - first:
+      213: -8533609514321330744
+    second: Black_Knight_All_With_FX_131
+  - first:
+      213: -3360630838551593819
+    second: Black_Knight_All_With_FX_132
+  - first:
+      213: 6427228419624901551
+    second: Black_Knight_All_With_FX_133
+  - first:
+      213: -7216629281752021667
+    second: Black_Knight_All_With_FX_134
+  - first:
+      213: -2306422583165548847
+    second: Black_Knight_All_With_FX_135
+  - first:
+      213: -5899416155752058155
+    second: Black_Knight_All_With_FX_136
+  - first:
+      213: -2615695594321894651
+    second: Black_Knight_All_With_FX_137
+  - first:
+      213: 9067599564604084874
+    second: Black_Knight_All_With_FX_138
+  - first:
+      213: 8996667263408552421
+    second: Black_Knight_All_With_FX_139
+  - first:
+      213: 202689105433796553
+    second: Black_Knight_All_With_FX_140
+  - first:
+      213: -8019913024310004010
+    second: Black_Knight_All_With_FX_141
+  - first:
+      213: 6999255202533233427
+    second: Black_Knight_All_With_FX_142
+  - first:
+      213: 8003823229469205086
+    second: Black_Knight_All_With_FX_143
+  - first:
+      213: 5849687549583581788
+    second: Black_Knight_All_With_FX_144
+  - first:
+      213: -5538223398583590078
+    second: Black_Knight_All_With_FX_145
+  - first:
+      213: 5770120965673197097
+    second: Black_Knight_All_With_FX_146
+  - first:
+      213: -8789201698054252294
+    second: Black_Knight_All_With_FX_147
+  - first:
+      213: -193631859893370635
+    second: Black_Knight_All_With_FX_148
+  - first:
+      213: 8407870636631967935
+    second: Black_Knight_All_With_FX_149
+  - first:
+      213: 4292392695426618964
+    second: Black_Knight_All_With_FX_150
+  - first:
+      213: 6587497345308800568
+    second: Black_Knight_All_With_FX_151
+  - first:
+      213: -391386239930023544
+    second: Black_Knight_All_With_FX_152
+  - first:
+      213: -1457495930587729929
+    second: Black_Knight_All_With_FX_153
+  - first:
+      213: 1082271923533551025
+    second: Black_Knight_All_With_FX_154
+  - first:
+      213: 3314662960844365936
+    second: Black_Knight_All_With_FX_155
+  - first:
+      213: 3314104880384594669
+    second: Black_Knight_All_With_FX_156
+  - first:
+      213: -3296970698867870837
+    second: Black_Knight_All_With_FX_157
+  - first:
+      213: -4521252565147823040
+    second: Black_Knight_All_With_FX_158
+  - first:
+      213: -6682168272896270006
+    second: Black_Knight_All_With_FX_159
+  - first:
+      213: 6524342914168096899
+    second: Black_Knight_All_With_FX_160
+  - first:
+      213: 2175405065133921692
+    second: Black_Knight_All_With_FX_161
+  - first:
+      213: -9144305109068524623
+    second: Black_Knight_All_With_FX_162
+  - first:
+      213: -3522272943935121388
+    second: Black_Knight_All_With_FX_163
+  - first:
+      213: 4320359520870283629
+    second: Black_Knight_All_With_FX_164
+  - first:
+      213: 985423900641018548
+    second: Black_Knight_All_With_FX_165
+  - first:
+      213: 8271732464828697965
+    second: Black_Knight_All_With_FX_166
+  - first:
+      213: -3346679845100582005
+    second: Black_Knight_All_With_FX_167
+  - first:
+      213: -5343783426164247455
+    second: Black_Knight_All_With_FX_168
+  - first:
+      213: 5867969800392554691
+    second: Black_Knight_All_With_FX_169
+  - first:
+      213: 4130116523652914497
+    second: Black_Knight_All_With_FX_170
+  - first:
+      213: 3025417118671807650
+    second: Black_Knight_All_With_FX_171
+  - first:
+      213: -985189207361575212
+    second: Black_Knight_All_With_FX_172
+  - first:
+      213: 6146770142003749425
+    second: Black_Knight_All_With_FX_173
+  - first:
+      213: 6355552025467602810
+    second: Black_Knight_All_With_FX_174
+  - first:
+      213: 3246034651857527825
+    second: Black_Knight_All_With_FX_175
+  - first:
+      213: -486404116229283033
+    second: Black_Knight_All_With_FX_176
+  - first:
+      213: 4775343073812601069
+    second: Black_Knight_All_With_FX_177
+  - first:
+      213: -597820349266735103
+    second: Black_Knight_All_With_FX_178
+  - first:
+      213: -6103605424865467322
+    second: Black_Knight_All_With_FX_179
+  - first:
+      213: 8312913953587633342
+    second: Black_Knight_All_With_FX_180
+  - first:
+      213: -4636447646321532969
+    second: Black_Knight_All_With_FX_181
+  - first:
+      213: 921985889247456941
+    second: Black_Knight_All_With_FX_182
+  - first:
+      213: 2120217972169548777
+    second: Black_Knight_All_With_FX_183
+  - first:
+      213: -5951748283102779919
+    second: Black_Knight_All_With_FX_184
+  - first:
+      213: -8073938044996383206
+    second: Black_Knight_All_With_FX_185
+  - first:
+      213: -5528653202704562320
+    second: Black_Knight_All_With_FX_186
+  - first:
+      213: 7515628796557623969
+    second: Black_Knight_All_With_FX_187
+  - first:
+      213: 8592927312385633577
+    second: Black_Knight_All_With_FX_188
+  - first:
+      213: 8893081063874089852
+    second: Black_Knight_All_With_FX_189
+  - first:
+      213: -7295382041387971642
+    second: Black_Knight_All_With_FX_190
+  - first:
+      213: 8064694947356993061
+    second: Black_Knight_All_With_FX_191
+  - first:
+      213: 1340517858248039709
+    second: Black_Knight_All_With_FX_192
+  - first:
+      213: -7142123929224550058
+    second: Black_Knight_All_With_FX_193
+  - first:
+      213: 8901779325039004871
+    second: Black_Knight_All_With_FX_194
+  - first:
+      213: -1126208801867665687
+    second: Black_Knight_All_With_FX_195
+  - first:
+      213: -4892070235092480254
+    second: Black_Knight_All_With_FX_196
+  - first:
+      213: 6927306983854276526
+    second: Black_Knight_All_With_FX_197
+  - first:
+      213: -5352411770315243687
+    second: Black_Knight_All_With_FX_198
+  - first:
+      213: -5961849235859095707
+    second: Black_Knight_All_With_FX_199
+  - first:
+      213: 5752366693737661300
+    second: Black_Knight_All_With_FX_200
+  - first:
+      213: 5301725481176835096
+    second: Black_Knight_All_With_FX_201
+  - first:
+      213: 1921219101520001566
+    second: Black_Knight_All_With_FX_202
+  - first:
+      213: 7425985276764759741
+    second: Black_Knight_All_With_FX_203
+  - first:
+      213: -1049678168647163355
+    second: Black_Knight_All_With_FX_204
+  - first:
+      213: 1837012579065828114
+    second: Black_Knight_All_With_FX_205
+  - first:
+      213: -3193506983834667312
+    second: Black_Knight_All_With_FX_206
+  - first:
+      213: 2760603468534563582
+    second: Black_Knight_All_With_FX_207
+  - first:
+      213: 1228747095192601144
+    second: Black_Knight_All_With_FX_208
+  - first:
+      213: 45521352423079748
+    second: Black_Knight_All_With_FX_209
+  - first:
+      213: 7754829650600057765
+    second: Black_Knight_All_With_FX_210
+  - first:
+      213: 4187124058518927403
+    second: Black_Knight_All_With_FX_211
+  - first:
+      213: 159722879739034826
+    second: Black_Knight_All_With_FX_212
+  - first:
+      213: 3604678798279820148
+    second: Black_Knight_All_With_FX_213
+  - first:
+      213: -6393649374642022025
+    second: Black_Knight_All_With_FX_214
+  - first:
+      213: 8870461209456734505
+    second: Black_Knight_All_With_FX_215
+  - first:
+      213: 7024107472997678498
+    second: Black_Knight_All_With_FX_216
+  - first:
+      213: 1340042406251034288
+    second: Black_Knight_All_With_FX_217
+  - first:
+      213: -8989285246237601852
+    second: Black_Knight_All_With_FX_218
+  - first:
+      213: 7394352433017842426
+    second: Black_Knight_All_With_FX_219
+  - first:
+      213: 651666671701564884
+    second: Black_Knight_All_With_FX_220
+  - first:
+      213: -665208080576522029
+    second: Black_Knight_All_With_FX_221
+  - first:
+      213: -6504373742250406471
+    second: Black_Knight_All_With_FX_222
+  - first:
+      213: 3681607514090819878
+    second: Black_Knight_All_With_FX_223
+  - first:
+      213: -6537117826712057310
+    second: Black_Knight_All_With_FX_224
+  - first:
+      213: -1513517551483010459
+    second: Black_Knight_All_With_FX_225
+  - first:
+      213: 2913510538883995122
+    second: Black_Knight_All_With_FX_226
+  - first:
+      213: -6420528421868460246
+    second: Black_Knight_All_With_FX_227
+  - first:
+      213: 2538225027941978969
+    second: Black_Knight_All_With_FX_228
+  - first:
+      213: -7053042291216319964
+    second: Black_Knight_All_With_FX_229
+  - first:
+      213: -319344657525721196
+    second: Black_Knight_All_With_FX_230
+  - first:
+      213: -3253247812103422024
+    second: Black_Knight_All_With_FX_231
+  - first:
+      213: 3476055647080090644
+    second: Black_Knight_All_With_FX_232
+  - first:
+      213: 8799789840365483129
+    second: Black_Knight_All_With_FX_233
+  - first:
+      213: 7583863857451315861
+    second: Black_Knight_All_With_FX_234
+  - first:
+      213: -2569852172814538043
+    second: Black_Knight_All_With_FX_235
+  - first:
+      213: 4678461789297582382
+    second: Black_Knight_All_With_FX_236
+  - first:
+      213: -547223777356482017
+    second: Black_Knight_All_With_FX_237
+  - first:
+      213: -5923216494966877763
+    second: Black_Knight_All_With_FX_238
+  - first:
+      213: 4348668312969201709
+    second: Black_Knight_All_With_FX_239
+  - first:
+      213: 7609102954889320482
+    second: Black_Knight_All_With_FX_240
+  - first:
+      213: -3306986607157702734
+    second: Black_Knight_All_With_FX_241
+  - first:
+      213: -5111156524060936583
+    second: Black_Knight_All_With_FX_242
+  - first:
+      213: 5839479655793755014
+    second: Black_Knight_All_With_FX_243
+  - first:
+      213: -5152910687044698589
+    second: Black_Knight_All_With_FX_244
+  - first:
+      213: 5625360771235500800
+    second: Black_Knight_All_With_FX_245
+  - first:
+      213: -3889303495164525072
+    second: Black_Knight_All_With_FX_246
+  - first:
+      213: 8235893340385827644
+    second: Black_Knight_All_With_FX_247
+  - first:
+      213: 1932184048896871614
+    second: Black_Knight_All_With_FX_248
+  - first:
+      213: -2973580281310945036
+    second: Black_Knight_All_With_FX_249
+  - first:
+      213: 7929865931988142455
+    second: Black_Knight_All_With_FX_250
+  - first:
+      213: -2299869573228473773
+    second: Black_Knight_All_With_FX_251
+  - first:
+      213: 1082542276472205863
+    second: Black_Knight_All_With_FX_252
+  - first:
+      213: 9212295232200443559
+    second: Black_Knight_All_With_FX_253
+  - first:
+      213: -572815182977956854
+    second: Black_Knight_All_With_FX_254
+  - first:
+      213: 3463143772889939360
+    second: Black_Knight_All_With_FX_255
+  - first:
+      213: 3039862792476191504
+    second: Black_Knight_All_With_FX_256
+  - first:
+      213: 7849754982491093321
+    second: Black_Knight_All_With_FX_257
+  - first:
+      213: 8045979196138126484
+    second: Black_Knight_All_With_FX_258
+  - first:
+      213: -8545017993356537706
+    second: Black_Knight_All_With_FX_259
+  - first:
+      213: 3780162516756220456
+    second: Black_Knight_All_With_FX_260
+  - first:
+      213: 2172887551223452064
+    second: Black_Knight_All_With_FX_261
+  - first:
+      213: 4571405459690267738
+    second: Black_Knight_All_With_FX_262
+  - first:
+      213: -7806490085273154833
+    second: Black_Knight_All_With_FX_263
+  - first:
+      213: -518746588659444475
+    second: Black_Knight_All_With_FX_264
+  - first:
+      213: -4718573924463911540
+    second: Black_Knight_All_With_FX_265
+  - first:
+      213: 2669407456131537686
+    second: Black_Knight_All_With_FX_266
+  - first:
+      213: 8607612198281976658
+    second: Black_Knight_All_With_FX_267
+  - first:
+      213: -6382591901277101985
+    second: Black_Knight_All_With_FX_268
+  - first:
+      213: 7187408028699369624
+    second: Black_Knight_All_With_FX_269
+  - first:
+      213: 1431522908713678310
+    second: Black_Knight_All_With_FX_270
+  - first:
+      213: -4157418739899468078
+    second: Black_Knight_All_With_FX_271
+  - first:
+      213: -4131806344826798791
+    second: Black_Knight_All_With_FX_272
+  - first:
+      213: 511864784220976884
+    second: Black_Knight_All_With_FX_273
+  - first:
+      213: -8167895901625784479
+    second: Black_Knight_All_With_FX_274
+  - first:
+      213: 7348425365969249485
+    second: Black_Knight_All_With_FX_275
+  - first:
+      213: -716439404906910396
+    second: Black_Knight_All_With_FX_276
+  - first:
+      213: -9212784157445426582
+    second: Black_Knight_All_With_FX_277
+  - first:
+      213: -2436899305887936380
+    second: Black_Knight_All_With_FX_278
+  - first:
+      213: 2392635348960848761
+    second: Black_Knight_All_With_FX_279
+  - first:
+      213: 2017347493525837381
+    second: Black_Knight_All_With_FX_280
+  - first:
+      213: 403284816957359445
+    second: Black_Knight_All_With_FX_281
+  - first:
+      213: -956393359540345538
+    second: Black_Knight_All_With_FX_282
+  - first:
+      213: -278150307066084819
+    second: Black_Knight_All_With_FX_283
+  - first:
+      213: -3434702823611729637
+    second: Black_Knight_All_With_FX_284
+  - first:
+      213: 6269820354061210439
+    second: Black_Knight_All_With_FX_285
+  - first:
+      213: 6162055112976625058
+    second: Black_Knight_All_With_FX_286
+  - first:
+      213: -7398555517295829523
+    second: Black_Knight_All_With_FX_287
+  - first:
+      213: 3970879628260609572
+    second: Black_Knight_All_With_FX_288
+  - first:
+      213: 2514752748668255498
+    second: Black_Knight_All_With_FX_289
+  - first:
+      213: 546555457367101231
+    second: Black_Knight_All_With_FX_290
+  - first:
+      213: -6917465740427166537
+    second: Black_Knight_All_With_FX_291
+  - first:
+      213: 1187878146690032209
+    second: Black_Knight_All_With_FX_292
+  - first:
+      213: -5467941896920574711
+    second: Black_Knight_All_With_FX_293
+  - first:
+      213: -5433775055807217577
+    second: Black_Knight_All_With_FX_294
+  - first:
+      213: -4110622932893680656
+    second: Black_Knight_All_With_FX_295
+  - first:
+      213: 8512655631196529503
+    second: Black_Knight_All_With_FX_296
+  - first:
+      213: 1936248477302209083
+    second: Black_Knight_All_With_FX_297
+  - first:
+      213: 7981125709089991719
+    second: Black_Knight_All_With_FX_298
+  - first:
+      213: -9209423737467357548
+    second: Black_Knight_All_With_FX_299
+  - first:
+      213: 6028939346299737076
+    second: Black_Knight_All_With_FX_300
+  - first:
+      213: -3132735604653180994
+    second: Black_Knight_All_With_FX_301
+  - first:
+      213: -409478328267581161
+    second: Black_Knight_All_With_FX_302
+  - first:
+      213: 4582452417174896464
+    second: Black_Knight_All_With_FX_303
+  - first:
+      213: -2132421237646279534
+    second: Black_Knight_All_With_FX_304
+  - first:
+      213: -7367128569048937808
+    second: Black_Knight_All_With_FX_305
+  - first:
+      213: 131575460853617800
+    second: Black_Knight_All_With_FX_306
+  - first:
+      213: -5541481794680135063
+    second: Black_Knight_All_With_FX_307
+  - first:
+      213: 956628017712028107
+    second: Black_Knight_All_With_FX_308
+  - first:
+      213: -8145389906264669810
+    second: Black_Knight_All_With_FX_309
+  - first:
+      213: -233879757259688936
+    second: Black_Knight_All_With_FX_310
+  - first:
+      213: 5654376934672762165
+    second: Black_Knight_All_With_FX_311
+  - first:
+      213: -5556155552803160700
+    second: Black_Knight_All_With_FX_312
+  - first:
+      213: -807576587436853089
+    second: Black_Knight_All_With_FX_313
+  - first:
+      213: -7732260937115727682
+    second: Black_Knight_All_With_FX_314
+  - first:
+      213: 8270275888422452159
+    second: Black_Knight_All_With_FX_315
+  - first:
+      213: -3337435997765238664
+    second: Black_Knight_All_With_FX_316
+  - first:
+      213: -8590513975538122128
+    second: Black_Knight_All_With_FX_317
+  - first:
+      213: 2600580129881394328
+    second: Black_Knight_All_With_FX_318
+  - first:
+      213: 2826635365834112521
+    second: Black_Knight_All_With_FX_319
+  - first:
+      213: 6152907315286774007
+    second: Black_Knight_All_0
+  - first:
+      213: 1458301698560783283
+    second: Black_Knight_All_1
+  - first:
+      213: -9204471388485549701
+    second: Black_Knight_All_2
+  - first:
+      213: -4978250292350173121
+    second: Black_Knight_All_3
+  - first:
+      213: 6499255402893241090
+    second: Black_Knight_All_4
+  - first:
+      213: -9037098575954594117
+    second: Black_Knight_All_5
+  - first:
+      213: 2645537520605244652
+    second: Black_Knight_All_6
+  - first:
+      213: 1814854768323036556
+    second: Black_Knight_All_7
+  - first:
+      213: -8496143251397708173
+    second: Black_Knight_All_8
+  - first:
+      213: -4907379676532780837
+    second: Black_Knight_All_9
+  - first:
+      213: 5395103485170453271
+    second: Black_Knight_All_10
+  - first:
+      213: -6315378275545008347
+    second: Black_Knight_All_11
+  - first:
+      213: 7970159840477477842
+    second: Black_Knight_All_12
+  - first:
+      213: 6240891784679953276
+    second: Black_Knight_All_13
+  - first:
+      213: 4548996480740695047
+    second: Black_Knight_All_14
+  - first:
+      213: -7897679516250811401
+    second: Black_Knight_All_15
+  - first:
+      213: 8923297184991777099
+    second: Black_Knight_All_16
+  - first:
+      213: 6210329687429884773
+    second: Black_Knight_All_17
+  - first:
+      213: -450359838196019103
+    second: Black_Knight_All_18
+  - first:
+      213: 5671778629882363901
+    second: Black_Knight_All_19
+  - first:
+      213: 9016785846668545388
+    second: Black_Knight_All_20
+  - first:
+      213: -3899525785230976121
+    second: Black_Knight_All_21
+  - first:
+      213: 6131008928070132371
+    second: Black_Knight_All_22
+  - first:
+      213: 7460336965807046034
+    second: Black_Knight_All_23
+  - first:
+      213: -5410045401389523270
+    second: Black_Knight_All_24
+  - first:
+      213: -7796950961880255585
+    second: Black_Knight_All_25
+  - first:
+      213: -7353219836719397865
+    second: Black_Knight_All_26
+  - first:
+      213: -8502588682510176665
+    second: Black_Knight_All_27
+  - first:
+      213: -9118093329268302938
+    second: Black_Knight_All_28
+  - first:
+      213: -5774866579911778890
+    second: Black_Knight_All_29
+  - first:
+      213: -2870353506562917423
+    second: Black_Knight_All_30
+  - first:
+      213: -5268664165895818618
+    second: Black_Knight_All_31
+  - first:
+      213: -1443802863813322812
+    second: Black_Knight_All_32
+  - first:
+      213: 4109752289513431181
+    second: Black_Knight_All_33
+  - first:
+      213: 23781231442287741
+    second: Black_Knight_All_34
+  - first:
+      213: -5497791104933392058
+    second: Black_Knight_All_35
+  - first:
+      213: 2509548034405087410
+    second: Black_Knight_All_36
+  - first:
+      213: 1405539148235309184
+    second: Black_Knight_All_37
+  - first:
+      213: 4337004203501301029
+    second: Black_Knight_All_38
+  - first:
+      213: -2610358467192788110
+    second: Black_Knight_All_39
+  - first:
+      213: -5866590288353525840
+    second: Black_Knight_All_40
+  - first:
+      213: -7727125917419926592
+    second: Black_Knight_All_41
+  - first:
+      213: 6843998541762061324
+    second: Black_Knight_All_42
+  - first:
+      213: 5410229079516793327
+    second: Black_Knight_All_43
+  - first:
+      213: 7223243487825402841
+    second: Black_Knight_All_44
+  - first:
+      213: 1602896996397523604
+    second: Black_Knight_All_45
+  - first:
+      213: -7497596813438313018
+    second: Black_Knight_All_46
+  - first:
+      213: 1504984599680251232
+    second: Black_Knight_All_47
+  - first:
+      213: -305248819916127855
+    second: Black_Knight_All_48
+  - first:
+      213: 4146504699591435132
+    second: Black_Knight_All_49
+  - first:
+      213: -1747922604793187054
+    second: Black_Knight_All_50
+  - first:
+      213: -4033824671634789616
+    second: Black_Knight_All_51
+  - first:
+      213: 3294098173053087383
+    second: Black_Knight_All_52
+  - first:
+      213: -4139187966303264014
+    second: Black_Knight_All_53
+  - first:
+      213: -4090651976651197593
+    second: Black_Knight_All_54
+  - first:
+      213: 3174918106183055554
+    second: Black_Knight_All_55
+  - first:
+      213: -6110380277520322503
+    second: Black_Knight_All_56
+  - first:
+      213: 8515771095038057902
+    second: Black_Knight_All_57
+  - first:
+      213: 1435672756351666289
+    second: Black_Knight_All_58
+  - first:
+      213: 7880048563320994314
+    second: Black_Knight_All_59
+  - first:
+      213: -726532173376587650
+    second: Black_Knight_All_60
+  - first:
+      213: -597080951408286700
+    second: Black_Knight_All_61
+  - first:
+      213: 5061831020459782724
+    second: Black_Knight_All_62
+  - first:
+      213: 2224356871571669655
+    second: Black_Knight_All_63
+  - first:
+      213: 4214628957111713492
+    second: Black_Knight_All_64
+  - first:
+      213: -519891786197038828
+    second: Black_Knight_All_65
+  - first:
+      213: -617263716268824631
+    second: Black_Knight_All_66
+  - first:
+      213: 7493482033131509289
+    second: Black_Knight_All_67
+  - first:
+      213: 8695774124860314376
+    second: Black_Knight_All_68
+  - first:
+      213: -7617833428870839194
+    second: Black_Knight_All_69
+  - first:
+      213: -5751483596418617839
+    second: Black_Knight_All_70
+  - first:
+      213: 3608212232296202432
+    second: Black_Knight_All_71
+  - first:
+      213: 8611589760087192627
+    second: Black_Knight_All_72
+  - first:
+      213: -6657263163320036963
+    second: Black_Knight_All_73
+  - first:
+      213: -8184193325523746608
+    second: Black_Knight_All_74
+  - first:
+      213: -1119350442418880675
+    second: Black_Knight_All_75
+  - first:
+      213: 3462564138011726842
+    second: Black_Knight_All_76
+  - first:
+      213: -5264285592867603454
+    second: Black_Knight_All_77
+  - first:
+      213: 395836886349297782
+    second: Black_Knight_All_78
+  - first:
+      213: -1788684477517407439
+    second: Black_Knight_All_79
+  - first:
+      213: 2138822527818405695
+    second: Black_Knight_All_80
+  - first:
+      213: -6548877239971559254
+    second: Black_Knight_All_81
+  - first:
+      213: 7824114303368790585
+    second: Black_Knight_All_82
+  - first:
+      213: -1201300950329529096
+    second: Black_Knight_All_83
+  - first:
+      213: 4907265110826214002
+    second: Black_Knight_All_84
+  - first:
+      213: -2144542758480064620
+    second: Black_Knight_All_85
+  - first:
+      213: -6070676262152327232
+    second: Black_Knight_All_86
+  - first:
+      213: 2417260639956277197
+    second: Black_Knight_All_87
+  - first:
+      213: 5288469675885123694
+    second: Black_Knight_All_88
+  - first:
+      213: 7099097516232217768
+    second: Black_Knight_All_89
+  - first:
+      213: 651458532880973261
+    second: Black_Knight_All_90
+  - first:
+      213: -8896231035014814051
+    second: Black_Knight_All_91
+  - first:
+      213: 1074296674559973729
+    second: Black_Knight_All_92
+  - first:
+      213: 6342409392669433548
+    second: Black_Knight_All_93
+  - first:
+      213: 8678521823119153746
+    second: Black_Knight_All_94
+  - first:
+      213: 706686627998873451
+    second: Black_Knight_All_95
+  - first:
+      213: 6809003214909552789
+    second: Black_Knight_All_96
+  - first:
+      213: -1647414311075895474
+    second: Black_Knight_All_97
+  - first:
+      213: -2444216800410396456
+    second: Black_Knight_All_98
+  - first:
+      213: -2171598904537027897
+    second: Black_Knight_All_99
+  - first:
+      213: -8240364572256045253
+    second: Black_Knight_All_100
+  - first:
+      213: -7098778867291430907
+    second: Black_Knight_All_101
+  - first:
+      213: 1594179564557813706
+    second: Black_Knight_All_102
+  - first:
+      213: 2010832309474373436
+    second: Black_Knight_All_103
+  - first:
+      213: -6860035804105629229
+    second: Black_Knight_All_104
+  - first:
+      213: -4090698362285832152
+    second: Black_Knight_All_105
+  - first:
+      213: 6657489645191282903
+    second: Black_Knight_All_106
+  - first:
+      213: 665002694571555999
+    second: Black_Knight_All_107
+  - first:
+      213: -3813094041136425332
+    second: Black_Knight_All_108
+  - first:
+      213: -7379223946686945897
+    second: Black_Knight_All_109
+  - first:
+      213: -4731480323327288267
+    second: Black_Knight_All_110
+  - first:
+      213: -7846212697526899165
+    second: Black_Knight_All_111
+  - first:
+      213: 7579945601920739866
+    second: Black_Knight_All_112
+  - first:
+      213: -4735149021638127214
+    second: Black_Knight_All_113
+  - first:
+      213: -5588004888774129664
+    second: Black_Knight_All_114
+  - first:
+      213: 1187752012058891693
+    second: Black_Knight_All_115
+  - first:
+      213: -7624458829211440854
+    second: Black_Knight_All_116
+  - first:
+      213: 4151499034696338382
+    second: Black_Knight_All_117
+  - first:
+      213: -4127130096039804312
+    second: Black_Knight_All_118
+  - first:
+      213: -4808994533967999280
+    second: Black_Knight_All_119
+  - first:
+      213: 8064812258794986623
+    second: Black_Knight_All_120
+  - first:
+      213: 3932801328529254087
+    second: Black_Knight_All_121
+  - first:
+      213: -6909911995732474214
+    second: Black_Knight_All_122
+  - first:
+      213: -5387913782539060181
+    second: Black_Knight_All_123
+  - first:
+      213: -5219681103871434410
+    second: Black_Knight_All_124
+  - first:
+      213: 4463136421603117892
+    second: Black_Knight_All_125
+  - first:
+      213: 7015362310316107648
+    second: Black_Knight_All_126
+  - first:
+      213: -3287137807131299207
+    second: Black_Knight_All_127
+  - first:
+      213: -9222570103351896801
+    second: Black_Knight_All_128
+  - first:
+      213: -2598333777762859445
+    second: Black_Knight_All_129
+  - first:
+      213: -4205062777318402506
+    second: Black_Knight_All_130
+  - first:
+      213: -1100201295491504527
+    second: Black_Knight_All_131
+  - first:
+      213: 1027613188560634082
+    second: Black_Knight_All_132
+  - first:
+      213: 2166746305272555627
+    second: Black_Knight_All_133
+  - first:
+      213: -6543752728178436513
+    second: Black_Knight_All_134
+  - first:
+      213: -1334100847706530785
+    second: Black_Knight_All_135
+  - first:
+      213: 7764415664965713886
+    second: Black_Knight_All_136
+  - first:
+      213: -81158816286045220
+    second: Black_Knight_All_137
+  - first:
+      213: 5832034911795166642
+    second: Black_Knight_All_138
+  - first:
+      213: 1021699449828105328
+    second: Black_Knight_All_139
+  - first:
+      213: 4938642354876442881
+    second: Black_Knight_All_140
+  - first:
+      213: -7806652228557427350
+    second: Black_Knight_All_141
+  - first:
+      213: -8499692671003563886
+    second: Black_Knight_All_142
+  - first:
+      213: 7620677546592095463
+    second: Black_Knight_All_143
+  - first:
+      213: -288098925511579374
+    second: Black_Knight_All_144
+  - first:
+      213: 1254548657536173136
+    second: Black_Knight_All_145
+  - first:
+      213: -7703946015426627426
+    second: Black_Knight_All_146
+  - first:
+      213: 1776816115695747066
+    second: Black_Knight_All_147
+  - first:
+      213: 7867958315409603059
+    second: Black_Knight_All_148
+  - first:
+      213: -8312493412548525663
+    second: Black_Knight_All_149
+  - first:
+      213: 8873960181184681748
+    second: Black_Knight_All_150
+  - first:
+      213: -783072640410811471
+    second: Black_Knight_All_151
+  - first:
+      213: -6290492261528963095
+    second: Black_Knight_All_152
+  - first:
+      213: -2369529743901277743
+    second: Black_Knight_All_153
+  - first:
+      213: 3926979169810195459
+    second: Black_Knight_All_154
+  - first:
+      213: -7995661848956325495
+    second: Black_Knight_All_155
+  - first:
+      213: 6335985569822419828
+    second: Black_Knight_All_156
+  - first:
+      213: -2923478804055388462
+    second: Black_Knight_All_157
+  - first:
+      213: -6876791349224908324
+    second: Black_Knight_All_158
+  - first:
+      213: -1150666985573382729
+    second: Black_Knight_All_159
+  - first:
+      213: 8217578326422445524
+    second: Black_Knight_All_160
+  - first:
+      213: -7144701525042074988
+    second: Black_Knight_All_161
+  - first:
+      213: 8543417452335112283
+    second: Black_Knight_All_162
+  - first:
+      213: -8347029590944656851
+    second: Black_Knight_All_163
+  - first:
+      213: -175331088560722802
+    second: Black_Knight_All_164
+  - first:
+      213: -7612719818584142763
+    second: Black_Knight_All_165
+  - first:
+      213: 7303485095295691662
+    second: Black_Knight_All_166
+  - first:
+      213: -2850198730060649841
+    second: Black_Knight_All_167
+  - first:
+      213: -2333949616460446680
+    second: Black_Knight_All_168
+  - first:
+      213: -4264291839681900416
+    second: Black_Knight_All_169
+  - first:
+      213: -5730513678597439964
+    second: Black_Knight_All_170
+  - first:
+      213: -3214455183703289995
+    second: Black_Knight_All_171
+  - first:
+      213: -4037848039565623184
+    second: Black_Knight_All_172
+  - first:
+      213: 6668368211847055623
+    second: Black_Knight_All_173
+  - first:
+      213: -3758268337199792718
+    second: Black_Knight_All_174
+  - first:
+      213: 8870603378396693674
+    second: Black_Knight_All_175
+  - first:
+      213: 6077658425693227782
+    second: Black_Knight_All_176
+  - first:
+      213: -1087243958163481616
+    second: Black_Knight_All_177
+  - first:
+      213: 3072111315963807766
+    second: Black_Knight_All_178
+  - first:
+      213: 4106881136926300519
+    second: Black_Knight_All_179
+  - first:
+      213: -9077659132915745557
+    second: Black_Knight_All_180
+  - first:
+      213: -1843048463471982808
+    second: Black_Knight_All_181
+  - first:
+      213: -3479929981999080821
+    second: Black_Knight_All_182
+  - first:
+      213: 4221793591185211875
+    second: Black_Knight_All_183
+  - first:
+      213: 8740548272258291327
+    second: Black_Knight_All_184
+  - first:
+      213: -2821342889303322140
+    second: Black_Knight_All_185
+  - first:
+      213: 5173571603960612486
+    second: Black_Knight_All_186
+  - first:
+      213: -4627430106501605315
+    second: Black_Knight_All_187
+  - first:
+      213: 3141958096684938953
+    second: Black_Knight_All_188
+  - first:
+      213: -1801407469806913498
+    second: Black_Knight_All_189
+  - first:
+      213: 5047397998409113731
+    second: Black_Knight_All_190
+  - first:
+      213: -251569070902116944
+    second: Black_Knight_All_191
+  - first:
+      213: -4441971910149486776
+    second: Black_Knight_All_192
+  - first:
+      213: 3225371408041854399
+    second: Black_Knight_All_193
+  - first:
+      213: -4468224247862664789
+    second: Black_Knight_All_194
+  - first:
+      213: 2335581491093259186
+    second: Black_Knight_All_195
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Black_Knight_All_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0129f8a94836550800000000000000
+      internalID: 6152907315286774007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3701e1badec3410800000000000000
+      internalID: 1458301698560783283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7182102a06234080800000000000000
+      internalID: -9204471388485549701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30cb792cb3b9eab0800000000000000
+      internalID: -4978250292350173121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 832
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b6df9ba5ef13a50800000000000000
+      internalID: 6499255402893241090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 832
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6b90cc9b6c59280800000000000000
+      internalID: -9037098575954594117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 832
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceca4abbb56d6b420800000000000000
+      internalID: 2645537520605244652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 832
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8581d8dbc8af2910800000000000000
+      internalID: 1814854768323036556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 832
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3767b933ab2a71a80800000000000000
+      internalID: -8496143251397708173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 832
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0da424f2c75ebb0800000000000000
+      internalID: -4907379676532780837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 832
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b8e0809024fda40800000000000000
+      internalID: 5395103485170453271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 832
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527bbef2be44b58a0800000000000000
+      internalID: -6315378275545008347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 832
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db7ebea522bb9e60800000000000000
+      internalID: 7970159840477477842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 832
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c739083330a1c9650800000000000000
+      internalID: 6240891784679953276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c1d079238412f30800000000000000
+      internalID: 4548996480740695047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3ddfbd25ec56290800000000000000
+      internalID: -7897679516250811401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b419da8138be5db70800000000000000
+      internalID: 8923297184991777099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b225d62f58f2650800000000000000
+      internalID: 6210329687429884773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160593ffc1000c9f0800000000000000
+      internalID: -450359838196019103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_19
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff3ace0d9436be40800000000000000
+      internalID: 5671778629882363901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_20
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6dc27e54fe022d70800000000000000
+      internalID: 9016785846668545388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_21
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bd4da75f912e9c0800000000000000
+      internalID: -3899525785230976121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_22
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3926e58f228b51550800000000000000
+      internalID: 6131008928070132371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_23
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 768
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29df4af91f0788760800000000000000
+      internalID: 7460336965807046034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_24
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe117ffe58abe4b0800000000000000
+      internalID: -5410045401389523270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_25
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 768
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93bcf1096aabc390800000000000000
+      internalID: -7796950961880255585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_26
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7140cfc748d14f990800000000000000
+      internalID: -7353219836719397865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_27
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 768
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e69b354acb00a80800000000000000
+      internalID: -8502588682510176665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab9a104d66067180800000000000000
+      internalID: -9118093329268302938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd551f217d8bdfa0800000000000000
+      internalID: -5774866579911778890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db358d81b47a28d0800000000000000
+      internalID: -2870353506562917423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_31
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68233fe0bd1f1e6b0800000000000000
+      internalID: -5268664165895818618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 704
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c717b8e1f496fbe0800000000000000
+      internalID: -1443802863813322812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_33
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 704
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80eb43dee5c80930800000000000000
+      internalID: 4109752289513431181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_34
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 704
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c507c67ec745000800000000000000
+      internalID: 23781231442287741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_35
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 704
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641942d5e1ce3b3b0800000000000000
+      internalID: -5497791104933392058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_36
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 704
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8be7124a4b3d220800000000000000
+      internalID: 2509548034405087410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_37
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 704
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0808870986a718310800000000000000
+      internalID: 1405539148235309184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_38
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 704
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d221b3852203c30800000000000000
+      internalID: 4337004203501301029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_39
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 704
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b6a8aedc426cbd0800000000000000
+      internalID: -2610358467192788110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_40
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 704
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf7eeb173fa59ea0800000000000000
+      internalID: -5866590288353525840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_41
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 704
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb887d0bebb3c490800000000000000
+      internalID: -7727125917419926592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04e405a964cafe50800000000000000
+      internalID: 6843998541762061324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe94616eeaef41b40800000000000000
+      internalID: 5410229079516793327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db9cf98ead1e3460800000000000000
+      internalID: 7223243487825402841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_45
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492a0d16352ae3610800000000000000
+      internalID: 1602896996397523604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_46
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd98e11c6f23f790800000000000000
+      internalID: -7497596813438313018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_47
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065ff580587c2e410800000000000000
+      internalID: 1504984599680251232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_48
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191cac8c0d983cbf0800000000000000
+      internalID: -305248819916127855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_49
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73a2ae1e085b8930800000000000000
+      internalID: 4146504699591435132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_50
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 640
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2153d6ed6a12eb7e0800000000000000
+      internalID: -1747922604793187054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_51
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 640
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b600155d9f408c0800000000000000
+      internalID: -4033824671634789616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_52
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 640
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ea714e5dcf6bd20800000000000000
+      internalID: 3294098173053087383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_53
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 640
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f22ce99976ae86c0800000000000000
+      internalID: -4139187966303264014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_54
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 640
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763b4ff43b51b37c0800000000000000
+      internalID: -4090651976651197593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_55
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 640
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c83ff532339f0c20800000000000000
+      internalID: 3174918106183055554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93039d30381933ba0800000000000000
+      internalID: -6110380277520322503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_57
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead584441b81e2670800000000000000
+      internalID: 8515771095038057902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1780c00f3c88ce310800000000000000
+      internalID: 1435672756351666289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_59
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a33950b6e8b5d60800000000000000
+      internalID: 7880048563320994314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_60
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78feff66d6dae5f0800000000000000
+      internalID: -726532173376587650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_61
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 576
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4142825c90eb6b7f0800000000000000
+      internalID: -597080951408286700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_62
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 576
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442fe8f8e7c3f3640800000000000000
+      internalID: 5061831020459782724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_63
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 576
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7928abf1ac08ede10800000000000000
+      internalID: 2224356871571669655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_64
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 576
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4def7b8d4be5d7a30800000000000000
+      internalID: 4214628957111713492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_65
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 576
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419051acc29f8c8f0800000000000000
+      internalID: -519891786197038828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_66
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 576
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c72f03abe90f67f0800000000000000
+      internalID: -617263716268824631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_67
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 576
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926539bf4323ef760800000000000000
+      internalID: 7493482033131509289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_68
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 576
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803155f8e789da870800000000000000
+      internalID: 8695774124860314376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_69
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 576
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664ce028bd4084690800000000000000
+      internalID: -7617833428870839194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e6bf74420ae20b0800000000000000
+      internalID: -5751483596418617839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c00c3c78e1f21230800000000000000
+      internalID: 3608212232296202432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3347369b243828770800000000000000
+      internalID: 8611589760087192627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_73
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d911406bc66ac93a0800000000000000
+      internalID: -6657263163320036963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_74
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0c80b3887eb6e80800000000000000
+      internalID: -8184193325523746608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_75
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f327404b44770f0800000000000000
+      internalID: -1119350442418880675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_76
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af31232fcbf7d0030800000000000000
+      internalID: 3462564138011726842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_77
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c7be8052081f6b0800000000000000
+      internalID: -5264285592867603454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_78
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678b8d70d8b4e7500800000000000000
+      internalID: 395836886349297782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_79
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 512
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bd15ec1f05d27e0800000000000000
+      internalID: -1788684477517407439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_80
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f371830d1cf9ead10800000000000000
+      internalID: 2138822527818405695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_81
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 512
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8cad109d6bd15a0800000000000000
+      internalID: -6548877239971559254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_82
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93289564186d49c60800000000000000
+      internalID: 7824114303368790585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_83
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 512
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fce443862f145fe0800000000000000
+      internalID: -1201300950329529096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272e6755e9b1a1440800000000000000
+      internalID: 4907265110826214002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_85
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fc82339bd0d32e0800000000000000
+      internalID: -2144542758480064620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_86
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cfa3087a10a0cba0800000000000000
+      internalID: -6070676262152327232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_87
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7902eaeb5db8120800000000000000
+      internalID: 2417260639956277197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_88
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 448
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68de84962b646940800000000000000
+      internalID: 5288469675885123694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_89
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 448
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a411e0149f058260800000000000000
+      internalID: 7099097516232217768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_90
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 448
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd744685127a0900800000000000000
+      internalID: 651458532880973261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_91
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 448
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96e226020d3a8480800000000000000
+      internalID: -8896231035014814051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_92
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 448
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169d786322ba8ee00800000000000000
+      internalID: 1074296674559973729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_93
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 448
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce99263db3c40850800000000000000
+      internalID: 6342409392669433548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_94
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 448
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a1e7a0e9d407870800000000000000
+      internalID: 8678521823119153746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_95
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 448
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6734657eb7aec900800000000000000
+      internalID: 706686627998873451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_96
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 448
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5983d2b29507e7e50800000000000000
+      internalID: 6809003214909552789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_97
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 448
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e472d6699653329e0800000000000000
+      internalID: -1647414311075895474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d81f7125c5641ed0800000000000000
+      internalID: -2444216800410396456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_99
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca617c4d4eecd1e0800000000000000
+      internalID: -2171598904537027897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37f6f2b41854ad80800000000000000
+      internalID: -8240364572256045253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_101
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5006b0c2b321c7d90800000000000000
+      internalID: -7098778867291430907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_102
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7c7ad1ed9af1610800000000000000
+      internalID: 1594179564557813706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_103
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f2915e459e7eb10800000000000000
+      internalID: 2010832309474373436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_104
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1a2dd38c14cc0a0800000000000000
+      internalID: -6860035804105629229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_105
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8284ea0538bea37c0800000000000000
+      internalID: -4090698362285832152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_106
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 384
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0c7753f87246c50800000000000000
+      internalID: 6657489645191282903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_107
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 384
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c7d986d609a3900800000000000000
+      internalID: 665002694571555999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_108
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 384
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8697e61c2b251bc0800000000000000
+      internalID: -3813094041136425332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_109
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 384
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7952ba3daeab79990800000000000000
+      internalID: -7379223946686945897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_110
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 384
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c9352e6b7665eb0800000000000000
+      internalID: -4731480323327288267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_111
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 384
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32eefb36f17ac1390800000000000000
+      internalID: -7846212697526899165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a254b5d50613960800000000000000
+      internalID: 7579945601920739866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_113
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29198be7d0f594eb0800000000000000
+      internalID: -4735149021638127214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_114
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008c871092b6372b0800000000000000
+      internalID: -5588004888774129664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_115
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da59608792ebb7010800000000000000
+      internalID: 1187752012058891693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_116
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 320
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29e248471b703690800000000000000
+      internalID: -7624458829211440854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_117
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbc37060661d9930800000000000000
+      internalID: 4151499034696338382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_118
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 320
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86249bb4b0d79b6c0800000000000000
+      internalID: -4127130096039804312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_119
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 320
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0deca0453f4034db0800000000000000
+      internalID: -4808994533967999280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_120
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 320
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7cd0b92508fbef60800000000000000
+      internalID: 8064812258794986623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_121
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 320
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6ab2fa8fd149630800000000000000
+      internalID: 3932801328529254087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_122
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 320
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96c72176af0b10a0800000000000000
+      internalID: -6909911995732474214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_123
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 320
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2cf35f06f84a35b0800000000000000
+      internalID: -5387913782539060181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_124
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 320
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651aceae0b7ff87b0800000000000000
+      internalID: -5219681103871434410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_125
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 320
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b03c1cdee30fd30800000000000000
+      internalID: 4463136421603117892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0872e0d2ad29b5160800000000000000
+      internalID: 7015362310316107648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_127
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972be26949db162d0800000000000000
+      internalID: -3287137807131299207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_128
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f159291ba59d20080800000000000000
+      internalID: -9222570103351896801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_129
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46cb88123dd0fbd0800000000000000
+      internalID: -2598333777762859445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_130
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63618b3fead94a5c0800000000000000
+      internalID: -4205062777318402506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_131
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176edc830cc4bb0f0800000000000000
+      internalID: -1100201295491504527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_132
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0c9ae10c0d24e00800000000000000
+      internalID: 1027613188560634082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_133
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b682924e844d11e10800000000000000
+      internalID: 2166746305272555627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_134
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f565ee2609bef25a0800000000000000
+      internalID: -6543752728178436513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_135
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 256
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c97ede8525c7de0800000000000000
+      internalID: -1334100847706530785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_136
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf72ced8eeb0cb60800000000000000
+      internalID: 7764415664965713886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_137
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 256
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb01e09c7aafdef0800000000000000
+      internalID: -81158816286045220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_138
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd3a335adc8fe050800000000000000
+      internalID: 5832034911795166642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_139
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 256
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c57368c3ecd2e00800000000000000
+      internalID: 1021699449828105328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109eb134e05998440800000000000000
+      internalID: 4938642354876442881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_141
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6da2d7d82339a390800000000000000
+      internalID: -7806652228557427350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_142
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29867dc8c860b0a80800000000000000
+      internalID: -8499692671003563886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_143
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ecca604ad512c960800000000000000
+      internalID: 7620677546592095463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_144
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219e5bcbd87700cf0800000000000000
+      internalID: -288098925511579374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_145
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05403ed6b5d096110800000000000000
+      internalID: 1254548657536173136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_146
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98b5bd8ae5161590800000000000000
+      internalID: -7703946015426627426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_147
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 192
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afffb3fd7d488a810800000000000000
+      internalID: 1776816115695747066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_148
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 192
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9f191d66a903d60800000000000000
+      internalID: 7867958315409603059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_149
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 192
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a14543684714ac80800000000000000
+      internalID: -8312493412548525663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_150
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 192
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417597eb4c3a62b70800000000000000
+      internalID: 8873960181184681748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_151
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 192
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b38cfa1597f125f0800000000000000
+      internalID: -783072640410811471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_152
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 192
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7f839dd9ea3b8a0800000000000000
+      internalID: -6290492261528963095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_153
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 192
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1ca02904dbd1fd0800000000000000
+      internalID: -2369529743901277743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30425e8bfbe6f7630800000000000000
+      internalID: 3926979169810195459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_155
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981b0d449e3b90190800000000000000
+      internalID: -7995661848956325495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_156
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b24476e41fde750800000000000000
+      internalID: 6335985569822419828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_157
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de05e75487bd67d0800000000000000
+      internalID: -2923478804055388462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_158
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd958f2e3bab090a0800000000000000
+      internalID: -6876791349224908324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_159
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5012e19720800f0800000000000000
+      internalID: -1150666985573382729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_160
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dddb5403f3ba0270800000000000000
+      internalID: 8217578326422445524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_161
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49aeca531dbe8dc90800000000000000
+      internalID: -7144701525042074988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_162
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 128
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50ae4e68e0509670800000000000000
+      internalID: 8543417452335112283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_163
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 128
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22d11ebfc4692c80800000000000000
+      internalID: -8347029590944656851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_164
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 128
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c614ccd49119df0800000000000000
+      internalID: -175331088560722802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_165
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 128
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c47bea8af2a5690800000000000000
+      internalID: -7612719818584142763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_166
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 128
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ba577aff03b5560800000000000000
+      internalID: 7303485095295691662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_167
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 128
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a27732b5f0278d0800000000000000
+      internalID: -2850198730060649841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824473b80352c9fd0800000000000000
+      internalID: -2333949616460446680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_169
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080d92d3a2132d4c0800000000000000
+      internalID: -4264291839681900416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_170
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ebeaebb202970b0800000000000000
+      internalID: -5730513678597439964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_171
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57fc3f49a06f363d0800000000000000
+      internalID: -3214455183703289995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_172
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0700fa8f99ea6f7c0800000000000000
+      internalID: -4037848039565623184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_173
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70986a2ee8dca8c50800000000000000
+      internalID: 6668368211847055623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_174
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bdbb960cd2f7dbc0800000000000000
+      internalID: -3758268337199792718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_175
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 64
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa407b036c6ba1b70800000000000000
+      internalID: 8870603378396693674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_176
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 64
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bca99232e285450800000000000000
+      internalID: 6077658425693227782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_177
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 64
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbd979616559e0f0800000000000000
+      internalID: -1087243958163481616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_178
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 64
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6180b7217f452aa20800000000000000
+      internalID: 3072111315963807766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_179
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 64
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7699e3582a29ef830800000000000000
+      internalID: 4106881136926300519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_180
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 64
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: becf9763d1da50280800000000000000
+      internalID: -9077659132915745557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_181
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 64
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8274ce6ff2d2c66e0800000000000000
+      internalID: -1843048463471982808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a96bb6e1ec4bfc0800000000000000
+      internalID: -3479929981999080821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_183
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e18d9537e2d69a30800000000000000
+      internalID: 4221793591185211875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_184
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f761c1e185aac4970800000000000000
+      internalID: 8740548272258291327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_185
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1508d179398d8d0800000000000000
+      internalID: -2821342889303322140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_186
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686ce1a86f73cc740800000000000000
+      internalID: 5173571603960612486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_187
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d381607d5d018cfb0800000000000000
+      internalID: -4627430106501605315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_188
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6711cfd3a7a9b20800000000000000
+      internalID: 3141958096684938953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_189
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6287c62537d1007e0800000000000000
+      internalID: -1801407469806913498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_190
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380613fbcb5fb0640800000000000000
+      internalID: 5047397998409113731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_191
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd776c434f328cf0800000000000000
+      internalID: -251569070902116944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_192
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847c6411512fa52c0800000000000000
+      internalID: -4441971910149486776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_193
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb54905f432d2cc20800000000000000
+      internalID: 3225371408041854399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_194
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1eb5168bdadf1c0800000000000000
+      internalID: -4468224247862664789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_All_195
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 128
+        height: 64
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b34790edf6a96020800000000000000
+      internalID: 2335581491093259186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Black_Knight_All_0: 6152907315286774007
+      Black_Knight_All_1: 1458301698560783283
+      Black_Knight_All_10: 5395103485170453271
+      Black_Knight_All_100: -8240364572256045253
+      Black_Knight_All_101: -7098778867291430907
+      Black_Knight_All_102: 1594179564557813706
+      Black_Knight_All_103: 2010832309474373436
+      Black_Knight_All_104: -6860035804105629229
+      Black_Knight_All_105: -4090698362285832152
+      Black_Knight_All_106: 6657489645191282903
+      Black_Knight_All_107: 665002694571555999
+      Black_Knight_All_108: -3813094041136425332
+      Black_Knight_All_109: -7379223946686945897
+      Black_Knight_All_11: -6315378275545008347
+      Black_Knight_All_110: -4731480323327288267
+      Black_Knight_All_111: -7846212697526899165
+      Black_Knight_All_112: 7579945601920739866
+      Black_Knight_All_113: -4735149021638127214
+      Black_Knight_All_114: -5588004888774129664
+      Black_Knight_All_115: 1187752012058891693
+      Black_Knight_All_116: -7624458829211440854
+      Black_Knight_All_117: 4151499034696338382
+      Black_Knight_All_118: -4127130096039804312
+      Black_Knight_All_119: -4808994533967999280
+      Black_Knight_All_12: 7970159840477477842
+      Black_Knight_All_120: 8064812258794986623
+      Black_Knight_All_121: 3932801328529254087
+      Black_Knight_All_122: -6909911995732474214
+      Black_Knight_All_123: -5387913782539060181
+      Black_Knight_All_124: -5219681103871434410
+      Black_Knight_All_125: 4463136421603117892
+      Black_Knight_All_126: 7015362310316107648
+      Black_Knight_All_127: -3287137807131299207
+      Black_Knight_All_128: -9222570103351896801
+      Black_Knight_All_129: -2598333777762859445
+      Black_Knight_All_13: 6240891784679953276
+      Black_Knight_All_130: -4205062777318402506
+      Black_Knight_All_131: -1100201295491504527
+      Black_Knight_All_132: 1027613188560634082
+      Black_Knight_All_133: 2166746305272555627
+      Black_Knight_All_134: -6543752728178436513
+      Black_Knight_All_135: -1334100847706530785
+      Black_Knight_All_136: 7764415664965713886
+      Black_Knight_All_137: -81158816286045220
+      Black_Knight_All_138: 5832034911795166642
+      Black_Knight_All_139: 1021699449828105328
+      Black_Knight_All_14: 4548996480740695047
+      Black_Knight_All_140: 4938642354876442881
+      Black_Knight_All_141: -7806652228557427350
+      Black_Knight_All_142: -8499692671003563886
+      Black_Knight_All_143: 7620677546592095463
+      Black_Knight_All_144: -288098925511579374
+      Black_Knight_All_145: 1254548657536173136
+      Black_Knight_All_146: -7703946015426627426
+      Black_Knight_All_147: 1776816115695747066
+      Black_Knight_All_148: 7867958315409603059
+      Black_Knight_All_149: -8312493412548525663
+      Black_Knight_All_15: -7897679516250811401
+      Black_Knight_All_150: 8873960181184681748
+      Black_Knight_All_151: -783072640410811471
+      Black_Knight_All_152: -6290492261528963095
+      Black_Knight_All_153: -2369529743901277743
+      Black_Knight_All_154: 3926979169810195459
+      Black_Knight_All_155: -7995661848956325495
+      Black_Knight_All_156: 6335985569822419828
+      Black_Knight_All_157: -2923478804055388462
+      Black_Knight_All_158: -6876791349224908324
+      Black_Knight_All_159: -1150666985573382729
+      Black_Knight_All_16: 8923297184991777099
+      Black_Knight_All_160: 8217578326422445524
+      Black_Knight_All_161: -7144701525042074988
+      Black_Knight_All_162: 8543417452335112283
+      Black_Knight_All_163: -8347029590944656851
+      Black_Knight_All_164: -175331088560722802
+      Black_Knight_All_165: -7612719818584142763
+      Black_Knight_All_166: 7303485095295691662
+      Black_Knight_All_167: -2850198730060649841
+      Black_Knight_All_168: -2333949616460446680
+      Black_Knight_All_169: -4264291839681900416
+      Black_Knight_All_17: 6210329687429884773
+      Black_Knight_All_170: -5730513678597439964
+      Black_Knight_All_171: -3214455183703289995
+      Black_Knight_All_172: -4037848039565623184
+      Black_Knight_All_173: 6668368211847055623
+      Black_Knight_All_174: -3758268337199792718
+      Black_Knight_All_175: 8870603378396693674
+      Black_Knight_All_176: 6077658425693227782
+      Black_Knight_All_177: -1087243958163481616
+      Black_Knight_All_178: 3072111315963807766
+      Black_Knight_All_179: 4106881136926300519
+      Black_Knight_All_18: -450359838196019103
+      Black_Knight_All_180: -9077659132915745557
+      Black_Knight_All_181: -1843048463471982808
+      Black_Knight_All_182: -3479929981999080821
+      Black_Knight_All_183: 4221793591185211875
+      Black_Knight_All_184: 8740548272258291327
+      Black_Knight_All_185: -2821342889303322140
+      Black_Knight_All_186: 5173571603960612486
+      Black_Knight_All_187: -4627430106501605315
+      Black_Knight_All_188: 3141958096684938953
+      Black_Knight_All_189: -1801407469806913498
+      Black_Knight_All_19: 5671778629882363901
+      Black_Knight_All_190: 5047397998409113731
+      Black_Knight_All_191: -251569070902116944
+      Black_Knight_All_192: -4441971910149486776
+      Black_Knight_All_193: 3225371408041854399
+      Black_Knight_All_194: -4468224247862664789
+      Black_Knight_All_195: 2335581491093259186
+      Black_Knight_All_2: -9204471388485549701
+      Black_Knight_All_20: 9016785846668545388
+      Black_Knight_All_21: -3899525785230976121
+      Black_Knight_All_22: 6131008928070132371
+      Black_Knight_All_23: 7460336965807046034
+      Black_Knight_All_24: -5410045401389523270
+      Black_Knight_All_25: -7796950961880255585
+      Black_Knight_All_26: -7353219836719397865
+      Black_Knight_All_27: -8502588682510176665
+      Black_Knight_All_28: -9118093329268302938
+      Black_Knight_All_29: -5774866579911778890
+      Black_Knight_All_3: -4978250292350173121
+      Black_Knight_All_30: -2870353506562917423
+      Black_Knight_All_31: -5268664165895818618
+      Black_Knight_All_32: -1443802863813322812
+      Black_Knight_All_33: 4109752289513431181
+      Black_Knight_All_34: 23781231442287741
+      Black_Knight_All_35: -5497791104933392058
+      Black_Knight_All_36: 2509548034405087410
+      Black_Knight_All_37: 1405539148235309184
+      Black_Knight_All_38: 4337004203501301029
+      Black_Knight_All_39: -2610358467192788110
+      Black_Knight_All_4: 6499255402893241090
+      Black_Knight_All_40: -5866590288353525840
+      Black_Knight_All_41: -7727125917419926592
+      Black_Knight_All_42: 6843998541762061324
+      Black_Knight_All_43: 5410229079516793327
+      Black_Knight_All_44: 7223243487825402841
+      Black_Knight_All_45: 1602896996397523604
+      Black_Knight_All_46: -7497596813438313018
+      Black_Knight_All_47: 1504984599680251232
+      Black_Knight_All_48: -305248819916127855
+      Black_Knight_All_49: 4146504699591435132
+      Black_Knight_All_5: -9037098575954594117
+      Black_Knight_All_50: -1747922604793187054
+      Black_Knight_All_51: -4033824671634789616
+      Black_Knight_All_52: 3294098173053087383
+      Black_Knight_All_53: -4139187966303264014
+      Black_Knight_All_54: -4090651976651197593
+      Black_Knight_All_55: 3174918106183055554
+      Black_Knight_All_56: -6110380277520322503
+      Black_Knight_All_57: 8515771095038057902
+      Black_Knight_All_58: 1435672756351666289
+      Black_Knight_All_59: 7880048563320994314
+      Black_Knight_All_6: 2645537520605244652
+      Black_Knight_All_60: -726532173376587650
+      Black_Knight_All_61: -597080951408286700
+      Black_Knight_All_62: 5061831020459782724
+      Black_Knight_All_63: 2224356871571669655
+      Black_Knight_All_64: 4214628957111713492
+      Black_Knight_All_65: -519891786197038828
+      Black_Knight_All_66: -617263716268824631
+      Black_Knight_All_67: 7493482033131509289
+      Black_Knight_All_68: 8695774124860314376
+      Black_Knight_All_69: -7617833428870839194
+      Black_Knight_All_7: 1814854768323036556
+      Black_Knight_All_70: -5751483596418617839
+      Black_Knight_All_71: 3608212232296202432
+      Black_Knight_All_72: 8611589760087192627
+      Black_Knight_All_73: -6657263163320036963
+      Black_Knight_All_74: -8184193325523746608
+      Black_Knight_All_75: -1119350442418880675
+      Black_Knight_All_76: 3462564138011726842
+      Black_Knight_All_77: -5264285592867603454
+      Black_Knight_All_78: 395836886349297782
+      Black_Knight_All_79: -1788684477517407439
+      Black_Knight_All_8: -8496143251397708173
+      Black_Knight_All_80: 2138822527818405695
+      Black_Knight_All_81: -6548877239971559254
+      Black_Knight_All_82: 7824114303368790585
+      Black_Knight_All_83: -1201300950329529096
+      Black_Knight_All_84: 4907265110826214002
+      Black_Knight_All_85: -2144542758480064620
+      Black_Knight_All_86: -6070676262152327232
+      Black_Knight_All_87: 2417260639956277197
+      Black_Knight_All_88: 5288469675885123694
+      Black_Knight_All_89: 7099097516232217768
+      Black_Knight_All_9: -4907379676532780837
+      Black_Knight_All_90: 651458532880973261
+      Black_Knight_All_91: -8896231035014814051
+      Black_Knight_All_92: 1074296674559973729
+      Black_Knight_All_93: 6342409392669433548
+      Black_Knight_All_94: 8678521823119153746
+      Black_Knight_All_95: 706686627998873451
+      Black_Knight_All_96: 6809003214909552789
+      Black_Knight_All_97: -1647414311075895474
+      Black_Knight_All_98: -2444216800410396456
+      Black_Knight_All_99: -2171598904537027897
+      Black_Knight_All_With_FX_0: 5098567002247511574
+      Black_Knight_All_With_FX_1: -8579211525564536944
+      Black_Knight_All_With_FX_10: 7510539709424964572
+      Black_Knight_All_With_FX_100: 8490434346033194771
+      Black_Knight_All_With_FX_101: -8943514075543365613
+      Black_Knight_All_With_FX_102: -2408185460822090092
+      Black_Knight_All_With_FX_103: 7626979972668476204
+      Black_Knight_All_With_FX_104: 355592722918282917
+      Black_Knight_All_With_FX_105: -1307736204449106573
+      Black_Knight_All_With_FX_106: 4147441753202183337
+      Black_Knight_All_With_FX_107: 548462531664647801
+      Black_Knight_All_With_FX_108: -4477069117108005223
+      Black_Knight_All_With_FX_109: 205812648786734060
+      Black_Knight_All_With_FX_11: 6447035260360644052
+      Black_Knight_All_With_FX_110: -3478189136971933361
+      Black_Knight_All_With_FX_111: -197948717682887788
+      Black_Knight_All_With_FX_112: 7212478029048848023
+      Black_Knight_All_With_FX_113: -8730984618031776504
+      Black_Knight_All_With_FX_114: -4286800972310869274
+      Black_Knight_All_With_FX_115: -1311064240986625617
+      Black_Knight_All_With_FX_116: 1554861194887287859
+      Black_Knight_All_With_FX_117: 3636737721572068138
+      Black_Knight_All_With_FX_118: 3131323607156219712
+      Black_Knight_All_With_FX_119: -8326855879805115925
+      Black_Knight_All_With_FX_12: -623187093251856602
+      Black_Knight_All_With_FX_120: 4497024078197755043
+      Black_Knight_All_With_FX_121: -3700975242222011148
+      Black_Knight_All_With_FX_122: 9040060055956439837
+      Black_Knight_All_With_FX_123: -3733651080342903654
+      Black_Knight_All_With_FX_124: 4045703160214550192
+      Black_Knight_All_With_FX_125: -2954401335760678772
+      Black_Knight_All_With_FX_126: 7620845182825733397
+      Black_Knight_All_With_FX_127: 2586873525932293442
+      Black_Knight_All_With_FX_128: 713094530638044455
+      Black_Knight_All_With_FX_129: 817379416018561374
+      Black_Knight_All_With_FX_13: 4476637321245699527
+      Black_Knight_All_With_FX_130: -4187545021764927862
+      Black_Knight_All_With_FX_131: -8533609514321330744
+      Black_Knight_All_With_FX_132: -3360630838551593819
+      Black_Knight_All_With_FX_133: 6427228419624901551
+      Black_Knight_All_With_FX_134: -7216629281752021667
+      Black_Knight_All_With_FX_135: -2306422583165548847
+      Black_Knight_All_With_FX_136: -5899416155752058155
+      Black_Knight_All_With_FX_137: -2615695594321894651
+      Black_Knight_All_With_FX_138: 9067599564604084874
+      Black_Knight_All_With_FX_139: 8996667263408552421
+      Black_Knight_All_With_FX_14: 8718588640072402218
+      Black_Knight_All_With_FX_140: 202689105433796553
+      Black_Knight_All_With_FX_141: -8019913024310004010
+      Black_Knight_All_With_FX_142: 6999255202533233427
+      Black_Knight_All_With_FX_143: 8003823229469205086
+      Black_Knight_All_With_FX_144: 5849687549583581788
+      Black_Knight_All_With_FX_145: -5538223398583590078
+      Black_Knight_All_With_FX_146: 5770120965673197097
+      Black_Knight_All_With_FX_147: -8789201698054252294
+      Black_Knight_All_With_FX_148: -193631859893370635
+      Black_Knight_All_With_FX_149: 8407870636631967935
+      Black_Knight_All_With_FX_15: 9073666956517005747
+      Black_Knight_All_With_FX_150: 4292392695426618964
+      Black_Knight_All_With_FX_151: 6587497345308800568
+      Black_Knight_All_With_FX_152: -391386239930023544
+      Black_Knight_All_With_FX_153: -1457495930587729929
+      Black_Knight_All_With_FX_154: 1082271923533551025
+      Black_Knight_All_With_FX_155: 3314662960844365936
+      Black_Knight_All_With_FX_156: 3314104880384594669
+      Black_Knight_All_With_FX_157: -3296970698867870837
+      Black_Knight_All_With_FX_158: -4521252565147823040
+      Black_Knight_All_With_FX_159: -6682168272896270006
+      Black_Knight_All_With_FX_16: 4423966581392834545
+      Black_Knight_All_With_FX_160: 6524342914168096899
+      Black_Knight_All_With_FX_161: 2175405065133921692
+      Black_Knight_All_With_FX_162: -9144305109068524623
+      Black_Knight_All_With_FX_163: -3522272943935121388
+      Black_Knight_All_With_FX_164: 4320359520870283629
+      Black_Knight_All_With_FX_165: 985423900641018548
+      Black_Knight_All_With_FX_166: 8271732464828697965
+      Black_Knight_All_With_FX_167: -3346679845100582005
+      Black_Knight_All_With_FX_168: -5343783426164247455
+      Black_Knight_All_With_FX_169: 5867969800392554691
+      Black_Knight_All_With_FX_17: 6621354292368127011
+      Black_Knight_All_With_FX_170: 4130116523652914497
+      Black_Knight_All_With_FX_171: 3025417118671807650
+      Black_Knight_All_With_FX_172: -985189207361575212
+      Black_Knight_All_With_FX_173: 6146770142003749425
+      Black_Knight_All_With_FX_174: 6355552025467602810
+      Black_Knight_All_With_FX_175: 3246034651857527825
+      Black_Knight_All_With_FX_176: -486404116229283033
+      Black_Knight_All_With_FX_177: 4775343073812601069
+      Black_Knight_All_With_FX_178: -597820349266735103
+      Black_Knight_All_With_FX_179: -6103605424865467322
+      Black_Knight_All_With_FX_18: 517076601522260513
+      Black_Knight_All_With_FX_180: 8312913953587633342
+      Black_Knight_All_With_FX_181: -4636447646321532969
+      Black_Knight_All_With_FX_182: 921985889247456941
+      Black_Knight_All_With_FX_183: 2120217972169548777
+      Black_Knight_All_With_FX_184: -5951748283102779919
+      Black_Knight_All_With_FX_185: -8073938044996383206
+      Black_Knight_All_With_FX_186: -5528653202704562320
+      Black_Knight_All_With_FX_187: 7515628796557623969
+      Black_Knight_All_With_FX_188: 8592927312385633577
+      Black_Knight_All_With_FX_189: 8893081063874089852
+      Black_Knight_All_With_FX_19: 7731242517416174336
+      Black_Knight_All_With_FX_190: -7295382041387971642
+      Black_Knight_All_With_FX_191: 8064694947356993061
+      Black_Knight_All_With_FX_192: 1340517858248039709
+      Black_Knight_All_With_FX_193: -7142123929224550058
+      Black_Knight_All_With_FX_194: 8901779325039004871
+      Black_Knight_All_With_FX_195: -1126208801867665687
+      Black_Knight_All_With_FX_196: -4892070235092480254
+      Black_Knight_All_With_FX_197: 6927306983854276526
+      Black_Knight_All_With_FX_198: -5352411770315243687
+      Black_Knight_All_With_FX_199: -5961849235859095707
+      Black_Knight_All_With_FX_2: -5825862444360689226
+      Black_Knight_All_With_FX_20: -4774463238302946338
+      Black_Knight_All_With_FX_200: 5752366693737661300
+      Black_Knight_All_With_FX_201: 5301725481176835096
+      Black_Knight_All_With_FX_202: 1921219101520001566
+      Black_Knight_All_With_FX_203: 7425985276764759741
+      Black_Knight_All_With_FX_204: -1049678168647163355
+      Black_Knight_All_With_FX_205: 1837012579065828114
+      Black_Knight_All_With_FX_206: -3193506983834667312
+      Black_Knight_All_With_FX_207: 2760603468534563582
+      Black_Knight_All_With_FX_208: 1228747095192601144
+      Black_Knight_All_With_FX_209: 45521352423079748
+      Black_Knight_All_With_FX_21: -2636538241921991332
+      Black_Knight_All_With_FX_210: 7754829650600057765
+      Black_Knight_All_With_FX_211: 4187124058518927403
+      Black_Knight_All_With_FX_212: 159722879739034826
+      Black_Knight_All_With_FX_213: 3604678798279820148
+      Black_Knight_All_With_FX_214: -6393649374642022025
+      Black_Knight_All_With_FX_215: 8870461209456734505
+      Black_Knight_All_With_FX_216: 7024107472997678498
+      Black_Knight_All_With_FX_217: 1340042406251034288
+      Black_Knight_All_With_FX_218: -8989285246237601852
+      Black_Knight_All_With_FX_219: 7394352433017842426
+      Black_Knight_All_With_FX_22: -1858937528478694563
+      Black_Knight_All_With_FX_220: 651666671701564884
+      Black_Knight_All_With_FX_221: -665208080576522029
+      Black_Knight_All_With_FX_222: -6504373742250406471
+      Black_Knight_All_With_FX_223: 3681607514090819878
+      Black_Knight_All_With_FX_224: -6537117826712057310
+      Black_Knight_All_With_FX_225: -1513517551483010459
+      Black_Knight_All_With_FX_226: 2913510538883995122
+      Black_Knight_All_With_FX_227: -6420528421868460246
+      Black_Knight_All_With_FX_228: 2538225027941978969
+      Black_Knight_All_With_FX_229: -7053042291216319964
+      Black_Knight_All_With_FX_23: 5878246216727916414
+      Black_Knight_All_With_FX_230: -319344657525721196
+      Black_Knight_All_With_FX_231: -3253247812103422024
+      Black_Knight_All_With_FX_232: 3476055647080090644
+      Black_Knight_All_With_FX_233: 8799789840365483129
+      Black_Knight_All_With_FX_234: 7583863857451315861
+      Black_Knight_All_With_FX_235: -2569852172814538043
+      Black_Knight_All_With_FX_236: 4678461789297582382
+      Black_Knight_All_With_FX_237: -547223777356482017
+      Black_Knight_All_With_FX_238: -5923216494966877763
+      Black_Knight_All_With_FX_239: 4348668312969201709
+      Black_Knight_All_With_FX_24: 8338702157243260300
+      Black_Knight_All_With_FX_240: 7609102954889320482
+      Black_Knight_All_With_FX_241: -3306986607157702734
+      Black_Knight_All_With_FX_242: -5111156524060936583
+      Black_Knight_All_With_FX_243: 5839479655793755014
+      Black_Knight_All_With_FX_244: -5152910687044698589
+      Black_Knight_All_With_FX_245: 5625360771235500800
+      Black_Knight_All_With_FX_246: -3889303495164525072
+      Black_Knight_All_With_FX_247: 8235893340385827644
+      Black_Knight_All_With_FX_248: 1932184048896871614
+      Black_Knight_All_With_FX_249: -2973580281310945036
+      Black_Knight_All_With_FX_25: -5789739518402664928
+      Black_Knight_All_With_FX_250: 7929865931988142455
+      Black_Knight_All_With_FX_251: -2299869573228473773
+      Black_Knight_All_With_FX_252: 1082542276472205863
+      Black_Knight_All_With_FX_253: 9212295232200443559
+      Black_Knight_All_With_FX_254: -572815182977956854
+      Black_Knight_All_With_FX_255: 3463143772889939360
+      Black_Knight_All_With_FX_256: 3039862792476191504
+      Black_Knight_All_With_FX_257: 7849754982491093321
+      Black_Knight_All_With_FX_258: 8045979196138126484
+      Black_Knight_All_With_FX_259: -8545017993356537706
+      Black_Knight_All_With_FX_26: 4419557770103572459
+      Black_Knight_All_With_FX_260: 3780162516756220456
+      Black_Knight_All_With_FX_261: 2172887551223452064
+      Black_Knight_All_With_FX_262: 4571405459690267738
+      Black_Knight_All_With_FX_263: -7806490085273154833
+      Black_Knight_All_With_FX_264: -518746588659444475
+      Black_Knight_All_With_FX_265: -4718573924463911540
+      Black_Knight_All_With_FX_266: 2669407456131537686
+      Black_Knight_All_With_FX_267: 8607612198281976658
+      Black_Knight_All_With_FX_268: -6382591901277101985
+      Black_Knight_All_With_FX_269: 7187408028699369624
+      Black_Knight_All_With_FX_27: -3358964610467118270
+      Black_Knight_All_With_FX_270: 1431522908713678310
+      Black_Knight_All_With_FX_271: -4157418739899468078
+      Black_Knight_All_With_FX_272: -4131806344826798791
+      Black_Knight_All_With_FX_273: 511864784220976884
+      Black_Knight_All_With_FX_274: -8167895901625784479
+      Black_Knight_All_With_FX_275: 7348425365969249485
+      Black_Knight_All_With_FX_276: -716439404906910396
+      Black_Knight_All_With_FX_277: -9212784157445426582
+      Black_Knight_All_With_FX_278: -2436899305887936380
+      Black_Knight_All_With_FX_279: 2392635348960848761
+      Black_Knight_All_With_FX_28: -8848206587221523670
+      Black_Knight_All_With_FX_280: 2017347493525837381
+      Black_Knight_All_With_FX_281: 403284816957359445
+      Black_Knight_All_With_FX_282: -956393359540345538
+      Black_Knight_All_With_FX_283: -278150307066084819
+      Black_Knight_All_With_FX_284: -3434702823611729637
+      Black_Knight_All_With_FX_285: 6269820354061210439
+      Black_Knight_All_With_FX_286: 6162055112976625058
+      Black_Knight_All_With_FX_287: -7398555517295829523
+      Black_Knight_All_With_FX_288: 3970879628260609572
+      Black_Knight_All_With_FX_289: 2514752748668255498
+      Black_Knight_All_With_FX_29: 7010809012452365637
+      Black_Knight_All_With_FX_290: 546555457367101231
+      Black_Knight_All_With_FX_291: -6917465740427166537
+      Black_Knight_All_With_FX_292: 1187878146690032209
+      Black_Knight_All_With_FX_293: -5467941896920574711
+      Black_Knight_All_With_FX_294: -5433775055807217577
+      Black_Knight_All_With_FX_295: -4110622932893680656
+      Black_Knight_All_With_FX_296: 8512655631196529503
+      Black_Knight_All_With_FX_297: 1936248477302209083
+      Black_Knight_All_With_FX_298: 7981125709089991719
+      Black_Knight_All_With_FX_299: -9209423737467357548
+      Black_Knight_All_With_FX_3: -2854072253250047317
+      Black_Knight_All_With_FX_30: -3115447963116054623
+      Black_Knight_All_With_FX_300: 6028939346299737076
+      Black_Knight_All_With_FX_301: -3132735604653180994
+      Black_Knight_All_With_FX_302: -409478328267581161
+      Black_Knight_All_With_FX_303: 4582452417174896464
+      Black_Knight_All_With_FX_304: -2132421237646279534
+      Black_Knight_All_With_FX_305: -7367128569048937808
+      Black_Knight_All_With_FX_306: 131575460853617800
+      Black_Knight_All_With_FX_307: -5541481794680135063
+      Black_Knight_All_With_FX_308: 956628017712028107
+      Black_Knight_All_With_FX_309: -8145389906264669810
+      Black_Knight_All_With_FX_31: -5770226151977653410
+      Black_Knight_All_With_FX_310: -233879757259688936
+      Black_Knight_All_With_FX_311: 5654376934672762165
+      Black_Knight_All_With_FX_312: -5556155552803160700
+      Black_Knight_All_With_FX_313: -807576587436853089
+      Black_Knight_All_With_FX_314: -7732260937115727682
+      Black_Knight_All_With_FX_315: 8270275888422452159
+      Black_Knight_All_With_FX_316: -3337435997765238664
+      Black_Knight_All_With_FX_317: -8590513975538122128
+      Black_Knight_All_With_FX_318: 2600580129881394328
+      Black_Knight_All_With_FX_319: 2826635365834112521
+      Black_Knight_All_With_FX_32: -485792921964470393
+      Black_Knight_All_With_FX_33: -6220430357859946425
+      Black_Knight_All_With_FX_34: -3037233997760142222
+      Black_Knight_All_With_FX_35: -7529060746319064267
+      Black_Knight_All_With_FX_36: -1254762284768298607
+      Black_Knight_All_With_FX_37: 3271810521481429147
+      Black_Knight_All_With_FX_38: 6667938501618489199
+      Black_Knight_All_With_FX_39: 523865667497017283
+      Black_Knight_All_With_FX_4: 3206636756175162237
+      Black_Knight_All_With_FX_40: 881962455575845212
+      Black_Knight_All_With_FX_41: -2353453142857291213
+      Black_Knight_All_With_FX_42: 7695104863073512061
+      Black_Knight_All_With_FX_43: -2932122904200657309
+      Black_Knight_All_With_FX_44: 8029056726305218114
+      Black_Knight_All_With_FX_45: -3095690522373244655
+      Black_Knight_All_With_FX_46: 4105473748541015707
+      Black_Knight_All_With_FX_47: 5923667182409369578
+      Black_Knight_All_With_FX_48: 867618610585257265
+      Black_Knight_All_With_FX_49: -1349085892297302444
+      Black_Knight_All_With_FX_5: -6415473370429677035
+      Black_Knight_All_With_FX_50: 4217027145875029341
+      Black_Knight_All_With_FX_51: 1669950161060772994
+      Black_Knight_All_With_FX_52: -7240469576142686067
+      Black_Knight_All_With_FX_53: 7304233876855960249
+      Black_Knight_All_With_FX_54: -1842822070497925350
+      Black_Knight_All_With_FX_55: -5908410514456510256
+      Black_Knight_All_With_FX_56: -7784930738544892714
+      Black_Knight_All_With_FX_57: -7634779010702827237
+      Black_Knight_All_With_FX_58: 6979030873283520206
+      Black_Knight_All_With_FX_59: 9198589300498946733
+      Black_Knight_All_With_FX_6: -691314892309279564
+      Black_Knight_All_With_FX_60: 1131408842617024240
+      Black_Knight_All_With_FX_61: 6096744112906427930
+      Black_Knight_All_With_FX_62: -522808620864777797
+      Black_Knight_All_With_FX_63: -7746484441774275239
+      Black_Knight_All_With_FX_64: -2552951990414502215
+      Black_Knight_All_With_FX_65: 6228169856266337176
+      Black_Knight_All_With_FX_66: -3915012894812653929
+      Black_Knight_All_With_FX_67: 6220115076573318245
+      Black_Knight_All_With_FX_68: -8228351604405673889
+      Black_Knight_All_With_FX_69: 6766739437029096396
+      Black_Knight_All_With_FX_7: -1392206538586924289
+      Black_Knight_All_With_FX_70: -7724954041159965061
+      Black_Knight_All_With_FX_71: -1551917400214796773
+      Black_Knight_All_With_FX_72: 208508099303756826
+      Black_Knight_All_With_FX_73: 7769048422329775586
+      Black_Knight_All_With_FX_74: -7029415486163558423
+      Black_Knight_All_With_FX_75: -5436288963171202136
+      Black_Knight_All_With_FX_76: 1064237804110015799
+      Black_Knight_All_With_FX_77: -4978187042185789673
+      Black_Knight_All_With_FX_78: 7661790350830284648
+      Black_Knight_All_With_FX_79: 2665350730515870358
+      Black_Knight_All_With_FX_8: 9023687914261112682
+      Black_Knight_All_With_FX_80: -3420156252901672266
+      Black_Knight_All_With_FX_81: 2608937772513235074
+      Black_Knight_All_With_FX_82: 6705319357653923826
+      Black_Knight_All_With_FX_83: -686061642132561561
+      Black_Knight_All_With_FX_84: 4205920966931748754
+      Black_Knight_All_With_FX_85: -1557521614045765187
+      Black_Knight_All_With_FX_86: 4652896040892891603
+      Black_Knight_All_With_FX_87: -8958415042456849558
+      Black_Knight_All_With_FX_88: -3541509138604198100
+      Black_Knight_All_With_FX_89: 5336771794955403186
+      Black_Knight_All_With_FX_9: -8748960420063209938
+      Black_Knight_All_With_FX_90: -7991551301636625843
+      Black_Knight_All_With_FX_91: 963680905791726430
+      Black_Knight_All_With_FX_92: -8623247381762534676
+      Black_Knight_All_With_FX_93: -4739783926976267684
+      Black_Knight_All_With_FX_94: -5027346696549080406
+      Black_Knight_All_With_FX_95: 5448085647602316479
+      Black_Knight_All_With_FX_96: 3515616786999540822
+      Black_Knight_All_With_FX_97: 7941245741541639787
+      Black_Knight_All_With_FX_98: -446386550059792847
+      Black_Knight_All_With_FX_99: 1952168914815258370
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

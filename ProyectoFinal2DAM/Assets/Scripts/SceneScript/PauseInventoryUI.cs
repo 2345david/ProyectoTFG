@@ -1,48 +1,65 @@
-using TMPro;
+using TMPro;              // Nos deja usar textos bonitos en la pantalla (TextMeshPro)
 using UnityEngine;
-using UnityEngine.UI;
+using UnityEngine.UI;     // Nos deja usar imágenes, botones y cajas que ordenan los elementos
 
+/// <summary>
+/// Crea con código la pantalla del inventario que aparece en el menú de pausa.
+/// Muestra los objetos (poción, poción de maná, flechas) con su cantidad,
+/// unos controles de volumen y una ventanita para equipar flechas.
+/// Las cantidades y los dibujos siempre se mantienen al día con el inventario del jugador.
+/// </summary>
 public class PauseInventoryUI : MonoBehaviour
 {
-    [SerializeField] Sprite potionIcon;
-    [SerializeField] Sprite arrowIcon;
-    [SerializeField] Sprite manaPotionIcon;
+    [SerializeField] Sprite potionIcon;       // Dibujo de la poción de vida
+    [SerializeField] Sprite arrowIcon;        // Dibujo de las flechas
+    [SerializeField] Sprite manaPotionIcon;   // Dibujo de la poción de maná
 
-    Image _potionSlotIcon;
-    Image _arrowSlotIcon;
-    Image _manaPotionSlotIcon;
-    TextMeshProUGUI _potionAmount;
-    TextMeshProUGUI _arrowAmount;
-    TextMeshProUGUI _manaPotionAmount;
-    bool _built;
+    Image _potionSlotIcon;                 // La imagen del dibujo en la casilla de la poción
+    Image _arrowSlotIcon;                  // La imagen del dibujo en la casilla de las flechas
+    Image _manaPotionSlotIcon;             // La imagen del dibujo en la casilla de la poción de maná
+    TextMeshProUGUI _potionAmount;         // Texto que muestra cuántas pociones tienes
+    TextMeshProUGUI _arrowAmount;          // Texto que muestra las flechas equipadas (y las de reserva)
+    TextMeshProUGUI _manaPotionAmount;     // Texto que muestra cuántas pociones de maná tienes
+    bool _built;                           // Vale "sí" cuando la pantalla ya está creada (para no crearla dos veces)
 
-    GameObject _transferPanel;
-    TextMeshProUGUI _transferText;
-    int _currentTransferAmount;
+    GameObject _transferPanel;             // La ventanita para equipar flechas
+    TextMeshProUGUI _transferText;         // Texto que muestra cuántas flechas vas a equipar
+    int _currentTransferAmount;            // Cuántas flechas tienes elegidas ahora mismo para equipar
 
+    // Recibe del menú de pausa los dibujos de los objetos y los guarda. Si la pantalla ya existe, los vuelve a mostrar.
     public void Configure(Sprite potion, Sprite arrow, Sprite mana)
     {
+        // Solo cambia cada dibujo si nos pasan uno de verdad (no vacío)
         if (potion != null)
             potionIcon = potion;
         if (arrow != null)
             arrowIcon = arrow;
         if (mana != null)
             manaPotionIcon = mana;
+        // Si falta algún dibujo, intenta poner uno por defecto
         EnsureDefaultSlotSprites();
+        // Si la pantalla ya está creada, vuelve a colocar los dibujos en las casillas
         if (_built)
             ApplyIcons();
     }
 
+    // Cuando se enciende el panel: crea la pantalla (si hace falta) y se "apunta" a los avisos del inventario
+    // para que los números se actualicen solos cuando cambia algo.
     void OnEnable()
     {
+        // La primera vez que se abre el panel, crea toda la pantalla
         if (!_built)
             Build();
+        // Pide al inventario que le avise cada vez que cambie
         if (PlayerInventory.Instance != null)
             PlayerInventory.Instance.OnChanged += RefreshLabels;
+        // Pide que le avisen cuando cambie la cantidad de flechas
         SubItems.OnAmountChanged += RefreshLabels;
+        // Pone los números al día ahora mismo
         RefreshLabels();
     }
 
+    // Cuando se apaga el panel: deja de escuchar esos avisos, para no gastar memoria ni llamar a algo apagado.
     void OnDisable()
     {
         var inv = PlayerInventory.Instance;
@@ -51,13 +68,16 @@ public class PauseInventoryUI : MonoBehaviour
         SubItems.OnAmountChanged -= RefreshLabels;
     }
 
+    // Crea con código toda la pantalla del inventario: el título "PAUSA", la zona con las casillas de objetos,
+    // el panel de volumen y la ventanita de equipar flechas. Solo se hace una vez.
     void Build()
     {
+        // Evita reconstruir la UI si ya fue creada
         if (_built)
             return;
         _built = true;
 
-        // Reset Root RectTransform
+        // Estira el RectTransform raíz para ocupar todo el panel padre
         var rt = GetComponent<RectTransform>();
         rt.anchorMin = Vector2.zero;
         rt.anchorMax = Vector2.one;
@@ -110,13 +130,13 @@ public class PauseInventoryUI : MonoBehaviour
         contentH.spacing = 50;
         contentH.childControlWidth = true;
         contentH.childControlHeight = true;
-        contentH.childForceExpandWidth = false; // Disable force expand to allow PanelVolumen to be narrow
+        contentH.childForceExpandWidth = false; // Sin expansión forzada para que PanelVolumen pueda ser estrecho
         contentH.childForceExpandHeight = true;
 
-        // 2a. Inventory Panel (Left - BIGGER)
+        // 2a. Panel de inventario (izquierda - más grande)
         var panelInvRt = CreatePanelInParent("PanelInventario", contentGo.transform, new Color(0.12f, 0.12f, 0.15f, 0.9f));
         var invLe = panelInvRt.gameObject.AddComponent<LayoutElement>();
-        invLe.flexibleWidth = 1f; // Takes all available space
+        invLe.flexibleWidth = 1f; // Ocupa todo el espacio disponible
 
         var vInv = panelInvRt.gameObject.AddComponent<VerticalLayoutGroup>();
         vInv.padding = new RectOffset(35, 35, 35, 35);
@@ -147,10 +167,33 @@ public class PauseInventoryUI : MonoBehaviour
 
         ReparentVolumeControls(panelVolRt);
 
-        // 3. Transfer Overlay (Absolute Positioning)
+        // 3. Panel emergente para equipar flechas (posicionamiento absoluto, superpuesto)
         BuildTransferUI();
+
+        // 4. Botón "Ir al menú" (definido en la escena): el VerticalLayoutGroup de este
+        //    panel lo aplastaría a altura 0 y el Content se dibujaría encima. Lo sacamos
+        //    del layout (ignoreLayout) y lo ponemos como último hijo para que quede
+        //    visible y por encima de todo, conservando su posición/anclaje de la escena.
+        EnsureGoToMenuButtonOnTop();
     }
 
+    /// <summary>
+    /// Asegura que el botón "Ir al menú" (añadido en la escena) no sea gestionado por el
+    /// VerticalLayoutGroup del panel y se dibuje por encima del resto del contenido.
+    /// </summary>
+    void EnsureGoToMenuButtonOnTop()
+    {
+        var goMenuBtn = transform.Find("GoToMenuButton");
+        if (goMenuBtn == null) return;
+
+        var le = goMenuBtn.GetComponent<LayoutElement>();
+        if (le == null) le = goMenuBtn.gameObject.AddComponent<LayoutElement>();
+        le.ignoreLayout = true;          // El layout group lo ignora (conserva tamaño/posición)
+
+        goMenuBtn.SetAsLastSibling();    // Se dibuja por encima del contenido del inventario
+    }
+
+    // Crea el título "INVENTARIO" y la cuadrícula de casillas: poción, poción de maná, flechas y casillas vacías.
     void BuildInventoryGrid(RectTransform parent)
     {
         var titleGo = new GameObject("Titulo", typeof(RectTransform), typeof(TextMeshProUGUI));
@@ -179,20 +222,23 @@ public class PauseInventoryUI : MonoBehaviour
             if (PlayerInventory.Instance != null) PlayerInventory.Instance.TryUsePotion();
         });
 
+        // Slot de poción de maná: al pulsarlo intenta usar una poción de maná
         (_manaPotionSlotIcon, _manaPotionAmount) = CreateItemSlot(gridGo.transform, "SlotMana", manaPotionIcon, new Color(0.2f, 0.2f, 0.8f), () => {
             if (PlayerInventory.Instance != null) PlayerInventory.Instance.TryUseManaPotion();
         });
 
+        // Slot de flechas: al pulsarlo abre el panel para equipar flechas
         (_arrowSlotIcon, _arrowAmount) = CreateItemSlot(gridGo.transform, "SlotFlecha", arrowIcon, new Color(0.2f, 0.8f, 0.2f), () => {
             ShowTransferPanel();
         });
 
-        // Completar hasta 20 slots
+        // Rellena hasta completar 20 slots con slots vacíos
         for(int i=0; i<17; i++) {
             CreateItemSlot(gridGo.transform, "SlotEmpty", null, new Color(0.2f, 0.2f, 0.2f, 0.5f), null);
         }
 }
 
+        // Crea la ventanita para equipar flechas: un título, un número y botones (-10, +10, MAX, CANCELAR, EQUIPAR). Empieza escondida.
         void BuildTransferUI()
         {
         _transferPanel = new GameObject("TransferPanel", typeof(RectTransform), typeof(Image), typeof(VerticalLayoutGroup));
@@ -270,6 +316,7 @@ if (SubItems.Instance != null) {
         _transferPanel.SetActive(false);
         }
 
+        // Crea un botón dentro de la ventanita: le pone su texto y le dice qué hacer al pulsarlo.
         void CreateTransferBtn(Transform parent, string label, UnityEngine.Events.UnityAction action)
         {
         var btnGo = new GameObject("Btn_" + label, typeof(RectTransform), typeof(Image), typeof(Button));
@@ -293,6 +340,10 @@ if (SubItems.Instance != null) {
         rt.offsetMin = Vector2.zero; rt.offsetMax = Vector2.zero;
         }
 
+        /// <summary>
+        /// Muestra el panel emergente de equipar flechas, reiniciando la cantidad a 0
+        /// y trayéndolo al frente. No hace nada si no existe SubItems.
+        /// </summary>
         void ShowTransferPanel()
         {
         if (SubItems.Instance == null) return;
@@ -302,6 +353,9 @@ if (SubItems.Instance != null) {
         _transferPanel.transform.SetAsLastSibling();
         }
 
+        /// <summary>
+        /// Modifica la cantidad seleccionada a equipar, limitándola entre 0 y las flechas en reserva.
+        /// </summary>
         void ChangeTransfer(int delta)
         {
         if (SubItems.Instance == null) return;
@@ -309,12 +363,19 @@ if (SubItems.Instance != null) {
         UpdateTransferDisplay();
         }
 
+        /// <summary>
+        /// Actualiza el texto del contador del panel emergente con la cantidad seleccionada.
+        /// </summary>
         void UpdateTransferDisplay()
         {
         if (_transferText != null)
             _transferText.text = _currentTransferAmount.ToString();
         }
 
+        /// <summary>
+        /// Confirma la operación: equipa la cantidad seleccionada de flechas (si es > 0),
+        /// cierra el panel emergente y refresca las etiquetas del inventario.
+        /// </summary>
         void ConfirmTransfer()
         {
         if (SubItems.Instance != null && _currentTransferAmount > 0)
@@ -325,6 +386,8 @@ if (SubItems.Instance != null) {
         RefreshLabels();
         }
 
+    // Crea una casilla del inventario: el fondo, el dibujo del objeto y el texto de la cantidad.
+    // Devuelve la imagen y el texto para poder cambiarlos después. Si recibe una acción, la casilla se vuelve un botón.
     (Image, TextMeshProUGUI) CreateItemSlot(Transform parent, string name, Sprite icon, Color bgColor, UnityEngine.Events.UnityAction onClick)
     {
         var slot = new GameObject(name, typeof(RectTransform), typeof(Image), typeof(Button));
@@ -366,6 +429,10 @@ if (SubItems.Instance != null) {
         return (iconImg, tmp);
     }
 
+    /// <summary>
+    /// Mueve los sliders de música y efectos existentes en la jerarquía al panel de
+    /// volumen, agrupándolos con su etiqueta correspondiente.
+    /// </summary>
     void ReparentVolumeControls(RectTransform panelVolRt)
     {
         var music = transform.Find("MusicSlider");
@@ -375,6 +442,10 @@ if (SubItems.Instance != null) {
         if (effect != null) ReparentControl(panelVolRt, effect, "VOLUMEN EFECTOS");
     }
 
+    /// <summary>
+    /// Crea un grupo (etiqueta + control) dentro del panel indicado y reubica el
+    /// control de volumen dentro de él ajustando su tamaño en el layout.
+    /// </summary>
     void ReparentControl(Transform panel, Transform control, string label)
     {
         var container = new GameObject(control.name + "_Group", typeof(RectTransform), typeof(VerticalLayoutGroup));
@@ -409,11 +480,13 @@ if (SubItems.Instance != null) {
         leControl.minHeight = 20f;
     }
 
-    RectTransform CreatePanelRoot(string name, Color background)
-    {
-        return CreatePanelInParent(name, transform, background);
-    }
+    // NOTA: Se eliminó el método privado 'CreatePanelRoot' por ser código muerto
+    // (estaba definido pero nunca se llamaba desde ningún sitio).
 
+    /// <summary>
+    /// Crea un panel básico (GameObject con RectTransform e Image de fondo) como hijo
+    /// del padre indicado y devuelve su RectTransform.
+    /// </summary>
     RectTransform CreatePanelInParent(string name, Transform parent, Color background)
     {
         var go = new GameObject(name, typeof(RectTransform), typeof(Image));
@@ -424,17 +497,25 @@ if (SubItems.Instance != null) {
     }
 
 
+    /// <summary>
+    /// Asigna iconos por defecto (poción y flecha) cargándolos desde los assets del
+    /// proyecto solo en el Editor, en caso de que no se hayan asignado en el Inspector.
+    /// </summary>
     void EnsureDefaultSlotSprites()
     {
 #if UNITY_EDITOR
         if (potionIcon == null)
-            potionIcon = LoadSpriteFromTexturePath("Assets/Art/pocion.png", "pocion_0");
+            potionIcon = LoadSpriteFromTexturePath("Assets/Art/Items/pocion.png", "pocion_0");
         if (arrowIcon == null)
-            arrowIcon = LoadSpriteFromTexturePath("Assets/Art/flecha.png", "flecha_0");
+            arrowIcon = LoadSpriteFromTexturePath("Assets/Art/Items/flecha.png", "flecha_0");
 #endif
     }
 
 #if UNITY_EDITOR
+    /// <summary>
+    /// (Solo Editor) Carga un Sprite concreto por nombre desde una textura/atlas en la
+    /// ruta indicada usando AssetDatabase. Devuelve null si no lo encuentra.
+    /// </summary>
     static Sprite LoadSpriteFromTexturePath(string assetPath, string spriteName)
     {
         foreach (var obj in UnityEditor.AssetDatabase.LoadAllAssetsAtPath(assetPath))
@@ -446,6 +527,10 @@ if (SubItems.Instance != null) {
     }
 #endif
 
+    /// <summary>
+    /// Aplica los sprites actuales a los iconos de cada slot, poniéndolos en blanco
+    /// (visibles) cuando hay sprite asignado.
+    /// </summary>
     void ApplyIcons()
     {
         if (_potionSlotIcon != null) {
@@ -462,6 +547,8 @@ if (SubItems.Instance != null) {
         }
     }
 
+    // Pone al día los números y los dibujos de cada casilla según lo que tiene el jugador.
+    // Si tienes 0 de algo, el texto se deja vacío y el dibujo se ve más apagado.
     void RefreshLabels()
     {
         var pCount = PlayerInventory.Instance != null ? PlayerInventory.Instance.PotionCount : 0;
@@ -481,6 +568,9 @@ if (SubItems.Instance != null) {
         if (_arrowSlotIcon != null) _arrowSlotIcon.color = aEquipped > 0 || aReserve > 0 ? Color.white : new Color(1,1,1,0.2f);
     }
 
+    /// <summary>
+    /// Aplica la fuente por defecto de TextMeshPro al texto indicado, si está configurada.
+    /// </summary>
     static void ApplyDefaultFont(TextMeshProUGUI tmp)
     {
         if (TMP_Settings.defaultFontAsset != null)

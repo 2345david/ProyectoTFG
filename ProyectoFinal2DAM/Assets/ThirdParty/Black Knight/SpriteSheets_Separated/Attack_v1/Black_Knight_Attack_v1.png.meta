@@ -1,0 +1,2106 @@
+fileFormatVersion: 2
+guid: 87283547ffeafeb459a0bed12d78c324
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6032838726514861336
+    second: Black_Knight_Attack_v1_0
+  - first:
+      213: -1216231154118470953
+    second: Black_Knight_Attack_v1_1
+  - first:
+      213: 4423896351678758077
+    second: Black_Knight_Attack_v1_2
+  - first:
+      213: 2643580606202083919
+    second: Black_Knight_Attack_v1_3
+  - first:
+      213: -932576804031017092
+    second: Black_Knight_Attack_v1_4
+  - first:
+      213: 3309707252425808238
+    second: Black_Knight_Attack_v1_5
+  - first:
+      213: -898393936524496336
+    second: Black_Knight_Attack_v1_6
+  - first:
+      213: -6462770862303765935
+    second: Black_Knight_Attack_v1_7
+  - first:
+      213: 8331097159137332744
+    second: Black_Knight_Attack_v1_8
+  - first:
+      213: -6114665731785261781
+    second: Black_Knight_Attack_v1_9
+  - first:
+      213: -755508350820533975
+    second: Black_Knight_Attack_v1_10
+  - first:
+      213: 2331682575650352380
+    second: Black_Knight_Attack_v1_11
+  - first:
+      213: -4681092621255316951
+    second: Black_Knight_Attack_v1_12
+  - first:
+      213: -4509272537035954727
+    second: Black_Knight_Attack_v1_13
+  - first:
+      213: -1506673539257206132
+    second: Black_Knight_Attack_v1_14
+  - first:
+      213: -4459496290716820131
+    second: Black_Knight_Attack_v1_15
+  - first:
+      213: 6561142221710918913
+    second: Black_Knight_Attack_v1_16
+  - first:
+      213: 4555669736251565668
+    second: Black_Knight_Attack_v1_17
+  - first:
+      213: -3144187915977313823
+    second: Black_Knight_Attack_v1_18
+  - first:
+      213: -1971600930214660180
+    second: Black_Knight_Attack_v1_19
+  - first:
+      213: 1937672107728314506
+    second: Black_Knight_Attack_v1_20
+  - first:
+      213: 4105768350880999560
+    second: Black_Knight_Attack_v1_21
+  - first:
+      213: -4524148793379373649
+    second: Black_Knight_Attack_v1_22
+  - first:
+      213: 3536011870772609729
+    second: Black_Knight_Attack_v1_23
+  - first:
+      213: 6526941310502732158
+    second: Black_Knight_Attack_v1_24
+  - first:
+      213: -458424387299569653
+    second: Black_Knight_Attack_v1_25
+  - first:
+      213: -4479852178734463400
+    second: Black_Knight_Attack_v1_26
+  - first:
+      213: 7949808874370962712
+    second: Black_Knight_Attack_v1_27
+  - first:
+      213: 437672034548013844
+    second: Black_Knight_Attack_v1_28
+  - first:
+      213: 3901552061346436740
+    second: Black_Knight_Attack_v1_29
+  - first:
+      213: -1739897836912366933
+    second: Black_Knight_Attack_v1_30
+  - first:
+      213: -1019987056358649937
+    second: Black_Knight_Attack_v1_31
+  - first:
+      213: -2952889844366259633
+    second: Black_Knight_Attack_v1_32
+  - first:
+      213: -814138515745688932
+    second: Black_Knight_Attack_v1_33
+  - first:
+      213: -5519817206467036393
+    second: Black_Knight_Attack_v1_34
+  - first:
+      213: -1074385322670200870
+    second: Black_Knight_Attack_v1_35
+  - first:
+      213: 7015129660407491684
+    second: Black_Knight_Attack_v1_36
+  - first:
+      213: 5539351039690037507
+    second: Black_Knight_Attack_v1_37
+  - first:
+      213: 3033434167259190148
+    second: Black_Knight_Attack_v1_38
+  - first:
+      213: -4156966976232840912
+    second: Black_Knight_Attack_v1_39
+  - first:
+      213: 7871268137794333948
+    second: Black_Knight_Attack_v1_40
+  - first:
+      213: -4869220050483745384
+    second: Black_Knight_Attack_v1_41
+  - first:
+      213: -5853102584371299983
+    second: Black_Knight_Attack_v1_42
+  - first:
+      213: -4368041841936426287
+    second: Black_Knight_Attack_v1_43
+  - first:
+      213: -2837395626232710563
+    second: Black_Knight_Attack_v1_44
+  - first:
+      213: -1139567502815037459
+    second: Black_Knight_Attack_v1_45
+  - first:
+      213: 1882704808314287206
+    second: Black_Knight_Attack_v1_46
+  - first:
+      213: 6461907086158829296
+    second: Black_Knight_Attack_v1_47
+  - first:
+      213: -2646738516948366396
+    second: Black_Knight_Attack_v1_48
+  - first:
+      213: -6787821192593707567
+    second: Black_Knight_Attack_v1_49
+  - first:
+      213: 8170115247549846107
+    second: Black_Knight_Attack_v1_50
+  - first:
+      213: -3426064715485089661
+    second: Black_Knight_Attack_v1_51
+  - first:
+      213: -4815305928456003967
+    second: Black_Knight_Attack_v1_52
+  - first:
+      213: 6240426123873537866
+    second: Black_Knight_Attack_v1_53
+  - first:
+      213: 6632784992419547994
+    second: Black_Knight_Attack_v1_54
+  - first:
+      213: 5402926522019622924
+    second: Black_Knight_Attack_v1_55
+  - first:
+      213: 677276950708092347
+    second: Black_Knight_Attack_v1_56
+  - first:
+      213: -4228361325211787935
+    second: Black_Knight_Attack_v1_57
+  - first:
+      213: 7567053755453439277
+    second: Black_Knight_Attack_v1_58
+  - first:
+      213: 8158929343708446677
+    second: Black_Knight_Attack_v1_59
+  - first:
+      213: -5048670492607374639
+    second: Black_Knight_Attack_v1_60
+  - first:
+      213: 849841177289694486
+    second: Black_Knight_Attack_v1_61
+  - first:
+      213: 1869768461909429217
+    second: Black_Knight_Attack_v1_62
+  - first:
+      213: 8325481776948978626
+    second: Black_Knight_Attack_v1_63
+  - first:
+      213: -781972574660963046
+    second: Black_Knight_Attack_v1_64
+  - first:
+      213: 2767068974186776682
+    second: Black_Knight_Attack_v1_65
+  - first:
+      213: -3501791359475719220
+    second: Black_Knight_Attack_v1_66
+  - first:
+      213: -6951207679459555288
+    second: Black_Knight_Attack_v1_67
+  - first:
+      213: 539371063780554454
+    second: Black_Knight_Attack_v1_68
+  - first:
+      213: 8528065898110785024
+    second: Black_Knight_Attack_v1_69
+  - first:
+      213: 5846386699373809068
+    second: Black_Knight_Attack_v1_70
+  - first:
+      213: 3430384518873589907
+    second: Black_Knight_Attack_v1_71
+  - first:
+      213: -1859440849695218243
+    second: Black_Knight_Attack_v1_72
+  - first:
+      213: -5898793300113239080
+    second: Black_Knight_Attack_v1_73
+  - first:
+      213: -2165985780083796989
+    second: Black_Knight_Attack_v1_74
+  - first:
+      213: 6883334998416863498
+    second: Black_Knight_Attack_v1_75
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 319
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea9cde342d074ca0800000000000000
+      internalID: -6032838726514861336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 319
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2510e85341f1fe0800000000000000
+      internalID: -1216231154118470953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_2
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 319
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc75f40b46d46d30800000000000000
+      internalID: 4423896351678758077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_3
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 319
+        width: 73
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a79c71e82efa420800000000000000
+      internalID: 2643580606202083919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_4
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 319
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f46f57652de03f0800000000000000
+      internalID: -932576804031017092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_5
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 338
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69df53e5317eed20800000000000000
+      internalID: 3309707252425808238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_6
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 319
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032b71189734883f0800000000000000
+      internalID: -898393936524496336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_7
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 343
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a93a75420af46a0800000000000000
+      internalID: -6462770862303765935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_8
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 346
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e85a7e9b00e9370800000000000000
+      internalID: 8331097159137332744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_9
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 339
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d7fa0f9e7542ba0800000000000000
+      internalID: -6114665731785261781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_10
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 334
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92930846825e385f0800000000000000
+      internalID: -755508350820533975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_11
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 319
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc6b92e2fccb5020800000000000000
+      internalID: 2331682575650352380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_12
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 329
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92aef5dff0b690fb0800000000000000
+      internalID: -4681092621255316951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_13
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 327
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d52c8ac488db61c0800000000000000
+      internalID: -4509272537035954727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_14
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 327
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8af7141668371be0800000000000000
+      internalID: -1506673539257206132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_15
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 332
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5dd6a240cfac12c0800000000000000
+      internalID: -4459496290716820131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_16
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 320
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10585e5961cdd0b50800000000000000
+      internalID: 6561142221710918913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_17
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 319
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466a547fc7df83f30800000000000000
+      internalID: 4555669736251565668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_18
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 320
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1b811cfb99d54d0800000000000000
+      internalID: -3144187915977313823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_19
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 255
+        width: 76
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7b9b3666773a4e0800000000000000
+      internalID: -1971600930214660180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_20
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 255
+        width: 77
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a802458048ef3ea10800000000000000
+      internalID: 1937672107728314506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_21
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 255
+        width: 77
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888ad44df8e9af830800000000000000
+      internalID: 4105768350880999560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_22
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 255
+        width: 63
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad3c9374aef631c0800000000000000
+      internalID: -4524148793379373649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_23
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 271
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c247f6df00721130800000000000000
+      internalID: 3536011870772609729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_24
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 255
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71865a6a8a549a50800000000000000
+      internalID: 6526941310502732158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_25
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 284
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0012a6d27953a9f0800000000000000
+      internalID: -458424387299569653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_26
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 275
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856c540cd2e54d1c0800000000000000
+      internalID: -4479852178734463400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_27
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 255
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81511252d05635e60800000000000000
+      internalID: 7949808874370962712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_28
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 282
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b5b53856ce21600800000000000000
+      internalID: 437672034548013844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_29
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 285
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4865f31bde8152630800000000000000
+      internalID: 3901552061346436740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_30
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 277
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa2e5db224aad7e0800000000000000
+      internalID: -1739897836912366933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_31
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 279
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf0f362d2748d1f0800000000000000
+      internalID: -1019987056358649937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_32
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 284
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ac0b5e45a3507d0800000000000000
+      internalID: -2952889844366259633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_33
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 283
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92b30b555993b4f0800000000000000
+      internalID: -814138515745688932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_34
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 280
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b7177fe7ba563b0800000000000000
+      internalID: -5519817206467036393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_35
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 255
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7695acd340711f0800000000000000
+      internalID: -1074385322670200870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_36
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 191
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c25e5224fba5160800000000000000
+      internalID: 7015129660407491684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_37
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 191
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3095aeefb6abfdc40800000000000000
+      internalID: 5539351039690037507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_38
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 191
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4835405ad4ce81a20800000000000000
+      internalID: 3033434167259190148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_39
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 191
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031ac964f8c7f46c0800000000000000
+      internalID: -4156966976232840912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_40
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 191
+        width: 61
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfce415eaac5c3d60800000000000000
+      internalID: 7871268137794333948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_41
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 191
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89de4bd892e0d6cb0800000000000000
+      internalID: -4869220050483745384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_42
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 208
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179b0a8e53a95cea0800000000000000
+      internalID: -5853102584371299983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_43
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 191
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da165f66199163c0800000000000000
+      internalID: -4368041841936426287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_44
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 216
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5af62b06bb8f98d0800000000000000
+      internalID: -2837395626232710563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_45
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 218
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de77125d4617f20f0800000000000000
+      internalID: -1139567502815037459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_46
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 194
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6643e745c06b02a10800000000000000
+      internalID: 1882704808314287206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_47
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 192
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6931a124e4da950800000000000000
+      internalID: 6461907086158829296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_48
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 197
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbc2f38755e44bd0800000000000000
+      internalID: -2646738516948366396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_49
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 127
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd6598b690dcc1a0800000000000000
+      internalID: -6787821192593707567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_50
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 153
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b521630d784126170800000000000000
+      internalID: 8170115247549846107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_51
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 127
+        width: 65
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380f2081b4c2470d0800000000000000
+      internalID: -3426064715485089661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_52
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 127
+        width: 66
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e1c8945c89c2db0800000000000000
+      internalID: -4815305928456003967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_53
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 127
+        width: 75
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fcc881f727a9650800000000000000
+      internalID: 6240426123873537866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_54
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 127
+        width: 70
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b85b00fc26c0c50800000000000000
+      internalID: 6632784992419547994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_55
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 127
+        width: 70
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00348cbb0d0bfa40800000000000000
+      internalID: 5402926522019622924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_56
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 127
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbdf38d5ccb266900800000000000000
+      internalID: 677276950708092347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_57
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 128
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d50cc07c7d155c0800000000000000
+      internalID: -4228361325211787935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_58
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 128
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d76127c43930960800000000000000
+      internalID: 7567053755453439277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_59
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 127
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfb04f92075a3170800000000000000
+      internalID: 8158929343708446677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_60
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 129
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da142c9fe48fe9b0800000000000000
+      internalID: -5048670492607374639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_61
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 63
+        width: 57
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d1adf4c0e3bcb00800000000000000
+      internalID: 849841177289694486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_62
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 63
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb07587280c2f910800000000000000
+      internalID: 1869768461909429217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_63
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 63
+        width: 63
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3280bd09d0a8370800000000000000
+      internalID: 8325481776948978626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_64
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 63
+        width: 77
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a155c3f1610e525f0800000000000000
+      internalID: -781972574660963046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_65
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 76
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68486b429a966620800000000000000
+      internalID: 2767068974186776682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_66
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 63
+        width: 87
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3eae4df43276fc0800000000000000
+      internalID: -3501791359475719220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_67
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 63
+        width: 89
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82888d1d179588f90800000000000000
+      internalID: -6951207679459555288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_68
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 63
+        width: 92
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6b3c2ff1b3c7700800000000000000
+      internalID: 539371063780554454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_69
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 63
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006140e20c6c95670800000000000000
+      internalID: 8528065898110785024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_70
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 81
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad8eb34ab9822150800000000000000
+      internalID: 5846386699373809068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_71
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 4
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398a5728b8c2b9f20800000000000000
+      internalID: 3430384518873589907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_72
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 0
+        width: 75
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5e0112660f136e0800000000000000
+      internalID: -1859440849695218243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_73
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 0
+        width: 63
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3db472fb6432ea0800000000000000
+      internalID: -5898793300113239080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_74
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 0
+        width: 59
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304de8da86fd0f1e0800000000000000
+      internalID: -2165985780083796989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Knight_Attack_v1_75
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01b6aa26b4868f50800000000000000
+      internalID: 6883334998416863498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Black_Knight_Attack_v1_0: -6032838726514861336
+      Black_Knight_Attack_v1_1: -1216231154118470953
+      Black_Knight_Attack_v1_10: -755508350820533975
+      Black_Knight_Attack_v1_11: 2331682575650352380
+      Black_Knight_Attack_v1_12: -4681092621255316951
+      Black_Knight_Attack_v1_13: -4509272537035954727
+      Black_Knight_Attack_v1_14: -1506673539257206132
+      Black_Knight_Attack_v1_15: -4459496290716820131
+      Black_Knight_Attack_v1_16: 6561142221710918913
+      Black_Knight_Attack_v1_17: 4555669736251565668
+      Black_Knight_Attack_v1_18: -3144187915977313823
+      Black_Knight_Attack_v1_19: -1971600930214660180
+      Black_Knight_Attack_v1_2: 4423896351678758077
+      Black_Knight_Attack_v1_20: 1937672107728314506
+      Black_Knight_Attack_v1_21: 4105768350880999560
+      Black_Knight_Attack_v1_22: -4524148793379373649
+      Black_Knight_Attack_v1_23: 3536011870772609729
+      Black_Knight_Attack_v1_24: 6526941310502732158
+      Black_Knight_Attack_v1_25: -458424387299569653
+      Black_Knight_Attack_v1_26: -4479852178734463400
+      Black_Knight_Attack_v1_27: 7949808874370962712
+      Black_Knight_Attack_v1_28: 437672034548013844
+      Black_Knight_Attack_v1_29: 3901552061346436740
+      Black_Knight_Attack_v1_3: 2643580606202083919
+      Black_Knight_Attack_v1_30: -1739897836912366933
+      Black_Knight_Attack_v1_31: -1019987056358649937
+      Black_Knight_Attack_v1_32: -2952889844366259633
+      Black_Knight_Attack_v1_33: -814138515745688932
+      Black_Knight_Attack_v1_34: -5519817206467036393
+      Black_Knight_Attack_v1_35: -1074385322670200870
+      Black_Knight_Attack_v1_36: 7015129660407491684
+      Black_Knight_Attack_v1_37: 5539351039690037507
+      Black_Knight_Attack_v1_38: 3033434167259190148
+      Black_Knight_Attack_v1_39: -4156966976232840912
+      Black_Knight_Attack_v1_4: -932576804031017092
+      Black_Knight_Attack_v1_40: 7871268137794333948
+      Black_Knight_Attack_v1_41: -4869220050483745384
+      Black_Knight_Attack_v1_42: -5853102584371299983
+      Black_Knight_Attack_v1_43: -4368041841936426287
+      Black_Knight_Attack_v1_44: -2837395626232710563
+      Black_Knight_Attack_v1_45: -1139567502815037459
+      Black_Knight_Attack_v1_46: 1882704808314287206
+      Black_Knight_Attack_v1_47: 6461907086158829296
+      Black_Knight_Attack_v1_48: -2646738516948366396
+      Black_Knight_Attack_v1_49: -6787821192593707567
+      Black_Knight_Attack_v1_5: 3309707252425808238
+      Black_Knight_Attack_v1_50: 8170115247549846107
+      Black_Knight_Attack_v1_51: -3426064715485089661
+      Black_Knight_Attack_v1_52: -4815305928456003967
+      Black_Knight_Attack_v1_53: 6240426123873537866
+      Black_Knight_Attack_v1_54: 6632784992419547994
+      Black_Knight_Attack_v1_55: 5402926522019622924
+      Black_Knight_Attack_v1_56: 677276950708092347
+      Black_Knight_Attack_v1_57: -4228361325211787935
+      Black_Knight_Attack_v1_58: 7567053755453439277
+      Black_Knight_Attack_v1_59: 8158929343708446677
+      Black_Knight_Attack_v1_6: -898393936524496336
+      Black_Knight_Attack_v1_60: -5048670492607374639
+      Black_Knight_Attack_v1_61: 849841177289694486
+      Black_Knight_Attack_v1_62: 1869768461909429217
+      Black_Knight_Attack_v1_63: 8325481776948978626
+      Black_Knight_Attack_v1_64: -781972574660963046
+      Black_Knight_Attack_v1_65: 2767068974186776682
+      Black_Knight_Attack_v1_66: -3501791359475719220
+      Black_Knight_Attack_v1_67: -6951207679459555288
+      Black_Knight_Attack_v1_68: 539371063780554454
+      Black_Knight_Attack_v1_69: 8528065898110785024
+      Black_Knight_Attack_v1_7: -6462770862303765935
+      Black_Knight_Attack_v1_70: 5846386699373809068
+      Black_Knight_Attack_v1_71: 3430384518873589907
+      Black_Knight_Attack_v1_72: -1859440849695218243
+      Black_Knight_Attack_v1_73: -5898793300113239080
+      Black_Knight_Attack_v1_74: -2165985780083796989
+      Black_Knight_Attack_v1_75: 6883334998416863498
+      Black_Knight_Attack_v1_8: 8331097159137332744
+      Black_Knight_Attack_v1_9: -6114665731785261781
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

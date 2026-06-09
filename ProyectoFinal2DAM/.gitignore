@@ -1,15 +1,30 @@
-# =====================
-# Unity
-# =====================
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
-[Mm]emoryCaptures/
+UserSettings/
+MemoryCaptures/
 
-# Archivos de Unity generados
+# Visual Studio / VS Code
+.vs/
+.vscode/
+
+# JetBrains Rider
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Crash reports
+sysinfo.txt
+
+# Addressables
+ServerData/
+
+# Unity generated
 *.csproj
 *.unityproj
 *.sln
@@ -19,17 +34,14 @@
 *.userprefs
 *.pidb
 *.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
 
-# Crash reports
-sysinfo.txt
+# Packages cache
+Packages/packages-lock.json
 
-# =====================
-# Sistema
-# =====================
-.DS_Store
-Thumbs.db
-
-# =====================
-# Logs
-# =====================
-*.log
+# Aider cache (optional)
+.aider*

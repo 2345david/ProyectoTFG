@@ -3,6 +3,11 @@ using Metroidvania.Gameplay;
 
 namespace EnemyScript
 {
+    /// <summary>
+    /// Maneja los enemigos de una habitación. Cuando el jugador entra, puede crear de nuevo
+    /// a los enemigos; y cuando sale, puede borrarlos. Para saber cuándo el jugador entra o
+    /// sale, "escucha" los avisos OnEnter/OnExit de la habitación (RoomController).
+    /// </summary>
     public class RoomEnemyManager : MonoBehaviour
     {
         [Header("Prefab de Enemigos")]
@@ -19,14 +24,18 @@ namespace EnemyScript
         [Tooltip("Coordenadas locales (offset) respecto al centro de la habitación.")]
         public Vector3 spawnOffset = Vector3.zero;
 
+        // La habitación a la que pertenece este gestor (está en el mismo objeto).
         private RoomController _room;
+        // El grupo de enemigos que tenemos creado ahora mismo en la habitación.
         private GameObject _currentEnemiesInstance;
 
+        // Al despertar, guardamos la referencia a la habitación de este objeto.
         private void Awake()
         {
             _room = GetComponent<RoomController>();
         }
 
+        // Al activarse, empezamos a "escuchar" los avisos de entrar y salir de la habitación.
         private void OnEnable()
         {
             if (_room != null)
@@ -36,6 +45,7 @@ namespace EnemyScript
             }
         }
 
+        // Al desactivarse, dejamos de escuchar esos avisos (para evitar errores).
         private void OnDisable()
         {
             if (_room != null)
@@ -45,6 +55,7 @@ namespace EnemyScript
             }
         }
 
+        // El jugador entra: si está configurado, (re)genera los enemigos.
         private void HandleRoomEnter()
         {
             if (respawnOnEnter)
@@ -53,6 +64,7 @@ namespace EnemyScript
             }
         }
 
+        // El jugador sale: si está configurado, destruye los enemigos actuales.
         private void HandleRoomExit()
         {
             if (destroyEnemiesOnExit && _currentEnemiesInstance != null)
@@ -62,8 +74,10 @@ namespace EnemyScript
             }
         }
 
+        /// <summary>Borra los enemigos anteriores (si los hay) y crea un grupo nuevo de enemigos.</summary>
         public void RespawnEnemies()
         {
+            // Si ya teníamos enemigos creados, primero los borramos.
             if (_currentEnemiesInstance != null)
             {
                 Destroy(_currentEnemiesInstance);
@@ -71,11 +85,11 @@ namespace EnemyScript
 
             if (enemiesContainerPrefab != null)
             {
-                // Instanciamos el prefab como hijo de la habitación.
-                // Al usar 'transform' como padre, las coordenadas del prefab se vuelven RELATIVAS a la habitación.
+                // Creamos el grupo de enemigos colgándolo de la habitación, así sus posiciones
+                // se miden tomando como referencia el centro de la habitación.
                 _currentEnemiesInstance = Instantiate(enemiesContainerPrefab, transform);
                 
-                // Posicionamos el contenedor según las coordenadas especificadas o el punto de spawn.
+                // Lo colocamos en el punto indicado, o usando el desplazamiento (offset) si no hay punto.
                 if (customSpawnPoint != null)
                 {
                     _currentEnemiesInstance.transform.position = customSpawnPoint.position;

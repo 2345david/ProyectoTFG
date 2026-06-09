@@ -1,0 +1,28 @@
+{
+    "asset": "da89102a66800344b8bba5d6839fea14",
+    "fileName": "019e3b27-18be-72eb-8921-2accbcaa5a71.png",
+    "prompt": "Skeleton Knight Boss, pixel art, gothic cemetery style, dark fantasy, full body, side view, high resolution, matching Gothicvania Cemetery art style",
+    "negativePrompt": "",
+    "model": "gpt-image-1",
+    "modelName": "GPT Image 1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

@@ -19,27 +19,27 @@ MonoBehaviour:
         - key:
             rid: 2851589485388365991
           value:
-            rid: 6651545268807794688
+            rid: 6651545289455566848
         - key:
             rid: 2851589485388365993
           value:
-            rid: 6651545268807794689
+            rid: 6651545289455566849
         - key:
             rid: 2851589485388365995
           value:
-            rid: 6651545268807794690
+            rid: 6651545289455566850
         - key:
             rid: 2851589485388365997
           value:
-            rid: 6651545268807794691
+            rid: 6651545289455566851
         - key:
             rid: 2851589485388365999
           value:
-            rid: 6651545268807794692
+            rid: 6651545289455566852
         - key:
             rid: 2851589485388366001
           value:
-            rid: 6651545268807794693
+            rid: 6651545289455566853
       previewSettings:
         sizeFactor: 1
   references:
@@ -75,27 +75,27 @@ MonoBehaviour:
       data:
         modality: Video
         mode: 6
-    - rid: 6651545268807794688
+    - rid: 6651545289455566848
       type: {class: ModelSelection, ns: Unity.AI.Image.Services.Stores.States, asm: Unity.AI.Image}
       data:
         modelID: gemini-3.1-flash
-    - rid: 6651545268807794689
+    - rid: 6651545289455566849
       type: {class: ModelSelection, ns: Unity.AI.Image.Services.Stores.States, asm: Unity.AI.Image}
       data:
         modelID: 
-    - rid: 6651545268807794690
+    - rid: 6651545289455566850
       type: {class: ModelSelection, ns: Unity.AI.Image.Services.Stores.States, asm: Unity.AI.Image}
       data:
         modelID: 
-    - rid: 6651545268807794691
+    - rid: 6651545289455566851
       type: {class: ModelSelection, ns: Unity.AI.Image.Services.Stores.States, asm: Unity.AI.Image}
       data:
         modelID: 
-    - rid: 6651545268807794692
+    - rid: 6651545289455566852
       type: {class: ModelSelection, ns: Unity.AI.Image.Services.Stores.States, asm: Unity.AI.Image}
       data:
         modelID: 
-    - rid: 6651545268807794693
+    - rid: 6651545289455566853
       type: {class: ModelSelection, ns: Unity.AI.Image.Services.Stores.States, asm: Unity.AI.Image}
       data:
         modelID: video-seedance-1-pro

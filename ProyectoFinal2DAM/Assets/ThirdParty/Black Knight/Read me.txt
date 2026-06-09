@@ -1,0 +1,71 @@
+===========================================
+ Black Knight - Asset Pack – Pixel Art
+===========================================
+
+🎨 Created by: [Fellor]
+📦 Version: 1.0
+📅 Release Date: [2025-09-22]
+🌐 Website / Itch.io: [https://fellor.itch.io/]
+
+-------------------------------------------
+📁 CONTENTS
+-------------------------------------------
+
+This pack includes the following:
+
+✅ 12 animation for a knight
+✅ Provided in formats:
+   - Sprite Sheets (PNG)
+✅ Looping and non-looping animations
+
+List of effects:
+- Idle 
+- Run
+- Jump
+- Mid air
+- Fall light
+- Fall heavy
+- Roll
+- Weapon on
+- Weapon off
+- Attack v1
+- Attack v2
+- Weapon Art
+
+List of images:
+- Banner Image
+- Cover Image
+- WEB Image
+
+
+Preview GIFs are included to demonstrate each animation.
+
+-------------------------------------------
+📜 LICENSE
+-------------------------------------------
+
+This asset pack is licensed under the following terms:
+
+✅ Free to use in personal and commercial projects  
+✅ No credit required (but always appreciated!)  
+❌ You may NOT redistribute or resell the assets as-is or as part of another asset pack
+
+See `license.txt` for full details.
+
+-------------------------------------------
+📌 HOW TO USE
+-------------------------------------------
+
+You can import the sprite sheets into your engine or editor and use slicing tools to break them into frames.  
+Or use the PNG sequences if your engine supports frame-by-frame animations (e.g. Unity, Godot, GameMaker).
+
+All animations are designed at 64x64 resolution. You can upscale them as needed.
+
+-------------------------------------------
+💌 CONTACT
+-------------------------------------------
+
+If you use the Pack in your project, I'd love to see it!  
+Feel free to message me at: [Instagram or Discord (You can find the links on Itch.io)]
+
+Thank you for downloading, and have fun creating!

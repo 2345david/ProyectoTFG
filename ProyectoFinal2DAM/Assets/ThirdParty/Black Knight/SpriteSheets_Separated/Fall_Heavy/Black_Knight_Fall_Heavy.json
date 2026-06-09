@@ -1,0 +1,79 @@
+{ "frames": {
+   "Black_Knight_All #Fall heavy 0.aseprite": {
+    "frame": { "x": 0, "y": 0, "w": 128, "h": 64 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 64 },
+    "sourceSize": { "w": 128, "h": 64 },
+    "duration": 75
+   },
+   "Black_Knight_All #Fall heavy 1.aseprite": {
+    "frame": { "x": 128, "y": 0, "w": 128, "h": 64 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 64 },
+    "sourceSize": { "w": 128, "h": 64 },
+    "duration": 75
+   },
+   "Black_Knight_All #Fall heavy 2.aseprite": {
+    "frame": { "x": 256, "y": 0, "w": 128, "h": 64 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 64 },
+    "sourceSize": { "w": 128, "h": 64 },
+    "duration": 75
+   },
+   "Black_Knight_All #Fall heavy 3.aseprite": {
+    "frame": { "x": 0, "y": 64, "w": 128, "h": 64 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 64 },
+    "sourceSize": { "w": 128, "h": 64 },
+    "duration": 75
+   },
+   "Black_Knight_All #Fall heavy 4.aseprite": {
+    "frame": { "x": 128, "y": 64, "w": 128, "h": 64 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 64 },
+    "sourceSize": { "w": 128, "h": 64 },
+    "duration": 75
+   },
+   "Black_Knight_All #Fall heavy 5.aseprite": {
+    "frame": { "x": 256, "y": 64, "w": 128, "h": 64 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 64 },
+    "sourceSize": { "w": 128, "h": 64 },
+    "duration": 75
+   }
+ },
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.15.2-x64",
+  "image": "Black_Knight_Fall_Heavy.png",
+  "format": "RGBA8888",
+  "size": { "w": 384, "h": 128 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Weapon ON", "from": 0, "to": 17, "direction": "forward", "color": "#000000ff" },
+   { "name": "Idle", "from": 18, "to": 23, "direction": "forward", "color": "#000000ff" },
+   { "name": "Heavy atk", "from": 24, "to": 63, "direction": "forward", "color": "#000000ff" },
+   { "name": "atk", "from": 64, "to": 103, "direction": "forward", "color": "#000000ff" },
+   { "name": "Roll", "from": 104, "to": 115, "direction": "forward", "color": "#000000ff" },
+   { "name": "Run", "from": 116, "to": 127, "direction": "forward", "color": "#000000ff" },
+   { "name": "Jump", "from": 128, "to": 133, "direction": "forward", "color": "#000000ff" },
+   { "name": "Mid air", "from": 134, "to": 134, "direction": "forward", "color": "#000000ff" },
+   { "name": "Fall light", "from": 135, "to": 140, "direction": "forward", "color": "#000000ff" },
+   { "name": "Fall heavy", "from": 141, "to": 146, "direction": "forward", "color": "#000000ff" },
+   { "name": "weapon art", "from": 147, "to": 181, "direction": "forward", "color": "#000000ff" },
+   { "name": "FX", "from": 170, "to": 177, "direction": "forward", "color": "#000000ff" },
+   { "name": "weapon off", "from": 182, "to": 195, "direction": "forward", "color": "#000000ff" }
+  ],
+  "layers": [
+   { "name": "Flattened", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}
